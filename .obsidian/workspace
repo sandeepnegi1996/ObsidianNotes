@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "36d650b026b5b13c",
   "lastOpenFiles": [
-    "README.md.md",
+    "README.md",
     "WorkON/User not able to approve-6th-April-2022.md",
     "Jorurnaling/06-April-2022.md",
     "Principles $ Philosphies/Thinking an Linking.md",
