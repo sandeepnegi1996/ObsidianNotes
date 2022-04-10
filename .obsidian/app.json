@@ -1,8 +1,15 @@
 {
   "alwaysUpdateLinks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "spellcheck": true,
   "spellcheckDictionary": [
     "Journaling"
-  ]
+  ],
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
