@@ -5,6 +5,8 @@
 ## TCS 
 12 LPA fixed and 1 Lakh Bonus 
 
+-checking
+
 
 ## Stay Calm during negotitation
 - since there may be a chance you will met the same person again
