@@ -1,5 +1,5 @@
 ## Time Elasticity 
-
+---
 - Human being has broken the time into linear fashion, hours , minutes, seconds, years and days/
 
 Clock was created to measure time and improve ourselves but it has become a dreaded(fearful)  instrument that records time inexorably(relentless) slipping away. 
@@ -7,14 +7,14 @@ Clock was created to measure time and improve ourselves but it has become a drea
 Time is Elastic
 
 #### 4 Ways to Stretch your time
-
+---
 ##### Use Your Time to Work Toward Achieving Your Best Life
 -  Spend your time only on things that will give you your best life.
 -  Set Milestone to reach that goal
 -  Break Goals, into smaller goals and into smaller chunks and then plan each day to reach or complete that smaller goals.
 
 - [[What is my Best Life Looks Like ]]
-
+---
 
 ##### Apply the Law of Straight Lines.
 - Geometry concept : shortest path between two points is a straight line

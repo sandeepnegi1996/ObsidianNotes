@@ -1,4 +1,75 @@
 # TODO
+Date: 10-04-2022
+- [ ] [[How to sync obsidian Vault using Github]]
+- [ ] I want 15 LPA Package as a Software Developer
+
+#### Pending 
+- Offer letter Date --> page 4 it is mentioned
+- Form 16 Part A   --> downloaded --> upload pending
+- e-nomination --> done --> recheck pending
+- Passport --> apply again
+- Voterid  --> recheck
+
+contact kokela and inform her about the joining date and upload the form 16 Part A
+
+
+- [ ] interview questions asked in deloitte  
+- [ ] Tomorrow Java Interview 
+- [ ] 
+- [x]  fix the  password in the pipelines. 
+- [x]  Check the copy task is not working in pipeline
+- [x]  Support for incident : [[INC000021985011-Pending]]
+- [ ]  Check the authentication fix for central search
+- [ ]  Take all bosch documents and upload to one drive to be future proof
+- [ ]  Use Obsidian walt as a git repo so that in other computer i can take all the data and use directly
+- [ ]  Talk to brother on living alone 
+		1. How to use that time to work on your self
+
+- [x]  check with hr for offer letter date and form 16 Part A
+- [ ]  Inform kokela that , in page 4 offer letter mentioned that doj will be informed later and this information is present int he payslip
+- [ ] Upload Form 16 Part A 2020-2021 to Cognizanat website 
+- [ ] Upload 4 page of offer letter in cognizant portal
+
+- [ ] Support Khoa to provide latest build
+- [ ] Contact friends and ask for referal
+- [ ] Wedding preparations 	
+	- [ ] Clothes and room etc
+
+
+
+1. Log nhi badaltein 
+	- only circumstances changes
+	- ignore those people 
+	- adhere : 
+	- remit  :  same bakchodi
+	- oppose : last case 
+
+
+Defence mechanism
+- 
+	
+
+
+1. personal knowledge management.
+2. How to publish directly from obsidian to online like , linkedin or hashnode or any other websites
+3. How to use obsidian as a software developer
+4. Create Presentation using obsidian using ---
+5. [[How to use Griller for Cooking Various Items ]]
+6. [[Interview Questions Java]]
+7. [[Walking Challenges for Donation]]
+8. [[Document Skills for Sister]]
+9. [[Overnight Oats Recipes]]
+10. Import medium stories to hashnode
+	1. https://hashnode.com/post/import-your-medium-stories-to-hashnode-in-5-steps-ckmahbxl4008bubs1e2ff1pj7
+
+11. [[How is Revel]]
+12. Maximising Productivity Podcast :
+	1. https://www.youtube.com/watch?v=aXvDEmo6uS4
+	
+
+
+11. jorunarling --> done 
+
 Date: 09-04-2022
 1. Learn All the configuration of the eureka server and how microservice is registered
 2. Learn how the deployment of microservice takes place
@@ -34,12 +105,7 @@ Asset : vimal.mohan@in.bosch.com
 https://rb-servicecatalog.apps.intranet.bosch.com/RequestCenter/website/Grunt/application/offer.html?id=3803)
 
 
-#### Pending 
-- Offer letter Date
-- Form 16 Part A
-- e-nomination
-- Passport
-- Voterid 
+
 
 
 #### 

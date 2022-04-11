@@ -3,7 +3,8 @@
   "showLineNumber": false,
   "spellcheck": true,
   "spellcheckDictionary": [
-    "Journaling"
+    "Journaling",
+    "Omlete"
   ],
   "promptDelete": false,
   "pdfExportSettings": {
@@ -11,5 +12,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "vimMode": false
 }
