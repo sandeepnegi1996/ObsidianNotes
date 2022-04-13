@@ -1,34 +1,63 @@
 # TODO
+
+Date : 13-04-2022
+- [ ] Shortcut to enter date in obsidian
+- [ ] [[Patch fix for the layout issue ]]
+- [ ] Prepare for Deloitte interview : 12:30 PM
+- [ ] [[Network or Connection List]]
+
 Date: 10-04-2022
-- [ ] [[How to sync obsidian Vault using Github]]
-- [ ] I want 15 LPA Package as a Software Developer
+
+#### Office 
+- [x] substityute added
+- [x] Request data in excel 
+	- [x] [[ WorkON RBCM (Gratuities Reporting Tool) ]]
+
+#### Personal
+- [ ] Dr Reddy Interview --> React bump up and Angular Revision
+- [ ] [[How giving tech interviews build my confidence ]]  
+- [x] Plan for the interview 11
+- [x] Study Questions of Java and Springboot for the interview
+- [ ] Follow up with TCS HR
+- [ ] Follow up with kokela
+- [x] Collect points on negotation from the screenshot
+- [x] Document the Questions shared by manish and the interview questions 
+- [ ] collect the information shared by megha 
+- [ ] [[All HR Contacts]]  
+
+**Obsidian is they way to do knowledge management since with blog i cannot revise the concepts faster but here i can revise it faster than ever :) **
+
 
 #### Pending 
 - Offer letter Date --> page 4 it is mentioned
 - Form 16 Part A   --> downloaded --> upload pending
 - e-nomination --> done --> recheck pending
-- Passport --> apply again
+- Passport --> apply again 
 - Voterid  --> recheck
 
 contact kokela and inform her about the joining date and upload the form 16 Part A
 
+- [x] [[Obsidian Sync]]
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 - [ ] interview questions asked in deloitte  
-- [ ] Tomorrow Java Interview 
-- [ ] 
+- [x] Tomorrow Java Interview 
 - [x]  fix the  password in the pipelines. 
 - [x]  Check the copy task is not working in pipeline
-- [x]  Support for incident : [[INC000021985011-Pending]]
-- [ ]  Check the authentication fix for central search
-- [ ]  Take all bosch documents and upload to one drive to be future proof
-- [ ]  Use Obsidian walt as a git repo so that in other computer i can take all the data and use directly
-- [ ]  Talk to brother on living alone 
+- [x]  Support for incident : [[INC000021985011]]
+- [ x ]  Supported Shrini for testing --> pending
+- [ ]  Central Search Downloads are not working
+- [x]  Take all bosch documents and upload to one drive to be future proof
+- [x]  Use Obsidian walt as a git repo so that in other computer i can take all the data and use directly
+- [x]  Talk to brother on living alone 
 		1. How to use that time to work on your self
 
 - [x]  check with hr for offer letter date and form 16 Part A
-- [ ]  Inform kokela that , in page 4 offer letter mentioned that doj will be informed later and this information is present int he payslip
-- [ ] Upload Form 16 Part A 2020-2021 to Cognizanat website 
-- [ ] Upload 4 page of offer letter in cognizant portal
+- [x]  Inform kokela that , in page 4 offer letter mentioned that doj will be informed later and this information is present int he payslip
+- [x] Upload Form 16 Part A 2020-2021 to Cognizanat website 
+- [x] Upload 4 page of offer letter in cognizant portal
 
 - [ ] Support Khoa to provide latest build
 - [ ] Contact friends and ask for referal
