@@ -1,0 +1,61 @@
+# Application Name issue 
+
+ 
+ Main User : DAG4FE
+ 
+ Substitute user : LAT2RNG
+ 
+ application name : DSGA 
+ 
+PS General Approval Form
+ 
+ EMEA P1
+
+Description: User wants to set Lang Thomas (PS-DI/EFC-EM2) [LAT2RNG] as his substitute on project specific:        
+
+
+#### Actual Name in the Project List
+General Approval Form for PS (DSGA)
+
+#### Problem Ticket
+- Find the name of application in WorkON Dashboard and match the name with the user profile page
+
+
+
+## Examples of Applications
+
+1. List of application whose name is different 
+	1. DSGA, GP -->
+		1.    RBAU PRS Gatepass Form
+		2. * PS General Approval [DSGA]  
+2. Invite Prabah and Harini about the issue
+3. Analayse 
+	1. Pros and Cons of Solutions
+4. Discuss with Tech lead 
+	1. Discussion about Problem and Solution
+5. Discuss with Ashok 
+	1. Discussion about Problem and Solution
+
+
+- ProjectList --> workon 
+- sync from dashboard to workon for the project list is working or not,
+
+
+Not changing in the Dashboard is the correct approac
+
+
+Please ask the user to search for the above mentioned request.
+
+This is the application name for the China Property Gate Pass Application
+
+
+## Action Points
+- Test in Q with changing the project name in Shared Db  (R: Harini)
+- Prabah opinion is required, how the sync works (R: Prabah)
+
+
+## MoM
+- Project list in user profile must be coming from shared db or individual db , we can change the value of the project there an test whether it is reflecting in the user profile or not. ( Harini)
+- Future Modification : to project name should be either synced automatically from the dashboard to workon or manually we need to update , ( Prabah point of view required)
+
+

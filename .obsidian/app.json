@@ -15,5 +15,6 @@
   },
   "vimMode": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "defaultViewMode": "preview"
 }

@@ -1,15 +1,39 @@
 # TODO
+#### Date
+checkout : https://450dsa.com/
+- [x] Create notes out of Driviz talk
+- [x] Create new resume based on driviz format
+- [x] Forward the resume to him
+- [x] Talk to parmar
+- Be disciplined and make your discipline your power and become your best version \
+- remote job
+	- we work remotely
+	- remote.co
+	- remote in tech
+- book reading benefits
+- [[Golang]]
+
+- [ ] [[Why russians are good coder]]
+-  Plan weekly meeitng with techie
+
+
+Date : 15-04-2022
+- [ ] https://www.codingame.com/evaluate/?id=52467645842d273ac90a0ca1d173c3b70771eaa   --> take this test coding game
+- [ ]  apply at JIO
+- [ ]  prepare one page for delloitte details similar to TCS and CTS details
+- [ ]  [[Jio-job]]
 
 Date : 13-04-2022
 - [ ] Shortcut to enter date in obsidian
 - [ ] [[Patch fix for the layout issue ]]
 - [ ] Prepare for Deloitte interview : 12:30 PM
 - [ ] [[Network or Connection List]]
+- [ ] Follow up TCS HR Evening
 
 Date: 10-04-2022
 
 #### Office 
-- [x] substityute added
+- [x] substitute added
 - [x] Request data in excel 
 	- [x] [[ WorkON RBCM (Gratuities Reporting Tool) ]]
 

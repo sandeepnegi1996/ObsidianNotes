@@ -36,7 +36,7 @@
 
 ### TCS Spring Boot interview Questions
 - [[Where is Database Configuration stored in Springboot application]]
-- [[Create a simple POST Controller]]
+- [x] [[Create a simple POST Controller]]
 - [[Difference between POST and PUT]]
 - [[What is hibernate ]]
 - [[Difference between inner join and Left outer join]]
@@ -58,7 +58,7 @@
 4. How to run multiple threads in java ?
 5. How to run two threads in java one after another ?
 6. What is map and flat map in streams ?
-7. What is Default Scope in java ?
+7. [[What is Default Scope in java]] ?
 8. What are the status codes in rest api ?
 	1. Name some status code from client and server side ?
 
@@ -67,4 +67,5 @@
 
 10. What is OAuth , How it works ?
 11. What is hibernate , how it works with example ?
-12. 
+12. [[What are the exceptions in java ]]
+13. [ ] [[throw vs throws]]

@@ -23,3 +23,22 @@
 
 
 
+=+_6<Y:ph5e4?VX
+
+
+Uploaded folder : patch-layout-fix --> root --> tmp/patch-layout-fix
+
+root/home/jadmin_q
+
+1. after login → login as rbadmin_app1
+2.  Get the password from the pam for the rbadmin_app1
+    1.  **Note : there are two users in the pam , rbadmin_app1 and rbadmin_app2**
+3.  After Login → **sudo su**
+4.  For EMEA Q2 → **su - wadminq2**
+
+
+[[How to patch fix inside WAR]]
+
+
+
+

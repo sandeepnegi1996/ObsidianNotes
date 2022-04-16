@@ -76,5 +76,8 @@ However, I am open to discussing the overall package as per company policy.
 
 
 
+## TCS HR 
 
-
+- tarun.g5@tcs.com
+- he told me maximum he has offer that will be 10 LPA that is also not sure ,
+- So first I will take this offer as of now and then i need to apply to other locaitons

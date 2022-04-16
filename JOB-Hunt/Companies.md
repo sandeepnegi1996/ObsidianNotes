@@ -1,36 +1,38 @@
-## LIST OF COMPANIES REMOTE JOB
+# Companies
 
-Meesho
-Upwork
-Twitter
-Coinbase Cloud
-Microsoft
-Reddit, Inc.
-SAP
-Salesforce
-Adobe
-Amazon
-Google
-Indeed.com
-LinkedIn
-Shopify
-Square
-Verizon
-Capital One
-Zoom
-Pinterest
-Box
-Lock&Stock
-GeeksforGeeks
-Chegg Inc.
-BrowserStack
-Angel One
-udaan.com
-Nagarro
-Anar Business Community App
-Emergn
+## LIST OF COMPANIES REMOTE JOB
+1. Meesho
+2. Upwork
+3. Twitter
+4. Coinbase Cloud
+5. Microsoft
+6. Reddit, Inc.
+7. SAP
+8. Salesforce
+9. Adobe
+10. Oracle
+11. Indeed.com
+12. LinkedIn
+13. Shopify
+14. Square
+15. Verizon
+16. Capital One
+17. Zoom
+18. Pinterest
+19. Box
+20. Lock&Stock
+21. GeeksforGeeks
+22. Chegg Inc.
+23. BrowserStack
+24. Angel One
+25. udaan.com
+26. Nagarro
+27. Anar Business Community App
+28. Emergn
+
 
 https://qween.in/ Check WFH opportunities
+
 
 List is go on, I will add the name with your help
 
@@ -62,8 +64,8 @@ ETL at R1 RCM --> Yahya Jami
 20. ETL --> yahya
 21. EY --> rikesh
 22. Siemens Healthineers --> Shariq
-23. hashdin
+23. *hashdin*
 24. infineon
 25. accenture
-26. 
+
 
