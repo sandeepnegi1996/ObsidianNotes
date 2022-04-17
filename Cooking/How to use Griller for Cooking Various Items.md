@@ -20,3 +20,14 @@
 	4. Fill it in the bread and put it in griller *simple enough*
 
 
+4. Pancake
+	1. Ingredients
+		1. Flour, eggs, baking soda, honey,dry fruits, vanilla essense, milk
+		2. Mix all of them and make a batter
+		3. make sure the thickness is not too much
+		4. Preheat the griller , add some oil and then add the batter
+		5. You need to atleast cook this for 4-5 mins each side 
+		6. Toast as much as you like,
+		7. cut into pieces add some honey and serve it :)
+	
+

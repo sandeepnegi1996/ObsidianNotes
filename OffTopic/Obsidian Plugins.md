@@ -1,8 +1,11 @@
 # My Favorite  Obsidian  Plugins 
 
 1. Calendars
-	- Create Daily notes 
-	- Review notes weekly enable this feature 
+	- Enabled weeks 
+	- use this with periodic notes and templates
+	- templates give the outer structure and the periodic notes will help to generate, daily, weekly and monthly notes
+
+
 2. Fantasy Calendar
 	-	Calendar on steoroids
 3. Dataview 
@@ -27,3 +30,9 @@
 	- Premium 
 11. Templater
 	- we can run javascript in our obsidian 
+
+
+----------------------------------------------------------------
+
+# New Plugins 
+1. 

@@ -189,4 +189,185 @@ func main() {
 
 ## Variables and Control Flow Statements
 
+-  How to assign a variable 
+```go
+var x string
+
+    x="first"
+
+    fmt.Println(x)
+```
+
+- How to reassign a same variable
+```go
+var x string
+
+    x="first"
+
+    fmt.Println(x)
+
+  
+
+    x="second"    // this is variable reassignment
+
+    fmt.Println(x)
+
+```
+
+- String == operator
+```go
+
+var t string="hello"
+
+    var k string ="hello"
+
+  
+
+    fmt.Println(t==k)
+
+```
+
+- Shorter way to assing variable
+```go
+//shorter form to create and assign variable
+
+    name:="sandeep"  
+    fmt.Println(name)
+
+    counter:=1
+    fmt.Println(counter)
+```
+
+- Scope of Variables 
+	- Go is lexically scoped using blocks means the variable will be only accessed within the block
+	- so if some variable is defined inside the func1 only func1 can access it but if some variable is defined outside func1 so other functions can also access it 
+```go
+package main
+
+import "fmt"
+
+  
+
+//main is the function it is automatically called which is similar way how java does it
+
+func main() {
+
+  
+
+    var name string="sandy"
+
+    fmt.Println(name)
+
+}
+
+  
+
+func main2() {
+
+    fmt.Println(name)
+
+}
+```
+
+Output : above program will give us undefined error since the variable name is lexically scoped only inside the main function
+
+### Constants
+- Assigned once and cannot be modified once assigned
+- These can be used when we want to use the same information across the complete code base
+- Instead of `var` just add 	`const`
+
+```go
+
+package main
+
+import "fmt"
+
+func main() {
+
+    const x string = "hello"
+
+    x="hello sandeep"
+
+  
+
+    fmt.Println(x)
+
+}
+```
+
+
+
+### Converting feets into meters
+```go
+
+// Converting feets intp meters
+
+  
+  
+
+package main
+
+import "fmt"
+
+  
+
+func main() {
+
+  
+
+    fmt.Println("Enter number of feets")
+
+    var input float64
+
+    fmt.Scanf("%f",&input)
+
+  
+
+    output:=input * 0.3048
+
+    fmt.Printf("Meter :  %f ",output)
+
+}
+```
+
+
+
+
+## Control Structure
+- for loop
+- if else
+- switch
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+
+  
+
+    for i:=1;i<=10;i++ {
+
+        if i%2==0 {
+
+            fmt.Println("even")
+
+        } else  {
+
+            fmt.Println("odd")
+
+        }
+
+    }
+
+  
+  
+
+}
+```
+
+
+
+## Arrays, Slices and Maps 
 - 

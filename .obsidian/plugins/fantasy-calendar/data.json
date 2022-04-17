@@ -1,0 +1,386 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Gregorian Calendar",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_8b8a6b2a0bfa"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_696868998b69"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_2a2809491ac8"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_7b89a87b5af9"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_8a2bc8487b48"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_38f98a0bf8fa"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_1bbb490afbe8"
+          }
+        ],
+        "months": [
+          {
+            "name": "January",
+            "type": "month",
+            "length": 31,
+            "id": "ID_48587a5b7889"
+          },
+          {
+            "name": "February",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fa69ba7a2a79"
+          },
+          {
+            "name": "March",
+            "type": "month",
+            "length": 31,
+            "id": "ID_7b49786b298b"
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 30,
+            "id": "ID_0a385bbbaac9"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 31,
+            "id": "ID_0b2bb8d9ab48"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 30,
+            "id": "ID_fac80ac93a9b"
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 31,
+            "id": "ID_cb8b089b1b98"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 31,
+            "id": "ID_5b88790bab29"
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 30,
+            "id": "ID_4b49e91ba9d8"
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 31,
+            "id": "ID_0b2809ca88a8"
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 30,
+            "id": "ID_d919fb2b1909"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 31,
+            "id": "ID_5a2acba9b96a"
+          }
+        ],
+        "moons": [],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "timespan": 1,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 0,
+            "id": "ID_08aa3aa9e8e8"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Before Christ",
+            "description": "",
+            "format": "Year {{abs_year}} - {{era_name}}",
+            "start": {
+              "year": -1,
+              "month": 0,
+              "day": 31
+            }
+          },
+          {
+            "name": "Anno Domini",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "start": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": true
+      },
+      "current": {
+        "day": 17,
+        "month": 3,
+        "year": 2022
+      },
+      "events": [
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "1103369",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Halloween",
+          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+          "id": "1103370",
+          "note": null,
+          "date": {
+            "day": 31,
+            "year": null,
+            "month": 9
+          },
+          "category": null
+        },
+        {
+          "name": "Work on this version of the Gregorian Calendar started.",
+          "description": "On this day, Aecius started to rework the Gregorian Calendar from scratch to make it work with the updates Wasp and Alex implemented since the summer of 2019.",
+          "id": "1103371",
+          "note": null,
+          "date": {
+            "day": 21,
+            "year": 2020,
+            "month": 0
+          },
+          "category": null
+        },
+        {
+          "name": "Introduction of the Gregorian Calendar",
+          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+          "id": "1103372",
+          "note": null,
+          "date": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          },
+          "category": null
+        },
+        {
+          "name": "morning-journal",
+          "description": null,
+          "date": {
+            "year": 2022,
+            "month": -1,
+            "day": 0
+          },
+          "id": "ID_2beaaab94898",
+          "note": "Jorurnaling/2022-04-17",
+          "category": null,
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 1,
+              "timespan": "days"
+            }
+          ],
+          "end": {
+            "day": 17,
+            "month": 3,
+            "year": 2022
+          }
+        },
+        {
+          "name": "Deep-work",
+          "description": null,
+          "date": {
+            "year": 2022,
+            "month": -1,
+            "day": 0
+          },
+          "id": "ID_2bf8bafa2b8b",
+          "note": null,
+          "category": null,
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 0,
+              "timespan": "days"
+            }
+          ],
+          "end": {
+            "day": 17,
+            "month": 3,
+            "year": 2022
+          }
+        },
+        {
+          "name": "workout",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_abbb1b4ada8a",
+          "note": null,
+          "category": null,
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 1,
+              "timespan": "days"
+            }
+          ]
+        },
+        {
+          "name": "deep-work",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_a899f8187b89",
+          "note": null,
+          "category": null,
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 1,
+              "timespan": "days"
+            }
+          ]
+        },
+        {
+          "name": "journal",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_db3a8b5bf8db",
+          "note": null,
+          "category": null,
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 1,
+              "timespan": "days"
+            }
+          ]
+        },
+        {
+          "name": "coding",
+          "description": null,
+          "date": {
+            "day": 17,
+            "month": 3,
+            "year": 2022
+          },
+          "id": "ID_9b5be8e81b8a",
+          "note": null,
+          "category": null,
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 1,
+              "timespan": "days"
+            }
+          ]
+        }
+      ],
+      "id": "ID_ca79aa29c888",
+      "categories": [],
+      "displayWeeks": true
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_ca79aa29c888",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": false
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

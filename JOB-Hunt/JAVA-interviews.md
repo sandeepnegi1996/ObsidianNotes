@@ -69,3 +69,38 @@
 11. What is hibernate , how it works with example ?
 12. [[What are the exceptions in java ]]
 13. [ ] [[throw vs throws]]
+
+
+## Delloite Interview Experience
+1. What is the use of Constructor in java 
+2. What are the types of Constructor possible in java
+3. Can we create final constructor
+4. What is the use of final keyword , is it possible to override the final class
+5. What is the static method , is it possible to override static methods
+6. What is the use of finally keyword 
+7. What is the default value of string 
+8. How to create map and list and store some values in map and list 
+9. **What is the use of interface**
+10. What is the Optional<T>
+11. How are you handling exception in your codebase
+12. How authentication works with spring security
+13. How Oauth works 
+
+
+## Spring boot 
+1. What are the possible annotations in springboot microservices
+2. What if we apply RequestMapping annotation to a class
+3. What is RestTemplate , This is synchronous
+4. What is the way to make Async call in sprinboot microservices.o
+
+
+
+
+
+
+
+
+
+
+
+
