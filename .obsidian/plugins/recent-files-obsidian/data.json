@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "How to handle real life exceptions in java",
+      "path": "JOB-Hunt/How to handle real life exceptions in java.md"
+    },
+    {
+      "basename": "2022-04-18",
+      "path": "Jorurnaling/2022-04-18.md"
+    },
+    {
+      "basename": "2022-04-19",
+      "path": "Jorurnaling/2022-04-19.md"
+    },
+    {
+      "basename": "What are the exceptions in java",
+      "path": "JOB-Hunt/What are the exceptions in java.md"
+    },
+    {
+      "basename": "JAVA-interviews",
+      "path": "JOB-Hunt/JAVA-interviews.md"
+    },
+    {
+      "basename": "Is it possible to implement multiple interfaces in single class, if yes how and if no why",
+      "path": "Is it possible to implement multiple interfaces in single class, if yes how and if no why.md"
+    },
+    {
+      "basename": "Interview Questions Java",
+      "path": "JOB-Hunt/Interview Questions Java.md"
+    },
+    {
+      "basename": "What is Immutable class in java",
+      "path": "JOB-Hunt/What is Immutable class in java.md"
+    },
+    {
+      "basename": "angular-interview-questions",
+      "path": "JOB-Hunt/angular-interview-questions.md"
+    },
+    {
+      "basename": "What are the core modules of Angular",
+      "path": "JOB-Hunt/What are the core modules of Angular.md"
+    },
+    {
+      "basename": "Angular history",
+      "path": "JOB-Hunt/Angular history.md"
+    },
+    {
+      "basename": "JavaScript-interview-questions",
+      "path": "JOB-Hunt/JavaScript-interview-questions.md"
+    },
+    {
+      "basename": "Job-Hunt",
+      "path": "JOB-Hunt/Job-Hunt.md"
+    },
+    {
+      "basename": "WorkON RBCM (Gratuities Reporting Tool)",
+      "path": "WorkON/WorkON RBCM (Gratuities Reporting Tool).md"
+    },
+    {
+      "basename": "INC000021938982",
+      "path": "WorkON/INC000021938982.md"
+    },
+    {
+      "basename": "INC000021876746",
+      "path": "WorkON/INC000021876746.md"
+    },
+    {
+      "basename": "INC000021989772-Pending",
+      "path": "WorkON/INC000021989772-Pending.md"
+    },
+    {
+      "basename": "INC000021985011",
+      "path": "WorkON/INC000021985011.md"
+    },
+    {
+      "basename": "INC000021960042-pending",
+      "path": "WorkON/INC000021960042-pending.md"
+    },
+    {
+      "basename": "Problem ticket",
+      "path": "WorkON/Problem ticket.md"
+    },
+    {
+      "basename": "PF",
+      "path": "WorkON/PF.md"
+    },
+    {
+      "basename": "INC000021846654",
+      "path": "WorkON/INC000021846654.md"
+    },
+    {
+      "basename": "Copy Task Failing",
+      "path": "WorkON/Copy Task Failing.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
       "basename": "Weekly Note Template",
       "path": "templates/Weekly Note Template.md"
     },
@@ -11,10 +107,6 @@
     {
       "basename": "2022-04-17",
       "path": "Jorurnaling/2022-04-17.md"
-    },
-    {
-      "basename": "2022-04-18",
-      "path": "Jorurnaling/2022-04-18.md"
     },
     {
       "basename": "Find minimum and maximum element in an array",
@@ -35,10 +127,6 @@
     {
       "basename": "stack in java",
       "path": "JOB-Hunt/striver-SDE1-sheet/stack in java.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     },
     {
       "basename": "How to use Griller for Cooking Various Items",
@@ -89,14 +177,6 @@
       "path": "WorkON/e-separation bosch.md"
     },
     {
-      "basename": "Interview Questions Java",
-      "path": "JOB-Hunt/Interview Questions Java.md"
-    },
-    {
-      "basename": "JAVA-interviews",
-      "path": "JOB-Hunt/JAVA-interviews.md"
-    },
-    {
       "basename": "throw vs throws",
       "path": "JOB-Hunt/throw vs throws.md"
     },
@@ -117,88 +197,8 @@
       "path": "JOB-Hunt/What is Default Scope in java.md"
     },
     {
-      "basename": "Job-Hunt",
-      "path": "JOB-Hunt/Job-Hunt.md"
-    },
-    {
       "basename": "Companies",
       "path": "JOB-Hunt/Companies.md"
-    },
-    {
-      "basename": "2022-W16",
-      "path": "weekly-journal/2022-W16.md"
-    },
-    {
-      "basename": "SDE1-roadmap",
-      "path": "JOB-Hunt/striver-SDE1-sheet/SDE1-roadmap.md"
-    },
-    {
-      "basename": "DS and Algo",
-      "path": "JOB-Hunt/striver-SDE1-sheet/DS and Algo.md"
-    },
-    {
-      "basename": "2022-W17",
-      "path": "weekly-journal/2022-W17.md"
-    },
-    {
-      "basename": "Everything I need to do",
-      "path": "Jorurnaling/Everything I need to do.md"
-    },
-    {
-      "basename": "Daily-journal",
-      "path": "Jorurnaling/Daily-journal.md"
-    },
-    {
-      "basename": "Time-Blocking",
-      "path": "Productivity/Time-Blocking.md"
-    },
-    {
-      "basename": "Task-Batching",
-      "path": "Productivity/Task-Batching.md"
-    },
-    {
-      "basename": "Day-Theming",
-      "path": "Productivity/Day-Theming.md"
-    },
-    {
-      "basename": "Time-Boxing",
-      "path": "Productivity/Time-Boxing.md"
-    },
-    {
-      "basename": "Golang introduction by Caleb Doxsey",
-      "path": "fullStack/Golang introduction by Caleb Doxsey.md"
-    },
-    {
-      "basename": "Golang",
-      "path": "fullStack/Golang.md"
-    },
-    {
-      "basename": "Obsidian Sync",
-      "path": "OffTopic/Obsidian Sync.md"
-    },
-    {
-      "basename": "Obsidian Shortcuts",
-      "path": "OffTopic/Obsidian Shortcuts.md"
-    },
-    {
-      "basename": "Obsidian Plugins",
-      "path": "OffTopic/Obsidian Plugins.md"
-    },
-    {
-      "basename": "Obsidian-Journey",
-      "path": "OffTopic/Obsidian-Journey.md"
-    },
-    {
-      "basename": "Resume Building",
-      "path": "Videos/Resume Building.md"
-    },
-    {
-      "basename": "Productivity",
-      "path": "Productivity/Productivity.md"
-    },
-    {
-      "basename": "Finance",
-      "path": "Finance/Finance.md"
     }
   ],
   "omittedPaths": [],

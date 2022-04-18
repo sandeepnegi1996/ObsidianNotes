@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "647f67003c9e821b",
+        "id": "e473928bcc09de52",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "JOB-Hunt/How to handle real life exceptions in java.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 342,
+    "collapsed": true
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -82,17 +87,27 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "JOB-Hunt/How to handle real life exceptions in java.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "694705989eafdc8b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1cbd74af282a569f",
@@ -111,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "647f67003c9e821b",
+  "active": "e473928bcc09de52",
   "lastOpenFiles": [
-    "templates/Weekly Note Template.md",
-    "weekly-journal/2022-W18.md",
-    "Jorurnaling/2022-04-17.md",
+    "JOB-Hunt/How to handle real life exceptions in java.md",
     "Jorurnaling/2022-04-18.md",
-    "JOB-Hunt/striver-SDE1-sheet/Find minimum and maximum element in an array.md",
-    "JOB-Hunt/striver-SDE1-sheet/Reverse the Array.md",
-    "JOB-Hunt/striver-SDE1-sheet/Array.md",
-    "JOB-Hunt/striver-SDE1-sheet/450 DSA Cracker.md",
-    "JOB-Hunt/striver-SDE1-sheet/stack in java.md",
-    "TODO.md"
+    "Jorurnaling/2022-04-19.md",
+    "JOB-Hunt/What are the exceptions in java.md",
+    "JOB-Hunt/JAVA-interviews.md",
+    "Is it possible to implement multiple interfaces in single class, if yes how and if no why.md",
+    "JOB-Hunt/Interview Questions Java.md",
+    "JOB-Hunt/What is Immutable class in java.md",
+    "JOB-Hunt/angular-interview-questions.md",
+    "JOB-Hunt/What are the core modules of Angular.md"
   ]
 }

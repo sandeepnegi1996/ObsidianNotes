@@ -125,28 +125,3 @@
     
 -   [ ] [30. What is a Temporal Dead Zone?](https://www.interviewbit.com/javascript-interview-questions/#temporal-dead-zone)
 
-
-
-## Angular Interview Questions 
--   [ ] What are the modules in spring boot project
--   [x] What is the meaning of REST API ?
--   [x] What are the annotation used by you at work in spring boot ?
--   [x] What is the use of RestController and autowired annotation
--   [x] What are the other annotations used in spring boot
--   [ ] What are the scopes in Springboot , types of scopes in springboot
--   [x] What the Stream api
--   [x] How to use stream api
--   [ ] What are the new features of the java 8 and what are the features we can use
--   [ ] How try and catch will work, how try and catch will work with resources
--   [ ] What is lambda
--   [ ] What are the checked and unchecked exceptions
--   [ ] What is convention or configuration principle ?
--   [ ] Why Angular Over React
--   [ ] What are the core modules of Angular
--   [ ] What is a Service? What are the various uses of the services ?
--   [ ] What is Observer ? how it is different from the promise ?
--   [ ] What is the way to bind the data from the Javascript to HTML files ?
--   [ ] What are the interceptors in angular and what is the use of the interceptors ?
--   [ ] What is the directive in angular ? When which directive is used, and why the directive start s with ng ?
--   [ ] What is a JIT and AIOT Compiler and how it works. ?
--   [ ] How to send data from the parent component to the child compoent and back from child component to the parent component

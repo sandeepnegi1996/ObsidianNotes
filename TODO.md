@@ -1,5 +1,7 @@
 # TODO
 
+# Latest
+
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
 - [ ] Solve java interview questions
 - [ ] Learn Go
@@ -11,8 +13,8 @@
 - [ ]  [[How giving tech interviews build my confidence ]]  
 - [x] note interview questions asked in deloitte   [[JAVA-interviews]]
 - [ ] How to use obsidian as a software developer
-- [ ] talk to gaurav bro kothari brother
-- [ ] [ ] [[How to use Griller for Cooking Various Items ]]
+- [x] talk to gaurav bro kothari brother
+- [x] [ ] [[How to use Griller for Cooking Various Items ]]
 - [ ]  [[Walking Challenges for Donation]]
 - [ ]  [ ] [[Document Skills for Sister]]
 - [ ] [[Overnight Oats Recipes]]

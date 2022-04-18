@@ -17,5 +17,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "attachments",
   "defaultViewMode": "preview",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "livePreview": false
 }

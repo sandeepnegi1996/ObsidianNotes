@@ -1,0 +1,2 @@
+- developed by Google techies 
+- earlier it was angular js later it became a open source framework that is angular

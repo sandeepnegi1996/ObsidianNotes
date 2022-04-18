@@ -1,14 +1,8 @@
 import java.util.Stack;
-
 class reverseArray {
-
-
-    
-
     public static void main(String[] args) {
        int[] inputArray= {5,6,7,8,9,10};
-
-
+       
     //    Solution 1 
        print the array in reversed order
        for (int i = inputArray.length-1; i >=0; i--) {
