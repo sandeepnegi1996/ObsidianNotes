@@ -1,4 +1,5 @@
 # What are the core modules of Angular
+#pending 
 
 ## Angular Background
 - [ ] [[Angular history]]

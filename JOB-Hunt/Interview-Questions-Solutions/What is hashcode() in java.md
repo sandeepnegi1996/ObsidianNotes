@@ -16,6 +16,7 @@
 ## hashcode()
 - hashcode function in java returns hashcode of the object
 - hashCode() func is basically present in Object class so anyone can overide it
+- #pending 
 [[Functions in Object Class in java ]]
 
 
@@ -31,7 +32,8 @@
 ### Examples
 1. When objects are equal hashCode is also equal
 
-```
+```java
+
 		String s1="100";
 		String s2="100"; 
 		
@@ -46,7 +48,7 @@
 
 
 2. When Objects are not equal hashCode is also not equal
-```
+```java
 		String s1="100";
 		String s2="500"; 
 		
@@ -60,4 +62,5 @@
 
 ```
 
+pending
 [[How HashMap stores data internally]]

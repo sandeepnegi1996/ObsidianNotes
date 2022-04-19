@@ -1,4 +1,6 @@
  # Java Interview Questions
+ #interview 
+ #java 
  Collections
 #interview
 
@@ -19,8 +21,8 @@
 - [x] [[What is functional Interface ]]
 - [x] [[ What are the features introduced in Java 8 ]]
 - [x] [[What is Lambda Expression in java8]]
-- [ ] [[What is Immutable class in java]]
-- [ ] [[What is hashcode() in java ]] 
+- [x] [[What is Immutable class in java]]
+- [x] [[What is hashcode() in java ]] 
 - [ ] [[What is equals() method in java]]
 - [ ] [[How HashMap stores data internally]]
 - [ ] [[What is Linked HashSet]]

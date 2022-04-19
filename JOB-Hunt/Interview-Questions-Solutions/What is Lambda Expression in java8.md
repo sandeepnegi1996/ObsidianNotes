@@ -1,12 +1,11 @@
 # What is Lambda Expression in java8
 
 - Functional interface : only one abstract method it can have other default methods or static method
-- Lambda expression implement the only abstract method in the interface
-
+- **Lambda expression implement the only abstract method in the interface**
 
 
 ### Simplest Functional Interface Example
-```
+```java
 
 interface FuncInterface
 {
@@ -30,14 +29,14 @@ class Test
 
 
 ### forEach with Lambda Expression
-```
+```java
 import java.util.ArrayList;
 class Test
 {
 	public static void main(String args[])
 	{
 		
-		ArrayList<Integer> arrL = new ArrayList<Integer>();
+		List<Integer> arrL = new ArrayList<Integer>();
 		arrL.add(1);
 		arrL.add(2);
 		arrL.add(3);
@@ -56,3 +55,5 @@ class Test
 }
 
 ```
+
+- [ ] [[for each method in java 8 with collections]]

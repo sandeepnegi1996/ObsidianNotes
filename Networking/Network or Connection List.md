@@ -20,3 +20,13 @@
 - accenture 
 	-https://www.linkedin.com/in/shiva-kumar-veligeti-170a0b133
 -  85208 54810 --> Joseph Winx Consultant
+
+
+
+## Contacts for dual remote job and freelance 
+- melaysia remote job : meghana@getrosoft.com [[Companies]]
+	- [ ] contact : 9820348044
+
+
+# HR
+- 8591968359

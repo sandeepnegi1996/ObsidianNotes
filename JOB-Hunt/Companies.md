@@ -69,3 +69,8 @@ ETL at R1 RCM --> Yahya Jami
 25. accenture
 
 
+## Remote Dual job
+- [ ] melaysia remote job : meghana@getrosoft.com
+	- [ ] contact : 9820348044
+	
+
