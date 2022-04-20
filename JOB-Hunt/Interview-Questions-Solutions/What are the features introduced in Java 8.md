@@ -49,6 +49,7 @@ vehicle.getOverview();
 
 ## Java Stream API for Bulk Data Operations
 #pending 
+- [x] [[What is stream api with examples]]
 
 ## Functional Interfaces and Lambda Expression
 #pending

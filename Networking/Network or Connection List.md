@@ -12,9 +12,12 @@
 11. Ashutosh
 12. Ayushi BSN
 13. Megha 
-14. Shagun
-15. Radz
-16. Chitz
+14. Shagun  --> Accenture
+15. Radz 
+16. *Chitz* --> ZS
+
+
+
 
 ## Contacts shared by megha
 - accenture 
@@ -30,3 +33,6 @@
 
 # HR
 - 8591968359
+
+
+2. Tek System : [pgurumoorthy@teksystems.com](mailto:pgurumoorthy@teksystems.com)

@@ -2,7 +2,7 @@
 link: https://450dsa.com/
 
 1. [[Array]]
-2. String   
+2. [[String]]   
 3. Search and Sort
 4. linked List
 5. Greedy

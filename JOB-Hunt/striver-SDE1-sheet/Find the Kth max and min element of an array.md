@@ -22,5 +22,11 @@ array is 7.
 3. so if k ka value is 2 we will find the minimum by traversing the array twice
 4. Similary if k value is 3 three time we are going to find the array min.
 
+
+## Solution 3 
+- use TreeSet : since elements are distinct no element will be lost 
+- and element will be sorted inside the TreeSet
+- now we need to find the element at a particular index
+
 ```java
 ```

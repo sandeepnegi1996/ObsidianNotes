@@ -26,8 +26,8 @@ General Approval Form for PS (DSGA)
 
 1. List of application whose name is different 
 	1. DSGA, GP -->
-		1.    RBAU PRS Gatepass Form
-		2. * PS General Approval [DSGA]  
+		1.    RBAU PRS Gatepass Form  --> *GP*
+		2. * PS General Approval  *DSGA*
 2. Invite Prabah and Harini about the issue
 3. Analayse 
 	1. Pros and Cons of Solutions
@@ -59,3 +59,27 @@ This is the application name for the China Property Gate Pass Application
 - Future Modification : to project name should be either synced automatically from the dashboard to workon or manually we need to update , ( Prabah point of view required)
 
 
+
+### Try harini approach
+1.  modify in db and check it is reflecting in user profile or not 
+2. original PNAME='PRS Gatepass Form'
+
+
+modified SHARED_PROJECT in Shared Db no change in project list 
+modified pPROJECT folder in AP Q1 no change in prpject list 
+```
+select * from SHARED_PROJECT where PKEY='GP';
+
+
+update  SHARED_PROJECT
+Set PNAME='RBAU PRS Gatepass Form'
+where PKEY='GP';
+
+
+
+update PROJECT
+set PNAME='RBAU PRS Gatepass Form'
+where PKEY='GP';
+
+```
+3. 

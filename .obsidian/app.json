@@ -14,9 +14,10 @@
     "downscalePercent": 100
   },
   "vimMode": false,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "attachments",
   "defaultViewMode": "preview",
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": false,
+  "newFileFolderPath": "unlinked"
 }

@@ -12,6 +12,3 @@
 - One : index : zeroCounter to (zeroCounter+oneCounter-1)
 - Two : index : zeroCounter + one Counter   to  end of Array
 
-
-## Solution 3 
-1. I store it in some collection and that will ba

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1db9966bb04a489a",
+        "id": "d1fcb6cf22aded08",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "unlinked/HLD and LLD.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -21,7 +25,6 @@
       {
         "id": "3ca0cdb3a385cb0c",
         "type": "tabs",
-        "dimension": 62.848297213622295,
         "children": [
           {
             "id": "b3a33c6de92fc8fd",
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,14 +48,7 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "564e39daf3b915bc",
-        "type": "tabs",
-        "dimension": 37.15170278637771,
-        "children": [
+          },
           {
             "id": "5efe720785950671",
             "type": "leaf",
@@ -65,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 298,
+    "collapsed": true
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -82,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unlinked/HLD and LLD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1db9966bb04a489a",
+  "active": "d1fcb6cf22aded08",
   "lastOpenFiles": [
-    "OffTopic/Obsidian Shortcuts.md",
-    "JOB-Hunt/striver-SDE1-sheet/450 DSA Cracker.md",
-    "JOB-Hunt/striver-SDE1-sheet/Array.md",
-    "JOB-Hunt/striver-SDE1-sheet/Reverse the Array.md",
-    "JOB-Hunt/JAVA-interviews.md",
-    "Jorurnaling/2022-04-24.md",
-    "TODO.md",
-    "JOB-Hunt/striver-SDE1-sheet/Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo.md",
-    "JOB-Hunt/striver-SDE1-sheet/Find the Kth max and min element of an array.md",
-    "JOB-Hunt/striver-SDE1-sheet/Find minimum and maximum element in an array.md"
+    "unlinked/HLD and LLD.md",
+    "Jorurnaling/2022-04-20.md",
+    "JOB-Hunt/interview questions hashedin.md",
+    "Jorurnaling/2022-04-21.md",
+    "WorkON/INC000022032108 --pending.md",
+    "unlinked/Dynamic Programming.md",
+    "JOB-Hunt/Longest palindrome in a string.md",
+    "WorkON/INC000021998043-done.md",
+    "unlinked/String.md",
+    "unlinked/Count and Say problem.md"
   ]
 }
