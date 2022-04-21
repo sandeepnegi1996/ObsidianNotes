@@ -18,6 +18,12 @@ https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
 - To reduce time complexity , we will be storing the results of sub-problems 
 - [ ] [[Dynamic Programming]]
 
+
+
+
+
+
+
 ## Solution 1
 -  find all the possible subtring
 - traverse only once and find all the substring 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d1fcb6cf22aded08",
+        "id": "6303407018462b18",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unlinked/HLD and LLD.md",
+            "file": "JOB-Hunt/striver-SDE1-sheet/Array.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unlinked/HLD and LLD.md",
+                "file": "JOB-Hunt/striver-SDE1-sheet/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d1fcb6cf22aded08",
+  "active": "6303407018462b18",
   "lastOpenFiles": [
-    "unlinked/HLD and LLD.md",
-    "Jorurnaling/2022-04-20.md",
-    "JOB-Hunt/interview questions hashedin.md",
-    "Jorurnaling/2022-04-21.md",
-    "WorkON/INC000022032108 --pending.md",
-    "unlinked/Dynamic Programming.md",
-    "JOB-Hunt/Longest palindrome in a string.md",
-    "WorkON/INC000021998043-done.md",
-    "unlinked/String.md",
-    "unlinked/Count and Say problem.md"
+    "JOB-Hunt/striver-SDE1-sheet/Array.md",
+    "JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md",
+    "unlinked/Kadane's Algorithm.md",
+    "unlinked/Array Questions Binary Search.md",
+    "JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md",
+    "JOB-Hunt/striver-SDE1-sheet/Move all the negative elements to one side of the array.md",
+    "JOB-Hunt/450 DSA Cracker.md",
+    "unlinked/linked List.md",
+    "unlinked/Detect loop in a linked list.md",
+    "unlinked/print the middle of a linked list.md"
   ]
 }
