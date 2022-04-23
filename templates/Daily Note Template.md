@@ -1,3 +1,8 @@
+*Just Perform 1% better then Yesterday*
+ 
+ *Focus Mode and Pomodoro and TimeBlocking* 
+
+
 
 ## Morning thoughts
 
@@ -31,6 +36,7 @@
 - [ ] Remove 5 contact
 - [ ] Pray for 5 mins , om namah shivay
 - [ ] DCG followed or not 
+- [ ] PMO followed
 
 ### Interview Prep
 - [ ] [[450 DSA Cracker]]

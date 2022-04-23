@@ -5,6 +5,7 @@
 
 
 ### Simplest Functional Interface Example
+[[What is functional Interface]]
 ```java
 
 interface FuncInterface

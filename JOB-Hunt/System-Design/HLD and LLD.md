@@ -37,9 +37,10 @@
 
 ### HLD Examples 
 1. [x] [[Design an ATM Machine]]
-2. Chess 
-3. Image Processing 
-4. Web Applications 
+2. [ ] [[Design a parking lot]]
+3. [ ] [[Design a Chess]]
+4. Image Processing 
+5. Web Applications 
 
 
 

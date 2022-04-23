@@ -1,3 +1,5 @@
+*Just Perform 1% better than Yesterday*
+
 # Things that went well
 
 # what i could have done better 
@@ -9,6 +11,7 @@
 - [ ] Review todo
 - [ ] Link and review notes
 
+# Relinking notes
 
 # Interviews 
 - [ ] Check one concept from Driviz Discussion or System Design 

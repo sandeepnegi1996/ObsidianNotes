@@ -14,7 +14,7 @@ This was the third round of interview and beleive me these guys literally thrash
 8. [[Logs method used in project like , info,warn,trce and their priority]]
 9. [[how to configure logs in the xml]]
 10. [[how to enable only warn log in production and info log in Q]]
-11. [ ] [[Comparator Vs Comparable]]
+11. [x] [[Comparator Vs Comparable]]
 12. [[If we don't want to handle exception in DAO layer how we can handle in Controller]]
 13. [[Iterator Vs list Iterator]]
 

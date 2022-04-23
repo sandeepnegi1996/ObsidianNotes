@@ -1,13 +1,16 @@
 # Time-Blocking
+[[Productivity]]
+
 #productivity
 #reading
+
 ```
 link : https://todoist.com/productivity-methods/time-blocking
 ```
 
 ## What is Time-Blocking
 
-- "A 40 hour time-blocked work week, I estimate, produces the same amount of output as a 60+ hour work week pursued without structure."
+- *"A 40 hour time-blocked work week, I estimate, produces the same amount of output as a 60+ hour work week pursued without structure."*
 
 — Cal Newport, Author of _Deep Work_
 
@@ -36,6 +39,7 @@ link : https://todoist.com/productivity-methods/time-blocking
 - knock out shallow work more eficiently
 - it makes you aware how you spend your time
 - when you schedule you tasks for a goal you are more likely to follow through
+- Application for pomodoro --> this can help for accountability so that we focus for that part on that particular task and we will not do anything else
 
 ![[Pasted image 20220417105939.png]]
 

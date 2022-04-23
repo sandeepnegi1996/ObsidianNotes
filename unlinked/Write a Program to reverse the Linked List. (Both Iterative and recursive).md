@@ -1,11 +1,16 @@
 # Write a Program to reverse the Linked List. (Both Iterative and recursive)
+#ds 
+#dsalgo/linkedlist
+[[450 DSA Cracker]]
+
 
 ## Solution 1:
 1.  create three pointer
 2. prev, curr, next
-3. as we travel we will move foward and remove ther back link and assign it to previous node 
+3. as we travel we will move foward and remove the link on the right side and create a new link with the back side 
 
 ```java
+
 class LinkedList {
     static Node head;
     static class Node {

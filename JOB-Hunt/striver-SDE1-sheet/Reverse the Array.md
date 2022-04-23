@@ -10,19 +10,20 @@ Output : reversed array
 - Take another array of same size
 - Traverse original array from end and store the elements in the new array
 
-## Solution 3
+## Solution 3 -> optimal 
 - In place reversal, 
 - swap first element with last 
-- and then second element with second last and so on 
+- and then second element with second last and so on
+- O(1) constant space
+- O(n/2) is time complexity 
 
 ## Solution 4 
 - Using Stack
 - Put the array elements in the stack and then take the elements out of the stack 
 - Store it in a separate array or put it in the same array
-- [[stack in java]]
+- [x] [[stack in java]]
 
-
-### All Solutions 
+## Code
 ```java 
 
 import java.util.Stack;

@@ -25,5 +25,4 @@ A[] = {1, 2, 3, 4, 5}
 
 
 ## Solution 3 : 
-1. From the last ttraverse and swap with adjacent element till you reach the first element
-2. 
+1.

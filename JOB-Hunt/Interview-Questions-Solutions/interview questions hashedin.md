@@ -1,5 +1,9 @@
 # interview questions hashedin
 
+
+## My Interview Experience 
+
+
 ## Sonali interview experience
 ### Round 1 
 1. Array and String
@@ -34,4 +38,18 @@
 ### Round 3 
 1. Managerial , impress the guy
 2. talk about your achivements and things you have build and about cloud and other technologies
-3. 
+
+
+## What is hashedin
+1. Cloud native development and Software engineering
+2. Native cloud devlivery
+3. smaller team owning a particular piece of subject
+4. pod based delivery model
+5. received Great place to work award
+6. hashedin university is basically a boot camp where it is primarliy focus is on cloud technologies and helping freshers to easily upskill
+7. it is 2 months intensive yet fun-filled unique training boot camp
+8. [ ] take extreme ownership
+
+### References
+https://hashedin.com/
+

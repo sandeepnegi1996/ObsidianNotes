@@ -18,7 +18,10 @@ https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
 - To reduce time complexity , we will be storing the results of sub-problems 
 - [ ] [[Dynamic Programming]]
 
-
+Example :
+1. cbebc --> if we knew beb is palindrome then we also know that cbebc will also be a palindrome
+2.  True --> Si to Sj is a palindrome
+3. False  --> Other wise 
 
 
 
@@ -60,7 +63,10 @@ https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
 
                 currentlength=s1.substring(i, s1.length()).length();
 
-  
+
+				// first check palindrome or not 
+				// if the string is pallindroe then only check the lenght
+				
 
                 if (currentlength>maxlength) {
 

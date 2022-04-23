@@ -1,9 +1,12 @@
 # What is Immutable class in java
 
-## How to create Immutable class in Java?
+
+## Introduction
+
 - once the object is created we cannot modify the content.
 - Example: Wrapper classes (Integer,Boolean,Byte,Short,String)
 
+## How to create Immutable class in Java?
 
 ### Properties
 1. class --> final --> child classes can't be created

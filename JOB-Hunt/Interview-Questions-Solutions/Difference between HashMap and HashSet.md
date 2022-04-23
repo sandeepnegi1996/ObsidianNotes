@@ -1,20 +1,25 @@
-# Difference between HashMap and HashSet
+# Difference between HashMap and HashSet 
+
+
+
+## Set 
+1. It will only store unique values
+2. HashSet --> store unique values and will not maintain order
+3. LinkedHashSet --> store unique values but will maintain order
+4. TreeSet --> unique , store in sorted format , and we can change this format too
 
 
 
 
-HashSet --> unique values, does not maintain order , add()
 
 
-HashMap --> unique key, values can  be duplicate , put()
-
-## maintains the order 
-
-TreeMap  --> implementation of map, it will maintain order and hashmap will not maintain
-
-
-LinkedHashSet --> it maintains the order of the elements stored in the hashset 
-- [ ] [[How to store using custom order in LinkedHashSet]]
+## Map
+1. Key and Values
+2. order is not maintained
+3. HashMap --> unique Keys , order is not maintained
+4. TreeMap --> unique keys , order is maintainet
 
 
-- [[TreeSet]]
+
+
+

@@ -4,10 +4,12 @@
 2. Workout Addiction
 3. Consulting and side sources of income
 4. Teaching as a passionate Teacher
+5. Generational Wealth [[How to Create Generational Wealth]]
 
 
 
 ### Techie 
+
 - Learn everyday in depth 
 - Code everyday
 - Build small projects

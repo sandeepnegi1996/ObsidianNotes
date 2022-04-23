@@ -3,11 +3,16 @@
 ## Solution 1
 - Sort the array 
 - Print the first and last element, first element is minimum and last element will be maximum
+- Arrays.sort --> its time complexity is `nlog(n)` for the worst case 
+- [ ] [[Time compexity in Algorithm]]
+- [ ] Time complexity   `n3`   >   `n2` > `nlog(n)`  > `n` > `logn`
 
 
 ## Solution 2
 - traverse and find the minimum 
 - Traverse and find the maximum
+- time complexity will n 
+- space O(1)
 
 ## Solution 3 
 -  it is related to solution 1 only, 
@@ -23,6 +28,8 @@ Side Note
 	- parallel sort will break the array into pieces and then sort and merge it , 
 	- it leverage different threads to do the sort
 
+
+## Code
 ```java
 import java.util.Arrays;
 
@@ -113,7 +120,9 @@ class Test {
 
   
 
-            List<Integer> sortedList= list.stream().sorted().collect(Collectors.toList());
+            List<Integer> sortedList=list.stream()
+								         .sorted()
+								         .collect(Collectors.toList());
 
   
 

@@ -1,32 +1,168 @@
 {
   "recentFiles": [
     {
-      "basename": "Array",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Array.md"
+      "basename": "2022-04-23",
+      "path": "Jorurnaling/DailyJournal/2022-04-23.md"
     },
     {
-      "basename": "find Largest sum contiguous Subarray [V. IMP",
-      "path": "JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md"
+      "basename": "java language learnings",
+      "path": "unlinked/java language learnings.md"
     },
     {
-      "basename": "Kadane's Algorithm",
-      "path": "unlinked/Kadane's Algorithm.md"
+      "basename": "printf for formatting",
+      "path": "unlinked/printf for formatting.md"
     },
     {
-      "basename": "Array Questions Binary Search",
-      "path": "unlinked/Array Questions Binary Search.md"
+      "basename": "JAVA-interviews",
+      "path": "JOB-Hunt/JAVA-interviews.md"
     },
     {
-      "basename": "Write a program to cyclically rotate an array by one",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
+      "basename": "Weekly Note Template",
+      "path": "templates/Weekly Note Template.md"
     },
     {
-      "basename": "Move all the negative elements to one side of the array",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Move all the negative elements to one side of the array.md"
+      "basename": "Daily Note Template",
+      "path": "templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Time-Blocking",
+      "path": "Productivity/Time-Blocking.md"
+    },
+    {
+      "basename": "Task-Batching",
+      "path": "Productivity/Task-Batching.md"
+    },
+    {
+      "basename": "Productivity",
+      "path": "Productivity/Productivity.md"
+    },
+    {
+      "basename": "How to learn code",
+      "path": "unlinked/How to learn code.md"
+    },
+    {
+      "basename": "videos",
+      "path": "Videos/videos.md"
+    },
+    {
+      "basename": "2022-04-22",
+      "path": "Jorurnaling/DailyJournal/2022-04-22.md"
+    },
+    {
+      "basename": "obsidian dataview",
+      "path": "unlinked/obsidian dataview.md"
+    },
+    {
+      "basename": "Resume Building",
+      "path": "Videos/Resume Building.md"
+    },
+    {
+      "basename": "SQL Queries interview questions",
+      "path": "unlinked/SQL Queries interview questions.md"
+    },
+    {
+      "basename": "2022-04-26",
+      "path": "Jorurnaling/DailyJournal/2022-04-26.md"
+    },
+    {
+      "basename": "database interview questions",
+      "path": "JOB-Hunt/database interview questions.md"
+    },
+    {
+      "basename": "What is Immutable class in java",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "2022-04-25",
+      "path": "Jorurnaling/DailyJournal/2022-04-25.md"
+    },
+    {
+      "basename": "2022-W18",
+      "path": "weekly-journal/2022-W18.md"
+    },
+    {
+      "basename": "What is dependency injection",
+      "path": "unlinked/What is dependency injection.md"
+    },
+    {
+      "basename": "What is IOC or dependency Injection",
+      "path": "unlinked/What is IOC or dependency Injection.md"
+    },
+    {
+      "basename": "How to sort list of Objects in java without Stream",
+      "path": "JOB-Hunt/How to sort list of Objects in java without Stream.md"
+    },
+    {
+      "basename": "Comparator Vs Comparable",
+      "path": "unlinked/Comparator Vs Comparable.md"
+    },
+    {
+      "basename": "What is Linked HashSet",
+      "path": "unlinked/What is Linked HashSet.md"
+    },
+    {
+      "basename": "Difference between HashMap and HashSet",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/Difference between HashMap and HashSet.md"
+    },
+    {
+      "basename": "How to store using custom order in LinkedHashSet",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/How to store using custom order in LinkedHashSet.md"
+    },
+    {
+      "basename": "Complete Sprinboot project REST API with MySQL",
+      "path": "unlinked/Complete Sprinboot project REST API with MySQL.md"
+    },
+    {
+      "basename": "What is equals() method in java",
+      "path": "unlinked/What is equals() method in java.md"
+    },
+    {
+      "basename": "What is primary key",
+      "path": "unlinked/What is primary key.md"
+    },
+    {
+      "basename": "HLD and LLD",
+      "path": "JOB-Hunt/System-Design/HLD and LLD.md"
+    },
+    {
+      "basename": "interview questions hashedin",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/interview questions hashedin.md"
+    },
+    {
+      "basename": "2022-04-21",
+      "path": "Jorurnaling/DailyJournal/2022-04-21.md"
+    },
+    {
+      "basename": "Coding-Problems",
+      "path": "JOB-Hunt/Coding-Problems.md"
+    },
+    {
+      "basename": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+      "path": "unlinked/Write a Program to reverse the Linked List. (Both Iterative and recursive).md"
     },
     {
       "basename": "450 DSA Cracker",
       "path": "JOB-Hunt/450 DSA Cracker.md"
+    },
+    {
+      "basename": "String",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/String.md"
+    },
+    {
+      "basename": "Longest palindrome in a string",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/Longest palindrome in a string.md"
+    },
+    {
+      "basename": "Search and Sort",
+      "path": "unlinked/Search and Sort.md"
+    },
+    {
+      "basename": "Find first and last positions of an element in a sorted array",
+      "path": "unlinked/Find first and last positions of an element in a sorted array.md"
     },
     {
       "basename": "linked List",
@@ -41,164 +177,28 @@
       "path": "unlinked/print the middle of a linked list.md"
     },
     {
-      "basename": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
-      "path": "unlinked/Write a Program to reverse the Linked List. (Both Iterative and recursive).md"
+      "basename": "Write a Program to reverse the Linked List. (Both Iterative and recursive",
+      "path": "unlinked/Write a Program to reverse the Linked List. (Both Iterative and recursive.md"
     },
     {
-      "basename": "2022-04-21",
-      "path": "Jorurnaling/2022-04-21.md"
+      "basename": "Array",
+      "path": "JOB-Hunt/striver-SDE1-sheet/Array.md"
     },
     {
-      "basename": "2022-04-20",
-      "path": "Jorurnaling/2022-04-20.md"
+      "basename": "Array Questions Binary Search",
+      "path": "unlinked/Array Questions Binary Search.md"
     },
     {
-      "basename": "Find first and last positions of an element in a sorted array",
-      "path": "unlinked/Find first and last positions of an element in a sorted array.md"
+      "basename": "find Largest sum contiguous Subarray [V. IMP",
+      "path": "JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md"
     },
     {
-      "basename": "Search and Sort",
-      "path": "unlinked/Search and Sort.md"
+      "basename": "Kadane's Algorithm",
+      "path": "unlinked/Kadane's Algorithm.md"
     },
     {
-      "basename": "General",
-      "path": "unlinked/General.md"
-    },
-    {
-      "basename": "Job-Hunt",
-      "path": "JOB-Hunt/Job-Hunt.md"
-    },
-    {
-      "basename": "Companies",
-      "path": "JOB-Hunt/companies/Companies.md"
-    },
-    {
-      "basename": "blob",
-      "path": "fullStack/blob.md"
-    },
-    {
-      "basename": "Finance",
-      "path": "Finance/Finance.md"
-    },
-    {
-      "basename": "Cooking",
-      "path": "Cooking/Cooking.md"
-    },
-    {
-      "basename": "_Dashboard",
-      "path": "_Dashboard.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
-      "basename": "2022-W18",
-      "path": "weekly-journal/2022-W18.md"
-    },
-    {
-      "basename": "2022-W17",
-      "path": "weekly-journal/2022-W17.md"
-    },
-    {
-      "basename": "2022-W16",
-      "path": "weekly-journal/2022-W16.md"
-    },
-    {
-      "basename": "Resume Building",
-      "path": "Videos/Resume Building.md"
-    },
-    {
-      "basename": "Longest palindrome in a string",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/Longest palindrome in a string.md"
-    },
-    {
-      "basename": "String",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/String.md"
-    },
-    {
-      "basename": "Check whether a String is Palindrome or not",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/Check whether a String is Palindrome or not.md"
-    },
-    {
-      "basename": "whether one string is a rotation of another",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/whether one string is a rotation of another.md"
-    },
-    {
-      "basename": "Find the Union and Intersection of the two sorted arrays",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Find the Union and Intersection of the two sorted arrays.md"
-    },
-    {
-      "basename": "Two Pointer Approach",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Two Pointer Approach.md"
-    },
-    {
-      "basename": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo.md"
-    },
-    {
-      "basename": "Find minimum and maximum element in an array",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Find minimum and maximum element in an array.md"
-    },
-    {
-      "basename": "Reverse the Array",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Reverse the Array.md"
-    },
-    {
-      "basename": "2022-04-22",
-      "path": "Jorurnaling/2022-04-22.md"
-    },
-    {
-      "basename": "Usecases of system design",
-      "path": "JOB-Hunt/System-Design/Usecases of system design.md"
-    },
-    {
-      "basename": "System Design",
-      "path": "JOB-Hunt/System-Design/System Design.md"
-    },
-    {
-      "basename": "CTSinfo",
-      "path": "JOB-Hunt/CTSinfo.md"
-    },
-    {
-      "basename": "TCS",
-      "path": "JOB-Hunt/TCS.md"
-    },
-    {
-      "basename": "Meals",
-      "path": "Workout/Meals.md"
-    },
-    {
-      "basename": "Patch fix for the layout issue",
-      "path": "WorkON/Patch fix for the layout issue.md"
-    },
-    {
-      "basename": "How to sort list of Objects in java without Stream",
-      "path": "JOB-Hunt/How to sort list of Objects in java without Stream.md"
-    },
-    {
-      "basename": "Learn Salary Negotitation",
-      "path": "OffTopic/Learn Salary Negotitation.md"
-    },
-    {
-      "basename": "How to patch fix inside WAR",
-      "path": "fullStack/How to patch fix inside WAR.md"
-    },
-    {
-      "basename": "Is it possible to implement multiple interfaces in single class, if yes how and if no why",
-      "path": "JOB-Hunt/Is it possible to implement multiple interfaces in single class, if yes how and if no why.md"
-    },
-    {
-      "basename": "JAVA-interviews",
-      "path": "JOB-Hunt/JAVA-interviews.md"
-    },
-    {
-      "basename": "HLD and LLD",
-      "path": "JOB-Hunt/System-Design/HLD and LLD.md"
-    },
-    {
-      "basename": "Design an ATM Machine",
-      "path": "JOB-Hunt/System-Design/Design an ATM Machine.md"
+      "basename": "Write a program to cyclically rotate an array by one",
+      "path": "JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
     }
   ],
   "omittedPaths": [],

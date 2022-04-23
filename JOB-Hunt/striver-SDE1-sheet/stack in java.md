@@ -2,6 +2,10 @@
 #coding 
 #java 
 #stack #ds
+
+[[JAVA-interviews]]
+
+
 - Linear data structure
 - Order of operation LIFO (Last in first out)
 - FILO (first in last out)

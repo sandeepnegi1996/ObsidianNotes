@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6303407018462b18",
+        "id": "a3a5a5d3b977c5a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JOB-Hunt/striver-SDE1-sheet/Array.md",
+            "file": "Jorurnaling/DailyJournal/2022-04-23.md",
             "mode": "source",
             "source": true
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "java",
-                "matchingCase": false,
+                "query": "linked list",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298,
-    "collapsed": true
+    "width": 391
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOB-Hunt/striver-SDE1-sheet/Array.md",
+                "file": "Jorurnaling/DailyJournal/2022-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6303407018462b18",
+  "active": "a3a5a5d3b977c5a4",
   "lastOpenFiles": [
-    "JOB-Hunt/striver-SDE1-sheet/Array.md",
-    "JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md",
-    "unlinked/Kadane's Algorithm.md",
-    "unlinked/Array Questions Binary Search.md",
-    "JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md",
-    "JOB-Hunt/striver-SDE1-sheet/Move all the negative elements to one side of the array.md",
-    "JOB-Hunt/450 DSA Cracker.md",
-    "unlinked/linked List.md",
-    "unlinked/Detect loop in a linked list.md",
-    "unlinked/print the middle of a linked list.md"
+    "Jorurnaling/DailyJournal/2022-04-23.md",
+    "unlinked/java language learnings.md",
+    "unlinked/printf for formatting.md",
+    "JOB-Hunt/JAVA-interviews.md",
+    "templates/Weekly Note Template.md",
+    "templates/Daily Note Template.md",
+    "Productivity/Time-Blocking.md",
+    "Productivity/Task-Batching.md",
+    "Productivity/Productivity.md",
+    "unlinked/How to learn code.md"
   ]
 }

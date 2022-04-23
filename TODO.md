@@ -1,7 +1,7 @@
-# TODO
+# Everything i need to do
 
 # Latest
-
+- [ ] Get certification from hackerrank and solve questions on hakerrank
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
 - [ ] Solve java interview questions
 - [ ] Learn Go
@@ -20,6 +20,15 @@
 - [ ] [[Overnight Oats Recipes]]
 - [ ] How to do presentation using obsidian
 - [x]  [[e-separation bosch]]
+- [ ] Clean kitchen, wash utensils
+- [ ] Clean table
+- [ ] Wash clothes
+- [ ] Wash socks
+- [ ] Clean shoes
+- [ ] Organize the spaces 
+- [ ] reorganize the obsidian notes may be write something there in the notes and improve my productivity
+- [ ] play with ball
+- [ ] call a friend
 
 #### Old
 - [x] Add goloang in the CV

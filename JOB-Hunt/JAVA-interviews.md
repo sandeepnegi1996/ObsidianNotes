@@ -4,6 +4,25 @@
  Collections
 #interview
 
+
+## Java Learning from Hackerank
+[[java language learnings]]
+## Hashedin interview Questions 
+
+1. Custom Exceptions in springboot applications
+2. Types of Memory in java
+3. ArrayList and LinkedList and Vector when to use and why to use one over other
+4. Synchronized in ArrayList
+5. How TreeSet works 
+6. what is shutdown hook
+7. What are the names of exception checked and unchecked he want 4 names
+8. How to create immutable class in java
+9. @Controller Advise
+10. @Value 
+11. Difference between @Component and @Service annotation
+12. Traverse in spiral in 2D matrix
+13. array with n numbers , one repeated and one missing , find the repeated and missing=
+
 1. [ ]  [[Is it possible to implement multiple interfaces in single class, if yes how and if no why ]]
 2. [ ]  How we can maintain order of elements in the hashset ?
 3. [ ]  What is the signifance of interface in java ? why we use interfaces ?
@@ -17,30 +36,34 @@
 
 
 
+
+
+
 ## TCS interview Questions
 - [x] [[What is functional Interface ]]
+- [x] [[Complete Sprinboot project REST API with MySQL]]
 - [x] [[ What are the features introduced in Java 8 ]]
 - [x] [[What is Lambda Expression in java8]]
 - [x] [[What is Immutable class in java]]
 - [x] [[What is hashcode() in java ]] 
 - [ ] [[What is equals() method in java]]
 - [ ] [[How HashMap stores data internally]]
-- [ ] [[What is Linked HashSet]]
-- [ ] [[How to sort list of Objects in java without Stream]]
+- [x] [[What is Linked HashSet]]
+- [x] [[How to sort list of Objects in java without Stream]]
 - [x] [[How to Sort List of Objects using Streams in java]]
-- [ ] [[What is dependency injection]]
+- [x] [[What is dependency injection]]
 - [ ] [[Difference between Heap and Stack in Java]]
 - [ ] [[Call by Value and Call by reference in java]]
 - [ ] [[What is ORM]]
 - [ ] [[What is JDBC]]
-- [ ] [[Difference between HashMap and HashSet]]
-- [ ] 
+- [x] [[Difference between HashMap and HashSet]]
+- [x] [[Comparator Vs Comparable]]
 
 ### TCS Spring Boot interview Questions
-- [ ] [[Where is Database Configuration stored in Springboot application]]
+- [x] [[Where is Database Configuration stored in Springboot application]]
 - [x] [[Create a simple POST Controller]]
-- [ ] [[Difference between POST and PUT]]
-- [ ] [[What is hibernate ]]
+- [x] [[Difference between POST and PUT]]
+- [x] [[What is hibernate ]]
 - [ ] [[Difference between inner join and Left outer join]]
 
 
@@ -54,12 +77,12 @@
 
 
 ## Interview Experience
-1. [ ] When to use Abstract and when to use Interface ?
-2. [ ] What is Optional and implement interfaces ?
+1. [ ] [[When to use Abstract and when to use Interface]] ?
+2. [ ] [[What is Optional , with example]] ?
 3. [ ] How to run a thread in java ?
-4. [ ] How to run multiple threads in java ?
-5. [ ] How to run two threads in java one after another ?
-6. [ ] What is map and flat map in streams ?
+4. [ ] [[How to run multiple threads in java]] ?
+5. [ ] [[How to run two threads in java one after another]] ?
+6. [ ] [[What is map and flat map in streams]] ?
 7. [ ] [[What is Default Scope in java]] ?
 8. [ ] What are the status codes in rest api ?
 	1. [ ] Name some status code from client and server side ?
@@ -69,31 +92,31 @@
 
 10. [ ] What is OAuth , How it works ?
 11. [ ] What is hibernate , how it works with example ?
-12. [ ] [[What are the exceptions in java ]]
-13. [ ] [[throw vs throws]]
+12. [x] [[What are the exceptions in java ]]
+13. [x] [[throw vs throws]]
 
 
 ## Delloite Interview Experience
-1. [ ] What is the use of Constructor in java 
-2. [ ] What are the types of Constructor possible in java
+1. [x] What is the use of Constructor in java 
+2. [x] What are the types of Constructor possible in java
 3. [ ] Can we create final constructor
 4. [ ] What is the use of final keyword , is it possible to override the final class
 5. [ ] What is the static method , is it possible to override static methods
-6. [ ] What is the use of finally keyword 
-7. [ ] What is the default value of string 
-8. [ ] How to create map and list and store some values in map and list 
+6. [x] What is the use of finally keyword 
+7. [x] What is the default value of string  --> null
+8. [x] How to create map and list and store some values in map and list  
 9. [ ] **What is the use of interface**
-10. [ ] What is the Optional<T>
+10. [ ] What is the Optiona
 11. [ ] How are you handling exception in your codebase
 12. [ ] How authentication works with spring security
 13. [ ] How Oauth works
 
 
 ##  Spring boot 
-1. [ ] What are the possible annotations in springboot microservices
-2. [ ] What if we apply RequestMapping annotation to a class
+1. [x] [[What are the possible annotations in springboot microservices]]
+2. [x] What if we apply RequestMapping annotation to a class
 3. [ ] What is RestTemplate , This is synchronous
-4. [ ] What is the way to make Async call in sprinboot microservices.o
+4. [ ] [[What is the way to make Async call in sprinboot microservices.]]
 
 
 

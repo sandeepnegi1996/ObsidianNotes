@@ -6,7 +6,7 @@
     "Journaling",
     "Omlete"
   ],
-  "promptDelete": false,
+  "promptDelete": true,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
@@ -19,5 +19,6 @@
   "defaultViewMode": "preview",
   "legacyEditor": false,
   "livePreview": false,
-  "newFileFolderPath": "unlinked"
+  "newFileFolderPath": "unlinked",
+  "trashOption": "none"
 }

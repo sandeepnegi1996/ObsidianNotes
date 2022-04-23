@@ -26,7 +26,7 @@ arr[] = { 1, 3, 5, 5, 5, 5, 67, 123, 125 }
 	- when we found the elment , res=mid and we move to the right
 
 
-- code to find the left index
+####  code to find the left index 
 ```java
 int left=0;
 
@@ -69,7 +69,7 @@ int left=0;
        }
 ```
 
-- code to find the right index
+#### code to find the right index
 ```java
   int arr[] ={ 1, 3, 5, 5, 5, 5, 67, 123, 125 };
 

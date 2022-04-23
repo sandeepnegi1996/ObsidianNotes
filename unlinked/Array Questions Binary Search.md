@@ -1,4 +1,5 @@
 # Binary Search 
+[[450 DSA Cracker]]
 1. most efficient searching algorithm
 2. log(n)
 3. works on sorted data 

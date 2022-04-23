@@ -11,4 +11,20 @@
 - Zero : index : 0 to zeroCounter-1
 - One : index : zeroCounter to (zeroCounter+oneCounter-1)
 - Two : index : zeroCounter + one Counter   to  end of Array
+- Time complecity is O(n)
+- O(n) + O(n) = finding count + Putting the element in the array
 
+
+
+
+
+
+
+## [[Dutch National Flag Approach]]
+1. ![[1_K9D3B2gTTsg87BgQoYF7fw.png]]
+
+## Solution 3
+1. Store the elements in priority Queue
+2. and then pop the elements from the priority queue
+3. or store it back to the same array
+4. [ ] [[Priority Queue in java]]

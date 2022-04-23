@@ -1,7 +1,7 @@
 # print the middle of a linked list
 
 
-## Solution 1:
+## Solution 1: Optimal
 - use two pointer apprach, fast and slow 
 - fast jumps twice and slow jumps single times 
 - later when fast reaches end we can print the element at the slow location
