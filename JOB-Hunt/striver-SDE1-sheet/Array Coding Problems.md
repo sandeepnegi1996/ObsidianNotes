@@ -5,7 +5,15 @@
 - [x] [[Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo]]
 - [x] [[Move all the negative elements to one side of the array]]
 - [ ] [[Find the Union and Intersection of the two sorted arrays]] --> optimal solution pending
-- [ ] [[Write a program to cyclically rotate an array by one]] --> optimal solution pending
+- [x] [[Write a program to cyclically rotate an array by one]] 
 - [x] [[find Largest sum contiguous Subarray [V. IMP]]
+
+
+
+
+
+
 - [ ] [[Array Questions Binary Search]]
-- [ ] 
+- [ ] [[two pointer problems]]
+- [ ] [[Sliding window]]
+- [ ] [[array questions using hashmap]]

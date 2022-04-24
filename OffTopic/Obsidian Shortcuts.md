@@ -8,4 +8,8 @@
 6. How to move to preview mode with a shortcut : ctrl + E 
 7. Hot Keys 
 8. Word Count 
-9. 
+9. shortcut extender : ```
+
+```
+ctrl 1 to ctrl 6 for heading and ctrl ` for code block
+```

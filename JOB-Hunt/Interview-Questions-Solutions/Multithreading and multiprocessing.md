@@ -5,7 +5,7 @@
 ## Multithreading
 - threads, are there, each thread will run some portion of the code, and it will run
 - Parallel to each other and concurrently.
-- these thread uses same memory space from the parent process.
+- *these thread uses same memory space from the parent process.*
 - save memory (by utilizing under utilized memory)
 - increase computing speed ( since now we have more workers *thread*)
 

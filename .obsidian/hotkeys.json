@@ -7,13 +7,22 @@
       "key": "M"
     }
   ],
-  "graph:animate": [
+  "workspace:export-pdf": [],
+  "insert-template": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "1"
+      "key": "T"
     }
   ],
-  "workspace:export-pdf": []
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
 }

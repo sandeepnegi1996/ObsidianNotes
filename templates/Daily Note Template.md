@@ -19,10 +19,6 @@
 
 - [ ] Check Email
 
-- [ ] Check Teams
-
-- [ ] Check showing online
-
 - [ ] Check Calendar - Time Block
 
 
@@ -32,6 +28,8 @@
 - [ ] Workout
 - [ ] planning for next day
 - [ ] Add items from the TODO list here
+- [ ] Strech 2 times and sit straight
+- [ ] Drink water 
 - [ ] Call any one friend from friend list [[Network or Connection List]]
 - [ ] Remove 5 contact
 - [ ] Pray for 5 mins , om namah shivay
@@ -49,10 +47,10 @@
 
 - [ ] Clean Unused Headings in Daily Log
 
-- [ ] Check tomorrow's calendar
+- [ ] Check tomorrow's calendar and do time-block
 
 
 ## Future You
+1. Best life 
 ## Daily Review  
-
 

@@ -24,5 +24,47 @@ A[] = {1, 2, 3, 4, 5}
 3. then put back the element in the temp to start
 
 
-## Solution 3 : 
-1.
+## Solution 3 : optimal 
+1. *two pointer approach*
+2. swap low with high but do not change the high only increase the low
+
+```java
+       int arr[]={5,6,2,1,8};
+
+  
+
+        //out put : 8,5,6,2,1
+
+  
+
+        int low=0;
+
+        int high=arr.length-1;
+
+  
+
+        int temp=0;
+
+        while (low<=high) {
+
+  
+
+            temp=arr[low];
+
+            arr[low]=arr[high];
+
+            arr[high]=temp;
+
+            low++;
+
+        }
+
+  
+
+        for (int i : arr) {
+
+                System.out.print(i+" ");
+
+        }
+
+```

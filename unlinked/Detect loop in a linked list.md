@@ -2,7 +2,7 @@
 #java 
 #coding 
 #dsalgo 
-[[linked List]]
+[[linked List coding problems]]
 
 ## Solution (optimal)
 1. We can use two pointer, fast and slow

@@ -1,6 +1,9 @@
 # Everything i need to do
 
+
 # Latest
+- [ ] https://github.com/tuan3w/obsidian-template
+	- [ ] check above mentioned link, learn from it or also send some pull request to improve it
 - [ ] Get certification from hackerrank and solve questions on hakerrank
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
 - [ ] Solve java interview questions

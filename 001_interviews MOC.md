@@ -1,0 +1,11 @@
+# Interviews MOC
+
+- [[JAVA-interviews | java interview Questions]]
+- [[spring boot interview questions]]
+- [[database interview questions]]
+- [[Datastructure]]
+- [[Algorithms]]
+- [[Coding Questions]]
+- [[angular-interview-questions]]
+- [[System Design]]
+- [[Companies]]

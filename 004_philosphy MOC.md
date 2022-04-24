@@ -1,0 +1,2 @@
+- [ ] [[Every coin has two sides]]
+- [ ] [[Everything in this world is having advantages and disadvantages]]

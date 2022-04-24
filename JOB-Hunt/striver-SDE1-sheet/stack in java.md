@@ -12,6 +12,9 @@
 
 
 ## 4 basic operations 
+
+^1b0739
+
 1. push
 2. pop
 3. peek

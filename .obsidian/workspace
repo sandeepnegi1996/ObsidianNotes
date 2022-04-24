@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a5a5d3b977c5a4",
+        "id": "7b041296bbb64434",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jorurnaling/DailyJournal/2022-04-23.md",
+            "file": "001_interviews MOC.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jorurnaling/DailyJournal/2022-04-23.md",
+                "file": "001_interviews MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3a5a5d3b977c5a4",
+  "active": "7b041296bbb64434",
   "lastOpenFiles": [
-    "Jorurnaling/DailyJournal/2022-04-23.md",
-    "unlinked/java language learnings.md",
-    "unlinked/printf for formatting.md",
-    "JOB-Hunt/JAVA-interviews.md",
-    "templates/Weekly Note Template.md",
-    "templates/Daily Note Template.md",
-    "Productivity/Time-Blocking.md",
-    "Productivity/Task-Batching.md",
-    "Productivity/Productivity.md",
-    "unlinked/How to learn code.md"
+    "001_interviews MOC.md",
+    "JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md",
+    "Jorurnaling/2022-04-24.md",
+    "JOB-Hunt/companies/Companies.md",
+    "unlinked/two pointer problems.md",
+    "JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md",
+    "unlinked/Coding Questions.md",
+    "unlinked/Datastructure.md",
+    "unlinked/[find the middle element of a stack.md",
+    "unlinked/Stack and Queue.md"
   ]
 }

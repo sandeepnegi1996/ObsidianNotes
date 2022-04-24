@@ -1,8 +1,196 @@
 {
   "recentFiles": [
     {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
+    },
+    {
+      "basename": "Array Coding Problems",
+      "path": "JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
+    },
+    {
+      "basename": "2022-04-24",
+      "path": "Jorurnaling/2022-04-24.md"
+    },
+    {
+      "basename": "Companies",
+      "path": "JOB-Hunt/companies/Companies.md"
+    },
+    {
+      "basename": "two pointer problems",
+      "path": "unlinked/two pointer problems.md"
+    },
+    {
+      "basename": "Write a program to cyclically rotate an array by one",
+      "path": "JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
+    },
+    {
+      "basename": "Coding Questions",
+      "path": "unlinked/Coding Questions.md"
+    },
+    {
+      "basename": "Datastructure",
+      "path": "unlinked/Datastructure.md"
+    },
+    {
+      "basename": "[find the middle element of a stack",
+      "path": "unlinked/[find the middle element of a stack.md"
+    },
+    {
+      "basename": "Stack and Queue",
+      "path": "unlinked/Stack and Queue.md"
+    },
+    {
+      "basename": "stack in java",
+      "path": "JOB-Hunt/striver-SDE1-sheet/stack in java.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "unlinked/Queue.md"
+    },
+    {
+      "basename": "Priority Queue in java",
+      "path": "unlinked/Priority Queue in java.md"
+    },
+    {
+      "basename": "List",
+      "path": "unlinked/List.md"
+    },
+    {
+      "basename": "System Design",
+      "path": "JOB-Hunt/System-Design/System Design.md"
+    },
+    {
+      "basename": "Usecases of system design",
+      "path": "JOB-Hunt/System-Design/Usecases of system design.md"
+    },
+    {
+      "basename": "How to Synchronize in ArrayList",
+      "path": "unlinked/How to Synchronize in ArrayList.md"
+    },
+    {
+      "basename": "JAVA-interviews",
+      "path": "JOB-Hunt/JAVA-interviews.md"
+    },
+    {
+      "basename": "_Dashboard",
+      "path": "_Dashboard.md"
+    },
+    {
+      "basename": "005_obsidian MOC",
+      "path": "unlinked/005_obsidian MOC.md"
+    },
+    {
+      "basename": "Obsidian Shortcuts",
+      "path": "OffTopic/Obsidian Shortcuts.md"
+    },
+    {
+      "basename": "450 DSA Cracker",
+      "path": "JOB-Hunt/450 DSA Cracker.md"
+    },
+    {
+      "basename": "linked List coding problems",
+      "path": "unlinked/linked List coding problems.md"
+    },
+    {
+      "basename": "Stack coding problems",
+      "path": "unlinked/Stack coding problems.md"
+    },
+    {
+      "basename": "String Coding Probems",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/String Coding Probems.md"
+    },
+    {
+      "basename": "Regular Note Template",
+      "path": "templates/Regular Note Template.md"
+    },
+    {
+      "basename": "Weekly Note Template",
+      "path": "templates/Weekly Note Template.md"
+    },
+    {
+      "basename": "how string constant pool works under the hood",
+      "path": "unlinked/how string constant pool works under the hood.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "004_philosphy MOC",
+      "path": "004_philosphy MOC.md"
+    },
+    {
+      "basename": "002_microservices MOC",
+      "path": "002_microservices MOC.md"
+    },
+    {
+      "basename": "003_productivity MOC",
+      "path": "003_productivity MOC.md"
+    },
+    {
+      "basename": "angular-interview-questions",
+      "path": "JOB-Hunt/angular-interview-questions.md"
+    },
+    {
+      "basename": "database interview questions",
+      "path": "JOB-Hunt/database interview questions.md"
+    },
+    {
+      "basename": "spring boot interview questions",
+      "path": "unlinked/spring boot interview questions.md"
+    },
+    {
+      "basename": "Types of Memory in java",
+      "path": "unlinked/Types of Memory in java.md"
+    },
+    {
+      "basename": "Multithreading and multiprocessing",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/Multithreading and multiprocessing.md"
+    },
+    {
+      "basename": "fsdf",
+      "path": "unlinked/fsdf.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "unlinked/Untitled 1.md"
+    },
+    {
+      "basename": "@Value",
+      "path": "unlinked/@Value.md"
+    },
+    {
+      "basename": "@Controller Advise",
+      "path": "unlinked/@Controller Advise.md"
+    },
+    {
+      "basename": "What is Immutable class in java",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
+    },
+    {
+      "basename": "What is the use of immutable class",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/What is the use of immutable class.md"
+    },
+    {
+      "basename": "What are the exceptions in java",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/What are the exceptions in java.md"
+    },
+    {
+      "basename": "How to handle real life exceptions in java",
+      "path": "JOB-Hunt/Interview-Questions-Solutions/How to handle real life exceptions in java.md"
+    },
+    {
       "basename": "2022-04-23",
       "path": "Jorurnaling/DailyJournal/2022-04-23.md"
+    },
+    {
+      "basename": "2022-04-22",
+      "path": "Jorurnaling/DailyJournal/2022-04-22.md"
     },
     {
       "basename": "java language learnings",
@@ -11,194 +199,6 @@
     {
       "basename": "printf for formatting",
       "path": "unlinked/printf for formatting.md"
-    },
-    {
-      "basename": "JAVA-interviews",
-      "path": "JOB-Hunt/JAVA-interviews.md"
-    },
-    {
-      "basename": "Weekly Note Template",
-      "path": "templates/Weekly Note Template.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "templates/Daily Note Template.md"
-    },
-    {
-      "basename": "Time-Blocking",
-      "path": "Productivity/Time-Blocking.md"
-    },
-    {
-      "basename": "Task-Batching",
-      "path": "Productivity/Task-Batching.md"
-    },
-    {
-      "basename": "Productivity",
-      "path": "Productivity/Productivity.md"
-    },
-    {
-      "basename": "How to learn code",
-      "path": "unlinked/How to learn code.md"
-    },
-    {
-      "basename": "videos",
-      "path": "Videos/videos.md"
-    },
-    {
-      "basename": "2022-04-22",
-      "path": "Jorurnaling/DailyJournal/2022-04-22.md"
-    },
-    {
-      "basename": "obsidian dataview",
-      "path": "unlinked/obsidian dataview.md"
-    },
-    {
-      "basename": "Resume Building",
-      "path": "Videos/Resume Building.md"
-    },
-    {
-      "basename": "SQL Queries interview questions",
-      "path": "unlinked/SQL Queries interview questions.md"
-    },
-    {
-      "basename": "2022-04-26",
-      "path": "Jorurnaling/DailyJournal/2022-04-26.md"
-    },
-    {
-      "basename": "database interview questions",
-      "path": "JOB-Hunt/database interview questions.md"
-    },
-    {
-      "basename": "What is Immutable class in java",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
-    },
-    {
-      "basename": "2022-04-25",
-      "path": "Jorurnaling/DailyJournal/2022-04-25.md"
-    },
-    {
-      "basename": "2022-W18",
-      "path": "weekly-journal/2022-W18.md"
-    },
-    {
-      "basename": "What is dependency injection",
-      "path": "unlinked/What is dependency injection.md"
-    },
-    {
-      "basename": "What is IOC or dependency Injection",
-      "path": "unlinked/What is IOC or dependency Injection.md"
-    },
-    {
-      "basename": "How to sort list of Objects in java without Stream",
-      "path": "JOB-Hunt/How to sort list of Objects in java without Stream.md"
-    },
-    {
-      "basename": "Comparator Vs Comparable",
-      "path": "unlinked/Comparator Vs Comparable.md"
-    },
-    {
-      "basename": "What is Linked HashSet",
-      "path": "unlinked/What is Linked HashSet.md"
-    },
-    {
-      "basename": "Difference between HashMap and HashSet",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/Difference between HashMap and HashSet.md"
-    },
-    {
-      "basename": "How to store using custom order in LinkedHashSet",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/How to store using custom order in LinkedHashSet.md"
-    },
-    {
-      "basename": "Complete Sprinboot project REST API with MySQL",
-      "path": "unlinked/Complete Sprinboot project REST API with MySQL.md"
-    },
-    {
-      "basename": "What is equals() method in java",
-      "path": "unlinked/What is equals() method in java.md"
-    },
-    {
-      "basename": "What is primary key",
-      "path": "unlinked/What is primary key.md"
-    },
-    {
-      "basename": "HLD and LLD",
-      "path": "JOB-Hunt/System-Design/HLD and LLD.md"
-    },
-    {
-      "basename": "interview questions hashedin",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/interview questions hashedin.md"
-    },
-    {
-      "basename": "2022-04-21",
-      "path": "Jorurnaling/DailyJournal/2022-04-21.md"
-    },
-    {
-      "basename": "Coding-Problems",
-      "path": "JOB-Hunt/Coding-Problems.md"
-    },
-    {
-      "basename": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
-      "path": "unlinked/Write a Program to reverse the Linked List. (Both Iterative and recursive).md"
-    },
-    {
-      "basename": "450 DSA Cracker",
-      "path": "JOB-Hunt/450 DSA Cracker.md"
-    },
-    {
-      "basename": "String",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/String.md"
-    },
-    {
-      "basename": "Longest palindrome in a string",
-      "path": "JOB-Hunt/Interview-Questions-Solutions/Longest palindrome in a string.md"
-    },
-    {
-      "basename": "Search and Sort",
-      "path": "unlinked/Search and Sort.md"
-    },
-    {
-      "basename": "Find first and last positions of an element in a sorted array",
-      "path": "unlinked/Find first and last positions of an element in a sorted array.md"
-    },
-    {
-      "basename": "linked List",
-      "path": "unlinked/linked List.md"
-    },
-    {
-      "basename": "Detect loop in a linked list",
-      "path": "unlinked/Detect loop in a linked list.md"
-    },
-    {
-      "basename": "print the middle of a linked list",
-      "path": "unlinked/print the middle of a linked list.md"
-    },
-    {
-      "basename": "Write a Program to reverse the Linked List. (Both Iterative and recursive",
-      "path": "unlinked/Write a Program to reverse the Linked List. (Both Iterative and recursive.md"
-    },
-    {
-      "basename": "Array",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Array.md"
-    },
-    {
-      "basename": "Array Questions Binary Search",
-      "path": "unlinked/Array Questions Binary Search.md"
-    },
-    {
-      "basename": "find Largest sum contiguous Subarray [V. IMP",
-      "path": "JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md"
-    },
-    {
-      "basename": "Kadane's Algorithm",
-      "path": "unlinked/Kadane's Algorithm.md"
-    },
-    {
-      "basename": "Write a program to cyclically rotate an array by one",
-      "path": "JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
     }
   ],
   "omittedPaths": [],
