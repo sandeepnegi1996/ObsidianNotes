@@ -10,8 +10,8 @@
 
 ## Meeting Log
 
-### 0000:
-### [[WorkON]]
+#### 0000:
+
 
 ## Daily Checklist 
 
@@ -25,7 +25,8 @@
 ### Daily checklist
 
 - [ ] Journaling
-- [ ] Workout
+- [ ] Apply 5 jobs from the list 
+- [ ] Workout [[Companies]]
 - [ ] planning for next day
 - [ ] Add items from the TODO list here
 - [ ] Strech 2 times and sit straight
@@ -42,12 +43,9 @@
 
 
 ### End of Day
-
-- [ ] Show Offline
-
-- [ ] Clean Unused Headings in Daily Log
-
 - [ ] Check tomorrow's calendar and do time-block
+- [ ] check action required emails
+- [ ] check waiting for response emails 
 
 
 ## Future You

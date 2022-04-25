@@ -16,9 +16,9 @@
   "vimMode": false,
   "newFileLocation": "folder",
   "attachmentFolderPath": "attachments",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "newFileFolderPath": "unlinked",
   "trashOption": "none"
 }

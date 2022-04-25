@@ -10,5 +10,6 @@
 1. [[Array]]
 2. [[String]]
 3. [[List]]
-4. [[Stack and Queue]]
-5. [[Set]]
+4. [[Stack]
+5. [[Queue]]
+6. [[Set]]

@@ -1,5 +1,7 @@
 # 📑 Queue
 
+[[Datastructure]]
+
 - **🏷️Tags** : #24-04-2022, #review, #reading_list 
 
 ## 🔗 Links

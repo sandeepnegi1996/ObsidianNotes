@@ -1,4 +1,4 @@
-CTS
+# CTS
 
 1. Programmer Analyst 
 2. 9,20,000 --> 20 is incentive
@@ -27,7 +27,7 @@ password : Sunder!@#L@xmi967
 mobile : 7973882172
 
 
-e request you to be prepared with the scanned copy of the following documents for uploading it for the background verification process.
+ request you to be prepared with the scanned copy of the following documents for uploading it for the background verification process.
 a) Tenth, Twelfth mark sheet.
 b) Diploma / Under graduate / post graduate Certificate (Whichever applicable).
 c) All Employments Relieving letter/Service letters & Current employer offer letter.
@@ -40,15 +40,15 @@ This is the central repository for the skill set.
 
 
 
-Information from bosch
+## Information from bosch
 
-1. Manager --> Nikhil --> email id and mobile number
+1. **Manager** --> Nikhil --> email id and mobile number
  
 - Satankar Nikhil Bhaskar Rao (SX/BSV-AD1)
 - Nikhil.Satankar@in.bosch.com
 - 91(80)6738-1986
 
-2. HR  --> Phone number , email.  
+2. **HR**  --> Phone number , email.  
 Gauranshi Tripathi (BGSW/HRL-BP1)
   - Gauranshi.Tripathi@in.bosch.com
   - 91(80)6657-1950
@@ -63,20 +63,21 @@ Gauranshi Tripathi (BGSW/HRL-BP1)
  
 
 
-Documeents Pending 
+
+### Documeents Pending 
 
 1. Form16 --> done
 2. HR Email Confirmation --> Pending , what email confirmation is required here
-3. Offer Letter --> I can provide the compensation letter for the 2020  --> get the offer letter from the firm --> 
+3. Offer Letter --> offer letter downloaded but there is no date of joining
 4. PF statement --> pending  --> for this do the enomination  --> 
 5. Service or Experience Letter --> Pending   --> 
 6. Letter of authorization --> download and then uploading
-7. Passport : --> receit upload 
+7. Passport : --> pending with applciation
 8. voter id : --> ree
 
 
 
-
+###  Provident fund details
 UAN : 101520346250
 S@ndeep123456
 
@@ -84,15 +85,11 @@ BOSCH UAN Details
 
 BGBNG00234580000131706
 
-Bosch no entries in the passbook of UAN
 
 
-Ask what needs to be done to combine older PF with the current PF
 
-sdfsdfsdf
 
-Passport 
-
+### Passport 
 https://portal2.passportindia.gov.in/AppOnlineProject/user/RegistrationBaseAction?request_locale=en
 
 login id : negi.sandeep01906@gmail
@@ -100,12 +97,11 @@ password : S@ndeep96
 birth city : roorkee
 Mobile Number : 7973882172
 
-
-
 Your application form has been submitted successfully.
 
 Your Application Reference Number(ARN) is: 22-0004765732
 
+### Voter Card
 Birth certificate and driving license is required.
 
 
@@ -119,30 +115,12 @@ password : S@ndeep123456
 S@ndeep96
 
 
-
-Documeents Pending 
-
-1. Form16 --> done
-2. HR Email Confirmation --> Pending , what email confirmation is required here
-3. Offer Letter --> I can provide the compensation letter for the 2022 
-4. PF statement --> done the enomination waiting for the response. 
-5. Service or Experience Letter --> Pending --> send the screenshot of email to cognizant
-6. Letter of authorization --> download and then uploading  --> done
-7. Passport : shared the details Tanu 
+## Other details
 
 
-
-
-
-Tanu:
-1. Voterid card
-2. Passport
-3. enomination
-4. 
-
-
-
-AYNPN5460A |
+PAN CARD :   AYNPN5460A 
 PF No. :KN/23458/043451 |
 EPS No. :043451 |
 UAN NO. :101520346250 
+
+

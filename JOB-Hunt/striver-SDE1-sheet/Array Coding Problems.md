@@ -7,6 +7,7 @@
 - [ ] [[Find the Union and Intersection of the two sorted arrays]] --> optimal solution pending
 - [x] [[Write a program to cyclically rotate an array by one]] 
 - [x] [[find Largest sum contiguous Subarray [V. IMP]]
+- [ ] [[find duplicate in an array of N+1 Integers]]
 
 
 
