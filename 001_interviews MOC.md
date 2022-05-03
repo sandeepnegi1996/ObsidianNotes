@@ -7,6 +7,8 @@
 - [[Algorithms]]
 - [[Coding Questions]]
 - [[angular-interview-questions]]
+- [[html interview questions]]
+- [[frontend interview questions ]]
 - [[System Design]]
 - [[Companies]]
 - [[tests]]

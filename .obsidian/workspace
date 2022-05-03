@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "520183469bde4399",
+        "id": "51fbb2606611ffc0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jorurnaling/DailyJournal/2022-04-25.md",
+            "file": "_inbox/What is concurrency in java.md",
             "mode": "source",
             "source": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linked list",
+                "query": "java",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,12 +56,21 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "4772bdc2a27349b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 391
+    "width": 357
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -78,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jorurnaling/DailyJournal/2022-04-25.md",
+                "file": "_inbox/What is concurrency in java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "520183469bde4399",
+  "active": "51fbb2606611ffc0",
   "lastOpenFiles": [
-    "Jorurnaling/DailyJournal/2022-04-25.md",
+    "_inbox/What is concurrency in java.md",
+    "_inbox/JOB-Hunt/JAVA-interviews.md",
     "001_interviews MOC.md",
-    "unlinked/Managerial Round Questions.md",
-    "WorkON/workon -layout issue - pending.md",
-    "unlinked/[find the middle element of a stack.md",
-    "unlinked/find duplicate in an array of N+1 Integers.md",
-    "unlinked/Algorithms.md",
-    "JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md",
-    "JOB-Hunt/450 DSA Cracker.md",
-    "unlinked/Coding Questions.md"
+    "_inbox/frontend interview questions.md",
+    "_inbox/How flexbox works align something in middle.md",
+    "_inbox/JOB-Hunt/450 DSA Cracker.md",
+    "Jorurnaling/2022-05-06.md",
+    "Jorurnaling/2022-05-04.md",
+    "Jorurnaling/2022-05-03.md",
+    "_inbox/JOB-Hunt/CTSinfo.md"
   ]
 }

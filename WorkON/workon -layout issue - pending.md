@@ -44,10 +44,18 @@ Orsolya.Remenyfi-Roesser@boschrexroth.de
 - in our case we wants to change the layout when the minimum width is `1073`
 
 ```CSS
-@media only screen and (min-width: 1073px) {
+@media only screen and (min-width: 1245px) {
 .x-panel {
-
 width: calc(100vw) !important;
+}
+
+.x-panel-body {
+width: calc(100vw) !important;
+}
+
+div.rb_WorkON_ValueArea_Wide{
+width: calc(100vw) !important;
+}
 }
 ```
 
@@ -62,4 +70,66 @@ width: calc(
 ```
 
 
-2 
+### Changes in the files and classes we made in CSS
+#### style.css
+1. Three places, `x-panel` , `.x-panel-body` , `div.rb_WorkON_ValueArea_Wide`
+	1. max-width:1072px
+2. ext-all.css 
+	1. Two places : `.x-panel` and `.x-panel-body`
+
+
+### Testing :
+1. for testing just modify the files in temp folder and then try
+
+```CSS
+@media only screen and (min-width: 1245px) {
+
+    .x-panel {
+
+    max-width: calc(100vw) !important;
+}
+
+.x-panel-body {
+
+   max-width: calc(100vw) !important;
+}
+
+div.rb_WorkON_ValueArea_Wide {
+
+    max-width: calc(100vw) !important;
+}
+
+   .x-grid3 {
+
+      max-width: calc(100vw) !important;
+      
+   }
+
+   .x-grid3-header-inner{
+/*         max-width: calc(100vw) !important; */
+   }
+   
+
+   
+.x-grid3-header{
+
+    max-width: calc(100vw) !important;
+}
+
+   
+   
+/*    .table { width: 100%; margin-bottom: 0; display: table; } */
+   
+   
+   
+   
+/*    .x-grid3-header-offset {
+      max-width: calc(100vw) !important;
+   } */
+
+body{
+         background-color: purple;
+    }
+}
+
+```

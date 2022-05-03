@@ -2,6 +2,8 @@
  
  *Focus Mode and Pomodoro and TimeBlocking* 
 
+ *Never Reveal*
+
 
 
 ## Morning thoughts
@@ -39,8 +41,8 @@
 
 ### Interview Prep
 - [ ] [[450 DSA Cracker]]
-- [ ] Check one concept from Driviz Discussion or System Design 
-
+- [ ] Java 
+- [ ] Springboot
 
 ### End of Day
 - [ ] Check tomorrow's calendar and do time-block
