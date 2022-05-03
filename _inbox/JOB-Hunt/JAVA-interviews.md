@@ -16,6 +16,8 @@
 - [x] [[What is Optional , with example]]
 - [ ] [[multithreading with examples in java]]
 - [ ] **[[What is concurrency in java]]*  
+- [x] [[What is record is java 14]]
+
 
 #### 0630-0700: Java Interview 
 

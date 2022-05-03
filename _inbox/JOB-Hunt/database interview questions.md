@@ -10,5 +10,8 @@ https://www.interviewbit.com/sql-interview-questions/
 
 
 ### Database
-- [ ] [[Difference between inner join and outer join]]
-- [ ] [[Difference between left outer jon and right outer join]]
+
+- [x] [[primary, foreign and composite keys]]
+- [x] [[relations in database,]]
+- [ ] [[how group by queries works]]
+- [ ] [[how joins works]]

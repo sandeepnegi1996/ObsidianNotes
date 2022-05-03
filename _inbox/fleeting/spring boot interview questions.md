@@ -12,17 +12,13 @@
 - [ ] [[Simple Springboot REST API with H2 ]]
 
 ## Pending 
-- [ ] [[What is primary key]].
-- [ ]  [[What is equals() method in java]]
-- [ ] How to improve performance of springboot application
-- [ ] What is spring MVC and spring Core
-- [ ] What are the dependencies used in project
-- [ ] What are all the annotation used in project
-- [ ] Angular Questions revise
+- [x] [[What is !@Qualifier in springboot]]
+- [x]  [[What is equals() method in java]]
+- [ ] How to improve performance of springboot applicatio
 
 ## Other Questions
 6. [ ] [[what is shutdown hook]]
-9. [ ] [[@ControllerAdvice]]
+9. [x] [[@ControllerAdvice]]
 10. [x] [[@Value]] 
 11. [x] [[@PropertySource]]
 12. [x] [[what is spring profile]]
@@ -31,7 +27,7 @@
 15. [x] What if we apply RequestMapping annotation to a class
 16. [x] What is RestTemplate , This is synchronous
 17. [ ] [[What is the way to make Async call in sprinboot microservices.]]
-18. [ ] [[how to handle custom exceptions in spring project]]
+18. [x] [[how to handle custom exceptions in spring project]]
 19. [ ] How authentication works with spring security
 20. [ ] How Oauth works'
 21. [ ] 10. [ ] What is OAuth , How it works ?
