@@ -1,4 +1,20 @@
-#### 1100-1200: coding round
+
+### TATA 1Mg interview experience 
+1. explain oops concepts in details
+2. overloading and overriding 
+3. LinkedList vs ArrayList
+4. Internal Working of HashSet
+5. Concurrent HashMap
+6. Singleton Design DPattern
+7. Create Immutable class with fields such as string and arraylist 
+	1. but make sure we are not able to modify the arratylist
+8. How to share object
+	1. copy object or cloning
+2. how to change port in spring boot
+3. Qualifier
+4. 
+
+### 1100-1200: coding round
 	furthest from zero, compare absolute values but return the actual value
 	find the median of the sub array
 	Create the schema 

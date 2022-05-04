@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -114,20 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "9d1762ab2b6501c4",
   "lastOpenFiles": [
     "Jorurnaling/2022-05-04.md",
-    "Jorurnaling/2022-05-06.md",
-    "_inbox/Untitled.md",
-    "_inbox/JOB-Hunt/database interview questions.md",
-    "_inbox/primary, foreign and composite keys.md",
+    "_inbox/interview-experiences.md",
     "001_interviews MOC.md",
+    "_inbox/fleeting/@Value.md",
     "_inbox/fleeting/spring boot interview questions.md",
-    "_inbox/HC Talk Episode 1.md",
-    "_inbox/007_podcast.md",
+    "_inbox/How to improve performance of springboot application.md",
+    "templates/Regular Note Template.md",
+    "_inbox/fleeting/What is equals() method in java.md",
+    "_inbox/What is !@Qualifier in springboot.md",
     "_inbox/Simple Springboot REST API with H2.md"
   ]
 }

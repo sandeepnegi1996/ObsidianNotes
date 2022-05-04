@@ -1,6 +1,6 @@
 # 📑 {{title}}
 
-- **🏷️Tags** : #{{date:DD-MM-YYYY}}, #review, #reading_list
+- **🏷️Tags** : #{{date:DD-MM-YYYY}},  #pending #completed #permanent
 
 #### 🔗 Links
 

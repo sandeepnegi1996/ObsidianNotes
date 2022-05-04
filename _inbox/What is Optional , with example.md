@@ -6,9 +6,9 @@
 [java revisited ](https://javarevisited.blogspot.com/2017/04/10-examples-of-optional-in-java-8.html)
 
 ## Key Takeaways
-Here are some of the key points about the java.util.Optional class which is worth remembering for future use:  
+Here are some of the key points about the` java.util.Optional` class which is worth remembering for future use:  
   
-1) The Optional class is a container object which may or may not contain a non-null value.  That's why it is named Optional.  
+1) The Optional class is a container object which *may or may not contain a non-null value.* 
   
 2) If a non-value is available then Optional.isPresent() method will return true and get() method of Optional class will return that value.  
   
@@ -25,7 +25,9 @@ Earlier it wasn't possible to convey client which fields are optional and which 
 9) You can use the map() method to transform the value contained in the Optional object and flatMap() for both transformations and flattening which would be required when you are doing the transformation in a chain as shown in our Optional + flatMap example above.  
   
 10) You can also use the filter() method to weed out any unwanted value from the Optional object and only action if Optional contains something which interests you.
-11) 
+
+
+
 ## Overview
 - null is bad, it can crash applications
 - its creator called it a billon-dollar mistake, so we should avoid using it :)
@@ -33,15 +35,17 @@ Earlier it wasn't possible to convey client which fields are optional and which 
 
 ### Why null is bad
 - it can crash applications
-- we should not return null string when we can return empty string
-- never return null collection when you can return an empty collection
+- we should *not return null string when we can return empty string*
+- never return *null collection when you can return an empty collection*
 - Optional : is a new way to avoid null pointer exceptions 
-- before optionns --> check this linke [how to avoid null before java 8](https://javarevisited.blogspot.com/2013/05/ava-tips-and-best-practices-to-avoid-nullpointerexception-program-application.html)
+- before `Optional` --> check this linke [how to avoid null before java 8](https://javarevisited.blogspot.com/2013/05/ava-tips-and-best-practices-to-avoid-nullpointerexception-program-application.html)
 
 
 ### Optional
-- *optional is a wrapper class that makes a field optional which means it may or may not have values*
+- *Optional is a wrapper class that makes a field optional which means it may or may not have values*
+- Optional will never have null values.
 - Ex : lets say we have employee information and right now he/she is not assigned to any department at that time instead of returning a null for the department we can give some default values for the department.
+
 
 ### How to create optional object
 1. best way of creating an optional; object is 
@@ -49,6 +53,7 @@ Earlier it wasn't possible to convey client which fields are optional and which 
 
 - in this case of the person object is null the optional will basically return us empty object
 - so here we are able to avoid null pointer exception
+- when we are printing the `Optional` object here it will be an empty Object.
 
 ```java
 		 Person p=null;
@@ -76,35 +81,90 @@ if(a != null){
 
 ####  Optional way of doing null check
 - correct way of using optional
+- *op.ifPresent()*
+- *Optional.ofNullable()*
+- if Present takes consumer as an argument
+```java
+	Person p=new Person("chaprana",new Adress("lalkurti"));
+
+    Optional<Person> op=Optional.ofNullable(p);
+    
+    op.ifPresent(System.out::println);
+
 ```
-   Person p=new Person("chaprana",new Adress("lalkurti"));
 
-        Optional<Person> op=Optional.ofNullable(p);
-
-  
-
-        op.ifPresent(System.out::println);
-
+##### more examples on if present
+1. one way
+```java
+Optional<User> user = ...
+user.ifPresent(theUser -> doSomethingWithUser(theUser));
 ```
 
-#### How to return a default value using optional
-- in case of adress is not present we will store empty value in adress
-- 
+2. best way
+- [[method references in java]]
+```java
+Optional<User> user = ...
+user.ifPresent(this::doSomethingWithUser);
+```
 
+3. old school or more detailed way of saying thing 
+```java
+Optional<User> user = ...
+user.ifPresent(new Consumer<User>() {
+    @Override
+    public void accept(User theUser) {
+        doSomethingWithUser(theUser);
+    }
+});
+```
+
+#### How to return a default value using optional --> pending
+- in case of address is not present we will store empty value in adress
+- *orElse()*
 ```java
 
 Person p=getPerson();
+
 Adress home=p.getAress().orElse(Adress.EMPTY);
 
-
-
 ```
 
-#### use Optional with filter method
-- this will prrint only when adress is present and not print anything if adress is not present
+#### use Optional with filter method --pending
+- this will print only when addess is present and not print anything if address is not present
+
+
 ```java
 
-ptional<Address> home = person.getAddress();
-home.filter(address -> "NewYork".equals(address.getCity())
+Optional<Address> home = person.getAddress();
+
+	home.filter(address -> "NewYork".equals(address.getCity())
     .ifPresent(() -> System.out.println("Live in NewYork"));
 ```
+
+### orElse or orElseGet
+```java
+
+public T orElse(T other) 
+public T orElseGet(Supplier<? extends T> other)
+
+```
+
+- here we can see `orElse` can take any any parameter of type T
+- orElseGet --> takes only functional interface
+- 
+
+#### Example of orElse
+```java
+
+	String name=Optional.of("sandy").orElse(getRandomName());
+
+```
+
+
+####  Example of orElseGet()
+```java
+String name = Optional.of("sandy").orElseGet(() -> getRandomName());
+
+```
+
+- orElseGet is much better in terms of performance since it will

@@ -14,7 +14,7 @@
 ## Pending 
 - [x] [[What is !@Qualifier in springboot]]
 - [x]  [[What is equals() method in java]]
-- [ ] How to improve performance of springboot applicatio
+- [ ] [[How to improve performance of springboot application]]
 
 ## Other Questions
 6. [ ] [[what is shutdown hook]]

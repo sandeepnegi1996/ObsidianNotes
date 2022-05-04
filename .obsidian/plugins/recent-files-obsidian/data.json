@@ -5,6 +5,54 @@
       "path": "Jorurnaling/2022-05-04.md"
     },
     {
+      "basename": "interview-experiences",
+      "path": "_inbox/interview-experiences.md"
+    },
+    {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
+    },
+    {
+      "basename": "@Value",
+      "path": "_inbox/fleeting/@Value.md"
+    },
+    {
+      "basename": "spring boot interview questions",
+      "path": "_inbox/fleeting/spring boot interview questions.md"
+    },
+    {
+      "basename": "How to improve performance of springboot application",
+      "path": "_inbox/How to improve performance of springboot application.md"
+    },
+    {
+      "basename": "Regular Note Template",
+      "path": "templates/Regular Note Template.md"
+    },
+    {
+      "basename": "What is equals() method in java",
+      "path": "_inbox/fleeting/What is equals() method in java.md"
+    },
+    {
+      "basename": "What is !@Qualifier in springboot",
+      "path": "_inbox/What is !@Qualifier in springboot.md"
+    },
+    {
+      "basename": "Simple Springboot REST API with H2",
+      "path": "_inbox/Simple Springboot REST API with H2.md"
+    },
+    {
+      "basename": "Complete Sprinboot project REST API with MySQL",
+      "path": "_inbox/fleeting/Complete Sprinboot project REST API with MySQL.md"
+    },
+    {
+      "basename": "method references in java",
+      "path": "_inbox/method references in java.md"
+    },
+    {
+      "basename": "What is Optional , with example",
+      "path": "_inbox/What is Optional , with example.md"
+    },
+    {
       "basename": "2022-05-06",
       "path": "Jorurnaling/2022-05-06.md"
     },
@@ -21,14 +69,6 @@
       "path": "_inbox/primary, foreign and composite keys.md"
     },
     {
-      "basename": "001_interviews MOC",
-      "path": "001_interviews MOC.md"
-    },
-    {
-      "basename": "spring boot interview questions",
-      "path": "_inbox/fleeting/spring boot interview questions.md"
-    },
-    {
       "basename": "HC Talk Episode 1",
       "path": "_inbox/HC Talk Episode 1.md"
     },
@@ -37,24 +77,12 @@
       "path": "_inbox/007_podcast.md"
     },
     {
-      "basename": "Simple Springboot REST API with H2",
-      "path": "_inbox/Simple Springboot REST API with H2.md"
-    },
-    {
       "basename": "how to handle custom exceptions in spring project",
       "path": "_inbox/fleeting/how to handle custom exceptions in spring project.md"
     },
     {
-      "basename": "What is equals() method in java",
-      "path": "_inbox/fleeting/What is equals() method in java.md"
-    },
-    {
       "basename": "JAVA-interviews",
       "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
-    },
-    {
-      "basename": "What is !@Qualifier in springboot",
-      "path": "_inbox/What is !@Qualifier in springboot.md"
     },
     {
       "basename": "What is record is java 14",
@@ -109,14 +137,6 @@
       "path": "Jorurnaling/2022-05-02.md"
     },
     {
-      "basename": "What is Optional , with example",
-      "path": "_inbox/What is Optional , with example.md"
-    },
-    {
-      "basename": "method references in java",
-      "path": "_inbox/method references in java.md"
-    },
-    {
       "basename": "What is functional Interface",
       "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is functional Interface.md"
     },
@@ -143,10 +163,6 @@
     {
       "basename": "jre jdk jvm",
       "path": "_inbox/jre jdk jvm.md"
-    },
-    {
-      "basename": "interview-experiences",
-      "path": "_inbox/interview-experiences.md"
     },
     {
       "basename": "2022-04-29",
@@ -183,22 +199,6 @@
     {
       "basename": "2022-04-17",
       "path": "Jorurnaling/DailyJournal/2022-04-17.md"
-    },
-    {
-      "basename": "2022-04-18",
-      "path": "Jorurnaling/DailyJournal/2022-04-18.md"
-    },
-    {
-      "basename": "2022-04-19",
-      "path": "Jorurnaling/DailyJournal/2022-04-19.md"
-    },
-    {
-      "basename": "2022-04-20",
-      "path": "Jorurnaling/DailyJournal/2022-04-20.md"
-    },
-    {
-      "basename": "2022-04-21",
-      "path": "Jorurnaling/DailyJournal/2022-04-21.md"
     }
   ],
   "omittedPaths": [],

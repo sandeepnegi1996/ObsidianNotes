@@ -1,6 +1,7 @@
 # 📑 Simple Springboot REST API with H2
 
 - **🏷️Tags** : #27-04-2022, #review, #reading_list
+[[spring boot interview questions]]
 
 #### 🔗 Links
 [baeldung](https://www.baeldung.com/spring-boot-h2-database)
@@ -139,7 +140,7 @@ public class MovieController {
 2. `spring.jpa.hibernate.ddl-auto=create-drop`
 
 Model
-```
+```java
 @Entity
 public class Movie {
 

@@ -1,5 +1,5 @@
 # Complete Sprinboot project REST API with MySQL
-[[JAVA-interviews]]
+[[spring boot interview questions]]
 
 ## Most Detailed Solution
 

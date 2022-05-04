@@ -6,7 +6,7 @@
 [baeldung](https://www.baeldung.com/spring-qualifier-annotation)
 
 ## Key Takeaways
-- it is used to remove the ambiguity if there are multiple componets implementing interface and spring is getting confused which one it wanted to inject
+- it is used to remove the ambiguity if there are multiple components implementing interface and spring is getting confused which one it wanted to inject
 ```java
 public class FooService 
 { 
