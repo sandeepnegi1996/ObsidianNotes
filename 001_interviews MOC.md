@@ -14,3 +14,5 @@
 - [[tests]]
 - [[interview-experiences]]
 - [[Managerial Round Questions]]
+- [[template-replies]]
+- [[AWS Services]]

@@ -6,19 +6,30 @@
 
 
 ## pending
-- [x] [[jre jdk jvm]]
-- [x] [[What is functional Interface]]
-- [x] [[method references in java]]
-- [ ] [[output based programs java]]
-- [x] how to avoid finally block --> covereed in exceptions
-- [x] [[What are the exceptions in java]]
-- [x] [[Difference between map and flatmap in java]]
-- [x] [[What is Optional , with example]]
+- [ ] [[What is Immutable class in java]]
+- [ ] [[What is object cloning in java]]
+
+
 - [ ] [[multithreading with examples in java]]
 - [ ] **[[What is concurrency in java]]*  
 - [x] [[What is record is java 14]]
 
+- [ ] [[Create custom immutable class with string and arraylist]]
+- [ ] [[Create custom immutale class with string and Address Object]]
+- [ ] [[why character array is better thatn string to storie password injava]]
+- [x] [[pow function in java ]]
+- [ ] [[primitive datatype in java]]
 
+
+### Completed
+- [x] [[jre jdk jvm]]
+- [x] [[What is functional Interface]]
+- [x] [[method references in java]]
+- [x] [[output based programs java]]
+- [x] how to avoid finally block --> covered in exceptions
+- [x] [[What are the exceptions in java]]
+- [x] [[Difference between map and flatmap in java]]
+- [x] [[What is Optional , with example]]
 #### 0630-0700: Java Interview 
 
 	8. What is multithreading how to do multithreading using java
@@ -26,14 +37,7 @@
 
 	Springboot
 	
-	1. What is setter injector and constructor injection
-	2. What is @Qualifier 
-	3. What is Scope in beans
-	4. What is factory design and Singleton design patterns
-	5. Which version of hibernate you are using 
-	6. What is Session Factory
-	7. What is the meaning of thread safe
-	8. How to write a program that is thread safe
+	
 
 
 	Database

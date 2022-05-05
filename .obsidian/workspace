@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jorurnaling/2022-05-04.md",
+            "file": "_inbox/interview-experiences.md",
             "mode": "source",
             "source": true
           }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jorurnaling/2022-05-04.md",
+                "file": "_inbox/interview-experiences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +114,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9d1762ab2b6501c4",
   "lastOpenFiles": [
-    "Jorurnaling/2022-05-04.md",
     "_inbox/interview-experiences.md",
     "001_interviews MOC.md",
-    "_inbox/fleeting/@Value.md",
-    "_inbox/fleeting/spring boot interview questions.md",
-    "_inbox/How to improve performance of springboot application.md",
-    "templates/Regular Note Template.md",
-    "_inbox/fleeting/What is equals() method in java.md",
-    "_inbox/What is !@Qualifier in springboot.md",
-    "_inbox/Simple Springboot REST API with H2.md"
+    "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md",
+    "_inbox/JOB-Hunt/JAVA-interviews.md",
+    "_inbox/Merge 2 sorted arrays without using Extra space..md",
+    "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md",
+    "_inbox/JOB-Hunt/450 DSA Cracker.md",
+    "_inbox/fleeting/Coding Questions.md",
+    "_Dashboard.md",
+    "_inbox/AWS Services.md"
   ]
 }

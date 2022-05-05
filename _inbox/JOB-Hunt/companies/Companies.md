@@ -69,6 +69,8 @@ ETL at R1 RCM --> Yahya Jami
 25. [[accenture]]
 26. [[Tata 1mg]]
 27. [[amazon]]
+28. [[e-separation bosch]]
+29. [[exotel]]
 
 
 ## Companies in NCR
@@ -105,7 +107,7 @@ ETL at R1 RCM --> Yahya Jami
 31. [ ] dunnhumby-Gurgaon  
 32. [ ] Epam-Gurgaon  
 33. [ ] Expedia-Gurgaon  
-34. [ ] Fitso-Gurgaon  
+34. [x] Fitso-Gurgaon  
 35. [ ] FleetX-Gurgaon  
 36. [ ] Freecharge-Gurgaon  
 37. [ ] Goibibo-Gurgaon  
