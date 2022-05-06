@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -121,13 +122,13 @@
   "lastOpenFiles": [
     "_inbox/interview-experiences.md",
     "001_interviews MOC.md",
-    "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md",
     "_inbox/JOB-Hunt/JAVA-interviews.md",
-    "_inbox/Merge 2 sorted arrays without using Extra space..md",
-    "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md",
-    "_inbox/JOB-Hunt/450 DSA Cracker.md",
     "_inbox/fleeting/Coding Questions.md",
-    "_Dashboard.md",
-    "_inbox/AWS Services.md"
+    "_inbox/fleeting/find duplicate in an array of N+1 Integers.md",
+    "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md",
+    "_inbox/JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md",
+    "_inbox/Merge 2 sorted arrays without using Extra space..md",
+    "_inbox/find subarray with sum is equal to zero.md",
+    "_inbox/JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
   ]
 }

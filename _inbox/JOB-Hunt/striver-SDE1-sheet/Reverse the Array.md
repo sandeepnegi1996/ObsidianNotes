@@ -23,6 +23,8 @@ Output : reversed array
 - Store it in a separate array or put it in the same array
 - [x] [[stack in java]]
 
+## Solution 5
+- store array in a list and sort the list in reverse 
 ## Code
 ```java 
 

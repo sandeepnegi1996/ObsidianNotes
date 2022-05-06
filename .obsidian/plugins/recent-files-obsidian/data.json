@@ -9,28 +9,96 @@
       "path": "001_interviews MOC.md"
     },
     {
-      "basename": "What is Immutable class in java",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
-    },
-    {
       "basename": "JAVA-interviews",
       "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
     },
     {
-      "basename": "Merge 2 sorted arrays without using Extra space.",
-      "path": "_inbox/Merge 2 sorted arrays without using Extra space..md"
+      "basename": "Coding Questions",
+      "path": "_inbox/fleeting/Coding Questions.md"
+    },
+    {
+      "basename": "find duplicate in an array of N+1 Integers",
+      "path": "_inbox/fleeting/find duplicate in an array of N+1 Integers.md"
     },
     {
       "basename": "Array Coding Problems",
       "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
     },
     {
+      "basename": "find Largest sum contiguous Subarray [V. IMP",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md"
+    },
+    {
+      "basename": "Merge 2 sorted arrays without using Extra space.",
+      "path": "_inbox/Merge 2 sorted arrays without using Extra space..md"
+    },
+    {
+      "basename": "find subarray with sum is equal to zero",
+      "path": "_inbox/find subarray with sum is equal to zero.md"
+    },
+    {
+      "basename": "Write a program to cyclically rotate an array by one",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
+    },
+    {
+      "basename": "Move all the negative elements to one side of the array",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Move all the negative elements to one side of the array.md"
+    },
+    {
+      "basename": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo.md"
+    },
+    {
+      "basename": "Find the Kth max and min element of an array",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find the Kth max and min element of an array.md"
+    },
+    {
+      "basename": "Comparator Vs Comparable",
+      "path": "slip-box/Comparator Vs Comparable.md"
+    },
+    {
+      "basename": "Find minimum and maximum element in an array",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find minimum and maximum element in an array.md"
+    },
+    {
+      "basename": "Reverse the Array",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Reverse the Array.md"
+    },
+    {
       "basename": "450 DSA Cracker",
       "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
     },
     {
-      "basename": "Coding Questions",
-      "path": "_inbox/fleeting/Coding Questions.md"
+      "basename": "Bit Manipulation",
+      "path": "_inbox/Bit Manipulation.md"
+    },
+    {
+      "basename": "What is Immutable class in java",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
+    },
+    {
+      "basename": "2022-05-06",
+      "path": "Jorurnaling/2022-05-06.md"
+    },
+    {
+      "basename": "2022-05-07",
+      "path": "Jorurnaling/2022-05-07.md"
+    },
+    {
+      "basename": "developig inside a contianer with vscode",
+      "path": "_inbox/developig inside a contianer with vscode.md"
+    },
+    {
+      "basename": "sprint-2022-05A",
+      "path": "WorkON/sprint-2022-05A.md"
+    },
+    {
+      "basename": "PF",
+      "path": "WorkON/completed/PF.md"
+    },
+    {
+      "basename": "sum of square of even number using stream",
+      "path": "_inbox/sum of square of even number using stream.md"
     },
     {
       "basename": "_Dashboard",
@@ -43,10 +111,6 @@
     {
       "basename": "template-replies",
       "path": "_inbox/template-replies.md"
-    },
-    {
-      "basename": "2022-05-06",
-      "path": "Jorurnaling/2022-05-06.md"
     },
     {
       "basename": "2022-05-05",
@@ -135,70 +199,6 @@
     {
       "basename": "method references in java",
       "path": "_inbox/method references in java.md"
-    },
-    {
-      "basename": "What is Optional , with example",
-      "path": "_inbox/What is Optional , with example.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "_inbox/Untitled.md"
-    },
-    {
-      "basename": "database interview questions",
-      "path": "_inbox/JOB-Hunt/database interview questions.md"
-    },
-    {
-      "basename": "primary, foreign and composite keys",
-      "path": "_inbox/primary, foreign and composite keys.md"
-    },
-    {
-      "basename": "HC Talk Episode 1",
-      "path": "_inbox/HC Talk Episode 1.md"
-    },
-    {
-      "basename": "007_podcast",
-      "path": "_inbox/007_podcast.md"
-    },
-    {
-      "basename": "how to handle custom exceptions in spring project",
-      "path": "_inbox/fleeting/how to handle custom exceptions in spring project.md"
-    },
-    {
-      "basename": "What is record is java 14",
-      "path": "_inbox/What is record is java 14.md"
-    },
-    {
-      "basename": "What is concurrency in java",
-      "path": "_inbox/What is concurrency in java.md"
-    },
-    {
-      "basename": "frontend interview questions",
-      "path": "_inbox/frontend interview questions.md"
-    },
-    {
-      "basename": "How flexbox works align something in middle",
-      "path": "_inbox/How flexbox works align something in middle.md"
-    },
-    {
-      "basename": "2022-05-03",
-      "path": "Jorurnaling/2022-05-03.md"
-    },
-    {
-      "basename": "CTSinfo",
-      "path": "_inbox/JOB-Hunt/CTSinfo.md"
-    },
-    {
-      "basename": "infineon",
-      "path": "_inbox/JOB-Hunt/interview-experience/infineon.md"
-    },
-    {
-      "basename": "multithreading with examples in java",
-      "path": "_inbox/multithreading with examples in java.md"
-    },
-    {
-      "basename": "amazon",
-      "path": "_inbox/amazon.md"
     }
   ],
   "omittedPaths": [],

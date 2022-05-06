@@ -8,7 +8,7 @@ link: https://450dsa.com/
 5. Greedy
 6. [[Stack coding problems]]
 7.  Queues
-8. Bit Manipulation
+8. [[Bit Manipulation]]
 9. [[General]]
 Repository link :
 
