@@ -1,3 +1,25 @@
+### Interview Unifyed technical round 2
+1.  what is eurekha server how you will do the deployment of the microservices
+2. How to store session data in angular
+3. what is router and interceptor in angular
+	1. how to do nested routing and how to do logging with interceptor
+4. how to make http calls in angular
+5. life cycle hooks of angular
+6. how to avoid cross site scripting attack in angular 
+7. what is accessibility and 503 compliance in forntend
+8. what is position in frontend'
+
+##### database
+1. what are views can we write on views or read possible only
+2. how to add a new column to exisitng table in database
+3. what is relationship in daabase
+4. what is locking in database
+5. what are procedures
+6. what is cursor
+7. what is Elastic search and Redis and how rabbit mQ works
+
+
+
 
 ### wissen interview 
 1. Is it possible to have Employee class as a key in hashmap
