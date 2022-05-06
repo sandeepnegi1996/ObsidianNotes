@@ -1,10 +1,10 @@
 # Comparator Vs Comparable
-#java 
+#java #permanent 
 
 [[JAVA-interviews]]
 [[JavaScript-interview-questions]]
 [[How to sort list of Objects in java without Stream]]
-
+[[how to sort using lambda and comparator]]
 
 ## KeyTakeaways
 1. Both are interfaces to sort objects using datamembers
@@ -149,3 +149,11 @@ class NameCompare implements Comparator<Movie>
 
 ###  How to sort using streams 
 ![[How to Sort List of Objects using Streams in java]]
+### How to Sort using Lambda and Comparator
+```java
+
+Comparator<Employee> nameSorter = (a, b) ->a.getName().compareToIgnoreCase(b.getName());
+
+Collections.sort(list, nameSorter);
+
+```

@@ -26,7 +26,7 @@ A[] = {1, 2, 3, 4, 5}
 
 ## Solution 3 : optimal 
 1. *two pointer approach*
-2. swap low with high but do not change the high only increase the low
+2. *swap low with high but do not change the high only increase the low*
 
 ```java
        int arr[]={5,6,2,1,8};

@@ -29,6 +29,8 @@ Side Note
 	- it leverage different threads to do the sort
 
 
+## Solution 4
+
 ## Code
 ```java
 import java.util.Arrays;

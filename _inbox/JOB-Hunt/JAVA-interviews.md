@@ -6,9 +6,11 @@
 
 
 ## pending
-- [ ] [[What is Immutable class in java]]
+- [x] [[What is Immutable class in java]]
 - [ ] [[What is object cloning in java]]
+- [ ] [[sum of square of even number using stream]]
 
+[[clone method in class vs Collections ]]
 
 - [ ] [[multithreading with examples in java]]
 - [ ] **[[What is concurrency in java]]*  
