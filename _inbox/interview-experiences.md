@@ -1,3 +1,4 @@
+
 ### Interview Unifyed technical round 2
 1.  what is eurekha server how you will do the deployment of the microservices
 2. How to store session data in angular
@@ -19,6 +20,9 @@
 7. what is Elastic search and Redis and how rabbit mQ works
 
 
+
+### Paypal
+1. 
 
 
 ### wissen interview 
@@ -49,15 +53,17 @@
 		Parent P=new Child() 
 		p.run()
 
-4. List of interger , sum of squares of odd numbers using stream and reduce 
+4. List of interger , sum of squares of odd numbers using stream and reduce [[sum of square of even number using stream]]
 5. chmod 764 file1
+	1. 4 2 1 : 4 --> read, wite -->2 , 1 --> execute 
 6. Database : BookAthor
 		Book unique | author repeated
 
 	author name who has written more than 10 books
 
+
 7. find the string with longest and even lenfgth out of big string
-8. find the pair in arraty with given differene 
+8. find the pair in array with given difference 
 9. find unique number : in -> 1123 --> 123 
 
 

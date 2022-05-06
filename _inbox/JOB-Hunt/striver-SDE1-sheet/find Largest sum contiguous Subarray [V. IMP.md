@@ -1,6 +1,6 @@
 # find Largest sum contiguous Subarray
 
-## [[Kadane's Algorithm]]
+## [[Kadane's Algorithm]] 
 1. we will take current sum and maxsum
 2. if current sum is negative make it as zero
 3. if currentsum>maxSum : then maxSum=currentSum
