@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05-09",
+      "path": "Jorurnaling/2022-05-09.md"
+    },
+    {
+      "basename": "spring boot interview questions",
+      "path": "_inbox/fleeting/spring boot interview questions.md"
+    },
+    {
+      "basename": "What is @PostConstruct and @PreDestroy",
+      "path": "_inbox/What is @PostConstruct and @PreDestroy.md"
+    },
+    {
+      "basename": "Everything I need to do",
+      "path": "Jorurnaling/Everything I need to do.md"
+    },
+    {
+      "basename": "how @EnableAutoConfiguration works",
+      "path": "_inbox/how @EnableAutoConfiguration works.md"
+    },
+    {
+      "basename": "What is inside @SpringBootApplication annotation",
+      "path": "_inbox/What is inside @SpringBootApplication annotation.md"
+    },
+    {
+      "basename": "What is Scope in beans",
+      "path": "_inbox/What is Scope in beans.md"
+    },
+    {
+      "basename": "What is Default Scope in java",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Default Scope in java.md"
+    },
+    {
+      "basename": "how to use weblogic or jetty in our springboot application",
+      "path": "_inbox/how to use weblogic or jetty in our springboot application.md"
+    },
+    {
       "basename": "interview-experiences",
       "path": "_inbox/interview-experiences.md"
     },
@@ -13,16 +49,132 @@
       "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
     },
     {
-      "basename": "Coding Questions",
-      "path": "_inbox/fleeting/Coding Questions.md"
+      "basename": "how to create permanent notes",
+      "path": "_inbox/how to create permanent notes.md"
     },
     {
-      "basename": "find duplicate in an array of N+1 Integers",
-      "path": "_inbox/fleeting/find duplicate in an array of N+1 Integers.md"
+      "basename": "005_obsidian MOC",
+      "path": "005_obsidian MOC.md"
+    },
+    {
+      "basename": "2022-W20",
+      "path": "weekly-journal/2022-W20.md"
+    },
+    {
+      "basename": "Weekly Note Template",
+      "path": "templates/Weekly Note Template.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "templates/Daily Note Template.md"
+    },
+    {
+      "basename": "2022-05-12",
+      "path": "Jorurnaling/2022-05-12.md"
+    },
+    {
+      "basename": "2022-05-11",
+      "path": "Jorurnaling/2022-05-11.md"
+    },
+    {
+      "basename": "2022-05-10",
+      "path": "Jorurnaling/2022-05-10.md"
+    },
+    {
+      "basename": "2022-05-08",
+      "path": "Jorurnaling/2022-05-08.md"
+    },
+    {
+      "basename": "everything i wants to do",
+      "path": "everything i wants to do.md"
+    },
+    {
+      "basename": "Examples of reduce method in java",
+      "path": "_inbox/Examples of reduce method in java.md"
+    },
+    {
+      "basename": "use streams with hashmap",
+      "path": "_inbox/use streams with hashmap.md"
+    },
+    {
+      "basename": "vscode shortcuts",
+      "path": "_inbox/vscode shortcuts.md"
+    },
+    {
+      "basename": "003_productivity MOC",
+      "path": "003_productivity MOC.md"
+    },
+    {
+      "basename": "sum of square of even number using stream",
+      "path": "_inbox/sum of square of even number using stream.md"
+    },
+    {
+      "basename": "Use lambda expression to implement Runnable Interface",
+      "path": "_inbox/Use lambda expression to implement Runnable Interface.md"
+    },
+    {
+      "basename": "2022-05-07",
+      "path": "Jorurnaling/2022-05-07.md"
+    },
+    {
+      "basename": "2022-05-06",
+      "path": "Jorurnaling/2022-05-06.md"
+    },
+    {
+      "basename": "rotate an array k times",
+      "path": "_inbox/rotate an array k times.md"
     },
     {
       "basename": "Array Coding Problems",
       "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
+    },
+    {
+      "basename": "450 DSA Cracker",
+      "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
+    },
+    {
+      "basename": "Coding Questions",
+      "path": "_inbox/fleeting/Coding Questions.md"
+    },
+    {
+      "basename": "002_microservices MOC",
+      "path": "002_microservices MOC.md"
+    },
+    {
+      "basename": "find the minimum cost to add the ropes",
+      "path": "_inbox/find the minimum cost to add the ropes.md"
+    },
+    {
+      "basename": "find the minimum cost for the taxi pass",
+      "path": "_inbox/find the minimum cost for the taxi pass.md"
+    },
+    {
+      "basename": "find the minimum cost to add the roles",
+      "path": "_inbox/find the minimum cost to add the roles.md"
+    },
+    {
+      "basename": "performance analysis using jmeter",
+      "path": "_inbox/performance analysis using jmeter.md"
+    },
+    {
+      "basename": "template-replies",
+      "path": "_inbox/template-replies.md"
+    },
+    {
+      "basename": "Companies",
+      "path": "_inbox/JOB-Hunt/companies/Companies.md"
+    },
+    {
+      "basename": "accolite",
+      "path": "_inbox/accolite.md"
+    },
+    {
+      "basename": "citrix",
+      "path": "_inbox/citrix.md"
+    },
+    {
+      "basename": "find duplicate in an array of N+1 Integers",
+      "path": "_inbox/fleeting/find duplicate in an array of N+1 Integers.md"
     },
     {
       "basename": "find Largest sum contiguous Subarray [V. IMP",
@@ -47,158 +199,6 @@
     {
       "basename": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
       "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo.md"
-    },
-    {
-      "basename": "Find the Kth max and min element of an array",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find the Kth max and min element of an array.md"
-    },
-    {
-      "basename": "Comparator Vs Comparable",
-      "path": "slip-box/Comparator Vs Comparable.md"
-    },
-    {
-      "basename": "Find minimum and maximum element in an array",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find minimum and maximum element in an array.md"
-    },
-    {
-      "basename": "Reverse the Array",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Reverse the Array.md"
-    },
-    {
-      "basename": "450 DSA Cracker",
-      "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
-    },
-    {
-      "basename": "Bit Manipulation",
-      "path": "_inbox/Bit Manipulation.md"
-    },
-    {
-      "basename": "What is Immutable class in java",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
-    },
-    {
-      "basename": "2022-05-06",
-      "path": "Jorurnaling/2022-05-06.md"
-    },
-    {
-      "basename": "2022-05-07",
-      "path": "Jorurnaling/2022-05-07.md"
-    },
-    {
-      "basename": "developig inside a contianer with vscode",
-      "path": "_inbox/developig inside a contianer with vscode.md"
-    },
-    {
-      "basename": "sprint-2022-05A",
-      "path": "WorkON/sprint-2022-05A.md"
-    },
-    {
-      "basename": "PF",
-      "path": "WorkON/completed/PF.md"
-    },
-    {
-      "basename": "sum of square of even number using stream",
-      "path": "_inbox/sum of square of even number using stream.md"
-    },
-    {
-      "basename": "_Dashboard",
-      "path": "_Dashboard.md"
-    },
-    {
-      "basename": "AWS Services",
-      "path": "_inbox/AWS Services.md"
-    },
-    {
-      "basename": "template-replies",
-      "path": "_inbox/template-replies.md"
-    },
-    {
-      "basename": "2022-05-05",
-      "path": "Jorurnaling/2022-05-05.md"
-    },
-    {
-      "basename": "exotel",
-      "path": "_inbox/exotel.md"
-    },
-    {
-      "basename": "Companies",
-      "path": "_inbox/JOB-Hunt/companies/Companies.md"
-    },
-    {
-      "basename": "find smallest and largest substring lexicographically",
-      "path": "_inbox/find smallest and largest substring lexicographically.md"
-    },
-    {
-      "basename": "String Coding Probems",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/String Coding Probems.md"
-    },
-    {
-      "basename": "primitive datatype in java",
-      "path": "_inbox/primitive datatype in java.md"
-    },
-    {
-      "basename": "pow function in java",
-      "path": "_inbox/pow function in java.md"
-    },
-    {
-      "basename": "2022-05-04",
-      "path": "Jorurnaling/2022-05-04.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "templates/Daily Note Template.md"
-    },
-    {
-      "basename": "e-separation bosch",
-      "path": "WorkON/e-separation bosch.md"
-    },
-    {
-      "basename": "why character array is better thatn string to storie password injava",
-      "path": "_inbox/why character array is better thatn string to storie password injava.md"
-    },
-    {
-      "basename": "What is the use of immutable class",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is the use of immutable class.md"
-    },
-    {
-      "basename": "spring boot interview questions",
-      "path": "_inbox/fleeting/spring boot interview questions.md"
-    },
-    {
-      "basename": "output based programs java",
-      "path": "_inbox/output based programs java.md"
-    },
-    {
-      "basename": "@Value",
-      "path": "_inbox/fleeting/@Value.md"
-    },
-    {
-      "basename": "How to improve performance of springboot application",
-      "path": "_inbox/How to improve performance of springboot application.md"
-    },
-    {
-      "basename": "Regular Note Template",
-      "path": "templates/Regular Note Template.md"
-    },
-    {
-      "basename": "What is equals() method in java",
-      "path": "_inbox/fleeting/What is equals() method in java.md"
-    },
-    {
-      "basename": "What is !@Qualifier in springboot",
-      "path": "_inbox/What is !@Qualifier in springboot.md"
-    },
-    {
-      "basename": "Simple Springboot REST API with H2",
-      "path": "_inbox/Simple Springboot REST API with H2.md"
-    },
-    {
-      "basename": "Complete Sprinboot project REST API with MySQL",
-      "path": "_inbox/fleeting/Complete Sprinboot project REST API with MySQL.md"
-    },
-    {
-      "basename": "method references in java",
-      "path": "_inbox/method references in java.md"
     }
   ],
   "omittedPaths": [],

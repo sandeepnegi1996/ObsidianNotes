@@ -9,9 +9,9 @@
 - [x] [[find Largest sum contiguous Subarray [V. IMP]]
 - [x] [[find subarray with sum is equal to zero]]
 - [x] [[find duplicate in an array of N+1 Integers]] --> revise the optimal approach
-
+- [ ] [[find the minimum cost to add the ropes]]
 - [ ] [[Merge 2 sorted arrays without using Extra space.]]
-
+- [ ] [[rotate an array k times]]
 
 
 

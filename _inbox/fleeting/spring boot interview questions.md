@@ -12,10 +12,14 @@
 - [ ] [[Simple Springboot REST API with H2 ]]
 
 ## Pending 
+- [ ] [[how spring container manages bean]]
+- [x] [[What is @PostConstruct and @PreDestroy ]]
+- [x] [[What is inside @SpringBootApplication annotation]]
+- [x] [[how to use weblogic or jetty in our springboot application]]
 - [x] [[What is !@Qualifier in springboot]]
 - [ ] [[How to improve performance of springboot application]]
 - [ ] [[What is setter injector and constructor injection]]
-- [ ] [[What is Scope in beans]]
+- [x] [[What is Scope in beans]]
 	4.[[ What is factory design]]
 	7. [[What is Session Factory]]
 	5.  and [[Singleton design patterns]]

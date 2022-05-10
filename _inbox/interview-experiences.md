@@ -1,3 +1,119 @@
+### Accolite
+##### Java and Springboot 
+1. how spring container manages bean
+2. what is @PostConstruct and @PreDestroy and what business logic we will write in this 
+3. @Qualifier
+4. What is inside @SpringBootApplication
+5. How @EnableAutoConfiguration works in depth
+6. How to use weblogic or jetty in our spring boot application in depth
+7. What is hashmap, is it thread safe , can we make it thread safe
+8. What is concurrentHashMap , how we can use it with examples
+9. Real life examples of Join and Sleep
+10. What is synchronised keyword , what is the real usage
+	1. how to use synchronised keyword and when to use Non-Statuc and Static Synchorization
+11. How locking works in java with synchronised
+12. When to use ArrayList Vs Linkedlist 
+
+
+##### Frontend
+1. Javascript is single threaded or multithreaded
+2. What is execution context global and lcoal
+3. What is closure
+4. what is async programming in java
+5. What is event loop how it works
+6. what is session and local storage
+
+
+###  TSYS 
+1. Reverse a string and not the words without any inbuild features
+2. [x] Use lambda expression to implement Runnable Interface
+3. Use Streams to get the Key and Value of the HashMap and then store the key in a separate list  [[use streams with hashmap]]
+4. How hashmaps works internally
+	1. what will happen when hashcode becomes same and objects are different means object valus are diferetn
+	2. what is bucket in hashmap
+	3. why we override hashcode and equals method
+5. What is concurrent hashmap
+6. 
+
+
+### Xoriant
+1. class pdhleThread{ Thread t=new Thread (); t.start(); t.start(); }
+2. What will happen? 2. What is the scope of unreferenced string in string constant pool? 
+3. Rotate 4 times Are[ ]={1,2,3,4,5,23,6} Op-Are[ ]= {5,23,6,1,2,3,4} 
+4. [[rotate an array k times ]]
+5. jdbc steps 
+6. @qualifier 
+7. annotations required to make rest application
+
+###  ASCI CORP
+
+#### Frontend 
+1. what are hooks in angular
+2. how to write unit tests in angular
+3. how to use Custom icons in angular
+4. How Router works in angular 
+
+#### JAVA
+1. How you will handle HeapOutOfMemory Exception
+2. How you will handle StackOverflowException
+3. how to use trim function in java string
+4. When to use Interface and when to use Abstract classes
+5. How to modify any element at a particular index in arraylist
+6. when to use arraylist or linkedlist what are the cases
+7. What is HashSet , how it works internally
+8. What is hashmap, how it works internally
+9. what is monolithic and microservice difference
+10. [ ] What are all the scopes in springboot ? [[What is Scope in beans]]
+11. How to use Actuators what will be the respone of the actuators [[how to use actuators in springboot ]]
+12. Difference between Patch and Put
+13. What is @Transaction in Springboot
+14. How to create simple Immutable classs, write in notepad
+15. Reverse the whole string but do not the reverse the word in notepad
+16. **How to write the class for custom excepton** [[How to create class for custom exception in java]]
+17. Create simple thread class and call the run method
+18. Arraylist --> stream ---> find all the even numbers and then sum of even numbers
+19. modify the element at particular index in array list
+20. What is message broker, kafka and rabbit mq
+21. basics of scalable system: caching, sharding, cap theorem, hashing etc
+22. how to write simple unit tests 
+23. 
+
+
+
+
+#### Database
+15. What is Unique key
+16. What is Procedure and Functions in database
+17. How you can terminate a request after some time if the api is keep on waiting for the request.
+
+		Person     Address     PersonAdress
+		id,name,email  adress,id   personid,adressid
+
+
+		find person,name,id,email,adress
+
+
+### Exotel
+1. [[find the minimum cost to add the ropes ]]
+2.  [[find the minimum cost for the taxi pass ]]
+
+### Visa
+1. find the element in array with sum, with the given sum,
+	1.  maxSumPair(arr,sum)
+2. how scaling works in terms of memory
+3. how profiling tools
+4. what is cassandra
+5. what is Kafka, how it works
+6. What is apache arora
+7. 
+
+### Paypal Interview Experience
+1. how scaling works
+2. how data is shared when scaling happens in a container or VM in cloud
+3. how you will handle millions of request for a web services what performance impact will be there
+4. how to find the kth maximum element from the array.
+
+
 
 ### Interview Unifyed technical round 2
 1.  what is eurekha server how you will do the deployment of the microservices
@@ -18,11 +134,6 @@
 5. what are procedures
 6. what is cursor
 7. what is Elastic search and Redis and how rabbit mQ works
-
-
-
-### Paypal
-1. 
 
 
 ### wissen interview 
