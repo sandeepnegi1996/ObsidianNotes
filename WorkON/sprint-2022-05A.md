@@ -6,6 +6,8 @@
 
 
 ### PBI000000265726 - SUBSTITUTE - Substitute rule not removing from user's I act for tab
+#### Final Solution for the client is 
+1. 
 #### Investigation
 1. there is no much information in the problem ticket 
 2. So we will start checking incident ticket
@@ -54,7 +56,33 @@ Solution : so once the user is deactivated its substitutes should be removed and
 1. 
 ### workon operations
 #### check tickets 
-1. 
+1. ticket for the substitutes : INC000022145747 -->closed
+2. check the incident : INC000022109916  --> closed
+3. check the problem ticket 
+4. closed one more opened ticket
+5. check the issue with the email  : 
+	1. Reprocessemailqueueitem
 
+
+
+
+
+
+
+##### Email delay issue in workon
+1. class in workon responsible for the emails are `Reprocessmailqueueitem`
+2.  this call doesn't contain much information it is basically using AbstractQueueItem class 
+3. what is active MQ [[what is active MQ]]
+4. 
+5. 
+
+
+
+##### INC000022109916 --> closed
+1. earlier user did not received the email but now the user has received the email
+2. so we can now close the ticket 
+3. no fuirther investigation is required
+4. 
+5. 
 
 
