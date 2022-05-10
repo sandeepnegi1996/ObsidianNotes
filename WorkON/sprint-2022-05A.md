@@ -49,24 +49,44 @@ Solution : so once the user is deactivated its substitutes should be removed and
 
 
 
-
+ 
 
 ### build and merge
-#### release plan for the may release
-1. 
+#### release plan for the may release 
+
+#### PR Creation done
+1. check the items in the release and the branch name of the same
+2. uib item check with lokesh
+3. priya one item is not completed
+
+#### merge pending
+
+
+
+```code
+
+@Manjunath Rajamanickam (CI PWW4)](mailto:APAC\MRJ6COB) 
+
+please review the pull request and approve there it self 😊
+
+```
+
 ### workon operations
 #### check tickets 
 1. ticket for the substitutes : INC000022145747 -->closed
 2. check the incident : INC000022109916  --> closed
-3. check the problem ticket 
-4. closed one more opened ticket
-5. check the issue with the email  : 
+3. INC000022146638 --> closed 
+4. check the problem ticket 
+5. closed one more opened ticket
+6. check the issue with the email  : 
 	1. Reprocessemailqueueitem
 
 
 
 
 
+	#####  INC000022146638
+1.   added substitutes
 
 
 ##### Email delay issue in workon

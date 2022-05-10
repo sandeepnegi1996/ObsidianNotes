@@ -1,3 +1,13 @@
+### KaddleLabs
+1. filter an arraylist based on even values
+2. what is hashmap and concurrent hashmap
+3. what is @SpringBootApplication annotaiton does
+4. [[What is bean life cycle]]
+5. what is difference beween @Service and @Component
+6. [[What are the annotations used in Spring Data JPA ?]]
+7. [[What is cascading ?]]
+
+
 ### Accolite
 ##### Java and Springboot 
 1. how spring container manages bean

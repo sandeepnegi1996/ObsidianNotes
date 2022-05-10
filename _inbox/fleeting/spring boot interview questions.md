@@ -12,6 +12,10 @@
 - [ ] [[Simple Springboot REST API with H2 ]]
 
 ## Pending 
+1. [x] [[What is bean life cycle]]
+2.  [ ] [[What are the annotations used in Spring Data JPA ]]
+3. [ ] [[What is cascading ?]]
+4.  [ ] [[ Can we create custom annotation in springboot]]
 - [ ] [[how spring container manages bean]]
 - [x] [[What is @PostConstruct and @PreDestroy ]]
 - [x] [[What is inside @SpringBootApplication annotation]]

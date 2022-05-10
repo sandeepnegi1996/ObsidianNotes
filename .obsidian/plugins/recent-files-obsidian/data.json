@@ -1,53 +1,20 @@
 {
   "recentFiles": [
     {
-
-      "basename": "2022-05-09",
-      "path": "Jorurnaling/2022-05-09.md"
-
-      "basename": "sprint-2022-05A",
-      "path": "WorkON/sprint-2022-05A.md"
+      "basename": "Difference between hashmap and concurrent hashmap",
+      "path": "_inbox/Difference between hashmap and concurrent hashmap.md"
     },
     {
-      "basename": "2022-05-10",
-      "path": "Jorurnaling/2022-05-10.md"
+      "basename": "JAVA-interviews",
+      "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
     },
     {
-      "basename": "2022-05-09",
-      "path": "Jorurnaling/2022-05-09.md"
+      "basename": "When to use Abstract classes and when to use Interface",
+      "path": "_inbox/When to use Abstract classes and when to use Interface.md"
     },
     {
-      "basename": "2022-05-07",
-      "path": "Jorurnaling/2022-05-07.md"
-    },
-    {
-      "basename": "what is active MQ",
-      "path": "_inbox/what is active MQ.md"
-    },
-    {
-      "basename": "interview-experiences",
-      "path": "_inbox/interview-experiences.md"
-
-    },
-    {
-      "basename": "spring boot interview questions",
-      "path": "_inbox/fleeting/spring boot interview questions.md"
-    },
-    {
-      "basename": "What is @PostConstruct and @PreDestroy",
-      "path": "_inbox/What is @PostConstruct and @PreDestroy.md"
-    },
-    {
-      "basename": "Everything I need to do",
-      "path": "Jorurnaling/Everything I need to do.md"
-    },
-    {
-      "basename": "how @EnableAutoConfiguration works",
-      "path": "_inbox/how @EnableAutoConfiguration works.md"
-    },
-    {
-      "basename": "What is inside @SpringBootApplication annotation",
-      "path": "_inbox/What is inside @SpringBootApplication annotation.md"
+      "basename": "How to run multiple threads in java",
+      "path": "_inbox/How to run multiple threads in java.md"
     },
     {
       "basename": "What is Scope in beans",
@@ -58,157 +25,132 @@
       "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Default Scope in java.md"
     },
     {
-      "basename": "how to use weblogic or jetty in our springboot application",
-      "path": "_inbox/how to use weblogic or jetty in our springboot application.md"
-    },
-    {
-      "basename": "interview-experiences",
-      "path": "_inbox/interview-experiences.md"
-    },
-    {
-      "basename": "001_interviews MOC",
-      "path": "001_interviews MOC.md"
-    },
-    {
-      "basename": "JAVA-interviews",
-      "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
-    },
-    {
-      "basename": "how to create permanent notes",
-      "path": "_inbox/how to create permanent notes.md"
-    },
-    {
-      "basename": "005_obsidian MOC",
-      "path": "005_obsidian MOC.md"
-    },
-    {
-      "basename": "2022-W20",
-      "path": "weekly-journal/2022-W20.md"
-    },
-    {
-      "basename": "Weekly Note Template",
-      "path": "templates/Weekly Note Template.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "templates/Daily Note Template.md"
-    },
-    {
-      "basename": "2022-05-12",
-      "path": "Jorurnaling/2022-05-12.md"
-    },
-    {
-      "basename": "2022-05-11",
-      "path": "Jorurnaling/2022-05-11.md"
-    },
-    {
-      "basename": "2022-05-10",
-      "path": "Jorurnaling/2022-05-10.md"
-    },
-    {
-
-      "basename": "2022-05-08",
-      "path": "Jorurnaling/2022-05-08.md"
-    },
-    {
-      "basename": "everything i wants to do",
-      "path": "everything i wants to do.md"
+      "basename": "what is map.EntrySet() and Map.Entry in java",
+      "path": "_inbox/what is map.EntrySet() and Map.Entry in java.md"
     },
     {
       "basename": "Examples of reduce method in java",
       "path": "_inbox/Examples of reduce method in java.md"
     },
     {
-      "basename": "use streams with hashmap",
-      "path": "_inbox/use streams with hashmap.md"
-
-      "basename": "developig inside a contianer with vscode",
-      "path": "_inbox/developig inside a contianer with vscode.md"
+      "basename": "What is object cloning in java",
+      "path": "_inbox/What is object cloning in java.md"
     },
     {
-      "basename": "PF",
-      "path": "WorkON/completed/PF.md"
-
+      "basename": "How to Synchronize in ArrayList",
+      "path": "_inbox/fleeting/How to Synchronize in ArrayList.md"
     },
     {
-      "basename": "vscode shortcuts",
-      "path": "_inbox/vscode shortcuts.md"
+      "basename": "primitive datatype in java",
+      "path": "_inbox/primitive datatype in java.md"
     },
     {
-      "basename": "003_productivity MOC",
-      "path": "003_productivity MOC.md"
+      "basename": "What is map and flat map in streams",
+      "path": "_inbox/fleeting/What is map and flat map in streams.md"
+    },
+    {
+      "basename": "What is stream api with examples",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is stream api with examples.md"
+    },
+    {
+      "basename": "clone method in class vs Collections",
+      "path": "_inbox/clone method in class vs Collections.md"
+    },
+    {
+      "basename": "What is Immutable class in java",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
     },
     {
       "basename": "sum of square of even number using stream",
       "path": "_inbox/sum of square of even number using stream.md"
     },
     {
-      "basename": "Use lambda expression to implement Runnable Interface",
-      "path": "_inbox/Use lambda expression to implement Runnable Interface.md"
+      "basename": "spring boot interview questions",
+      "path": "_inbox/fleeting/spring boot interview questions.md"
     },
     {
-      "basename": "2022-05-07",
-      "path": "Jorurnaling/2022-05-07.md"
+      "basename": "What are the annotations used in Spring Data JPA",
+      "path": "_inbox/What are the annotations used in Spring Data JPA.md"
+    },
+    {
+      "basename": "What is bean life cycle",
+      "path": "_inbox/What is bean life cycle.md"
+    },
+    {
+      "basename": "sprint-2022-05A",
+      "path": "WorkON/sprint-2022-05A.md"
+    },
+    {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
+    },
+    {
+      "basename": "_Dashboard",
+      "path": "_Dashboard.md"
+    },
+    {
+      "basename": "interview-experiences",
+      "path": "_inbox/interview-experiences.md"
+    },
+    {
+      "basename": "e-separation bosch",
+      "path": "WorkON/e-separation bosch.md"
+    },
+    {
+      "basename": "2022-05-09",
+      "path": "Jorurnaling/2022-05-09.md"
+    },
+    {
+      "basename": "2022-05-10",
+      "path": "Jorurnaling/2022-05-10.md"
+    },
+    {
+      "basename": "2022-05-11",
+      "path": "Jorurnaling/2022-05-11.md"
+    },
+    {
+      "basename": "2022-05-12",
+      "path": "Jorurnaling/2022-05-12.md"
+    },
+    {
+      "basename": "2022-05-13",
+      "path": "_inbox/2022-05-13.md"
     },
     {
       "basename": "2022-05-06",
       "path": "Jorurnaling/2022-05-06.md"
     },
     {
-      "basename": "rotate an array k times",
-      "path": "_inbox/rotate an array k times.md"
+      "basename": "2022-05-07",
+      "path": "Jorurnaling/2022-05-07.md"
     },
     {
-      "basename": "Array Coding Problems",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
+      "basename": "2022-05-04",
+      "path": "Jorurnaling/2022-05-04.md"
     },
     {
-      "basename": "450 DSA Cracker",
-      "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
+      "basename": "2022-05-03",
+      "path": "Jorurnaling/2022-05-03.md"
+    },
+    {
+      "basename": "2022-05-05",
+      "path": "Jorurnaling/2022-05-05.md"
+    },
+    {
+      "basename": "what is active MQ",
+      "path": "_inbox/what is active MQ.md"
     },
     {
       "basename": "Coding Questions",
       "path": "_inbox/fleeting/Coding Questions.md"
     },
     {
-      "basename": "002_microservices MOC",
-      "path": "002_microservices MOC.md"
-    },
-    {
-      "basename": "find the minimum cost to add the ropes",
-      "path": "_inbox/find the minimum cost to add the ropes.md"
-    },
-    {
-      "basename": "find the minimum cost for the taxi pass",
-      "path": "_inbox/find the minimum cost for the taxi pass.md"
-    },
-    {
-      "basename": "find the minimum cost to add the roles",
-      "path": "_inbox/find the minimum cost to add the roles.md"
-    },
-    {
-      "basename": "performance analysis using jmeter",
-      "path": "_inbox/performance analysis using jmeter.md"
-    },
-    {
-      "basename": "template-replies",
-      "path": "_inbox/template-replies.md"
-    },
-    {
-      "basename": "Companies",
-      "path": "_inbox/JOB-Hunt/companies/Companies.md"
-    },
-    {
-      "basename": "accolite",
-      "path": "_inbox/accolite.md"
-    },
-    {
-      "basename": "citrix",
-      "path": "_inbox/citrix.md"
-    },
-    {
       "basename": "find duplicate in an array of N+1 Integers",
       "path": "_inbox/fleeting/find duplicate in an array of N+1 Integers.md"
+    },
+    {
+      "basename": "Array Coding Problems",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
     },
     {
       "basename": "find Largest sum contiguous Subarray [V. IMP",
@@ -219,7 +161,6 @@
       "path": "_inbox/Merge 2 sorted arrays without using Extra space..md"
     },
     {
-
       "basename": "find subarray with sum is equal to zero",
       "path": "_inbox/find subarray with sum is equal to zero.md"
     },
@@ -234,10 +175,30 @@
     {
       "basename": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
       "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo.md"
-
-      "basename": "What is !@Qualifier in springboot",
-      "path": "_inbox/What is !@Qualifier in springboot.md"
-
+    },
+    {
+      "basename": "Find the Kth max and min element of an array",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find the Kth max and min element of an array.md"
+    },
+    {
+      "basename": "Comparator Vs Comparable",
+      "path": "slip-box/Comparator Vs Comparable.md"
+    },
+    {
+      "basename": "Find minimum and maximum element in an array",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find minimum and maximum element in an array.md"
+    },
+    {
+      "basename": "Reverse the Array",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Reverse the Array.md"
+    },
+    {
+      "basename": "450 DSA Cracker",
+      "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
+    },
+    {
+      "basename": "Bit Manipulation",
+      "path": "_inbox/Bit Manipulation.md"
     }
   ],
   "omittedPaths": [],
