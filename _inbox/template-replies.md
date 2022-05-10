@@ -19,7 +19,18 @@
 
 
 
+### How to follow up after interview 
 
-	
-	
+Hi ,
+
+I hope all is well.
+
+I’m following up to see if you have any status updates regarding the position that I interviewed.
+
+I’m excited to hear about the next steps, and the role seems like a great fit for my background based on what I learned! Any updates you can share would be great.
+
+Regards,
+Sandeep
+
+
 

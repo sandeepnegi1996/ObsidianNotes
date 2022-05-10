@@ -3,7 +3,8 @@
  *Focus Mode and Pomodoro and TimeBlocking* 
 
  *Never Reveal*
-
+ 
+*Train your brain to do hard things *
 
 
 ## Morning thoughts
@@ -39,6 +40,7 @@
 - [ ] Pray for 5 mins , om namah shivay
 - [ ] DCG followed or not 
 - [ ] PMO followed
+- [ ] Dance on urvashi song 
 
 ### Interview Prep
 - [ ] [[450 DSA Cracker]]

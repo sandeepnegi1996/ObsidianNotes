@@ -2,27 +2,23 @@
 
 
 # Latest
+- [ ] Plan for passport 
+- [ ] Plan for the bosch e separation [[e-separation bosch]]
 - [ ] https://github.com/tuan3w/obsidian-template
 	- [ ] check above mentioned link, learn from it or also send some pull request to improve it
-- [ ] Get certification from hackerrank and solve questions on hakerrank
+
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
 - [ ] Solve java interview questions
-- [ ] Learn Go
 - [ ] Apply at jio[[Jio-job]]
-- [x] collect the information shared by megha 
-	- [ ] [[Network or Connection List]]
+- [ ]  [ ] [[Network or Connection List]]
 - [ ] Apply for passport 
 - [ ] Check the PF passbook 
 - [ ]  [[How giving tech interviews build my confidence ]]  
-- [x] note interview questions asked in deloitte   [[JAVA-interviews]]
 - [ ] How to use obsidian as a software developer
-- [x] talk to gaurav bro kothari brother
-- [x] [ ] [[How to use Griller for Cooking Various Items ]]
 - [ ]  [[Walking Challenges for Donation]]
 - [ ]  [ ] [[Document Skills for Sister]]
 - [ ] [[Overnight Oats Recipes]]
 - [ ] How to do presentation using obsidian
-- [x]  [[e-separation bosch]]
 - [ ] Clean kitchen, wash utensils
 - [ ] Clean table
 - [ ] Wash clothes
@@ -34,6 +30,7 @@
 - [ ] call a friend
 
 #### Old
+- [ ] - [x] Get certification from hackerrank and solve questions on hakerrank
 - [x] Add goloang in the CV
 - [x] Add golang in linkein, naukri, cv 
 checkout : https://450dsa.com/

@@ -9,6 +9,11 @@
 - [x] [[What is Immutable class in java]]
 - [ ] [[What is object cloning in java]]
 - [ ] [[sum of square of even number using stream]]
+- [x] [[Use lambda expression to implement Runnable Interface]]
+- [ ] [[Examples of reduce method in java ]]
+- [ ] [[what is map.EntrySet() and Map.Entry in java ]]
+- [x] [[use streams with hashmap]]
+- [ ] 
 
 [[clone method in class vs Collections ]]
 

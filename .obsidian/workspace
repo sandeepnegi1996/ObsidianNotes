@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9d1762ab2b6501c4",
+        "id": "672ad685309c3db7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Jorurnaling/2022-05-09.md",
             "file": "WorkON/sprint-2022-05A.md",
             "mode": "source",
             "source": true
@@ -40,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#03-05-2022",
+                "query": "CCTC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +70,9 @@
       }
     ],
     "direction": "horizontal",
+
     "width": 292
+
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -85,7 +88,11 @@
             "state": {
               "type": "backlink",
               "state": {
+
+                "file": "Jorurnaling/2022-05-09.md",
+
                 "file": "WorkON/sprint-2022-05A.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,11 +121,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "9d1762ab2b6501c4",
+  "active": "672ad685309c3db7",
   "lastOpenFiles": [
+
+    "Jorurnaling/2022-05-09.md",
+    "_inbox/fleeting/spring boot interview questions.md",
+    "_inbox/What is @PostConstruct and @PreDestroy.md",
+    "Jorurnaling/Everything I need to do.md",
+    "_inbox/how @EnableAutoConfiguration works.md",
+    "_inbox/What is inside @SpringBootApplication annotation.md",
+    "_inbox/What is Scope in beans.md",
+    "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Default Scope in java.md",
+    "_inbox/how to use weblogic or jetty in our springboot application.md",
+    "_inbox/interview-experiences.md"
+
     "WorkON/sprint-2022-05A.md",
     "Jorurnaling/2022-05-10.md",
     "Jorurnaling/2022-05-09.md",
@@ -129,5 +147,6 @@
     "_inbox/JOB-Hunt/JAVA-interviews.md",
     "_inbox/fleeting/Coding Questions.md",
     "_inbox/fleeting/find duplicate in an array of N+1 Integers.md"
+
   ]
 }

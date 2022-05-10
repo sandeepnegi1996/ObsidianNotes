@@ -71,6 +71,8 @@ ETL at R1 RCM --> Yahya Jami
 27. [[amazon]]
 28. [[e-separation bosch]]
 29. [[exotel]]
+30. [[citrix]]
+31. [[accolite]]
 
 
 ## Companies in NCR
