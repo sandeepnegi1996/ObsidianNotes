@@ -1,11 +1,17 @@
 # System Design
 
+##  Key Takeaways
+1. Think in usual manner , lets say you are designing a pizza shop 
+
+Resources
+
+[Gaurav Sen System Design Playlist](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=1)
+
+
 ####  Concepts
-- [ ] [[throughput]]
-- [ ] [[latency]]
 
+[[System Design  Horizontal Vs Vertical Scaling]]
+[[how to start with the distributed system]]
+[[HLD]] --> this contains everything about the problem and how we will design the system
 
-## What is System Desgin
-
-## Examples of System Design
-[[Usecases of system design]]
+[[LLD]]  -> this talks about the coding part what needs to be done in the classes and all those things

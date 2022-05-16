@@ -1,3 +1,22 @@
+### ACS
+1.  product class --> name, cost , color
+
+	product 1 , 12 , red
+	product 2, 13 , blue 
+	product 3, 12 , blue
+
+	- List < Product > listOfProducts = ?
+	- get the unique combination of employee name and color
+
+2. get the employee associated with a department 
+	1. write a service which will get the employee based on department 
+	2. given the input of the department , get the employee associated in a particular department
+	3. use JPA to write the Query
+3.  What is the difference between between Entity and Table
+4. revere a string and not a letter in the string
+
+		I love coding in java 
+
 ### KaddleLabs
 1. filter an arraylist based on even values
 2. what is hashmap and concurrent hashmap
@@ -8,6 +27,7 @@
 7. [[What is cascading ?]]
 
 
+  
 ### Accolite
 ##### Java and Springboot 
 1. how spring container manages bean

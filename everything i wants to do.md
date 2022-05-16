@@ -2,16 +2,12 @@
 
 
 # Latest
-- [ ] Plan for passport 
+- [ ] [[Oil Free Recipies indian]] 
 - [ ] Plan for the bosch e separation [[e-separation bosch]]
 - [ ] https://github.com/tuan3w/obsidian-template
 	- [ ] check above mentioned link, learn from it or also send some pull request to improve it
 
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
-- [ ] Solve java interview questions
-- [ ] Apply at jio[[Jio-job]]
-- [ ]  [ ] [[Network or Connection List]]
-- [ ] Apply for passport 
 - [ ] Check the PF passbook 
 - [ ]  [[How giving tech interviews build my confidence ]]  
 - [ ] How to use obsidian as a software developer
@@ -30,6 +26,8 @@
 - [ ] call a friend
 
 #### Old
+- [x] Bosch PF shown in UAN
+- [x] Plan for passport 
 - [ ] - [x] Get certification from hackerrank and solve questions on hakerrank
 - [x] Add goloang in the CV
 - [x] Add golang in linkein, naukri, cv 

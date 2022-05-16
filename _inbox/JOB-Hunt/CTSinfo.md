@@ -52,8 +52,7 @@ This is the central repository for the skill set.
 Gauranshi Tripathi (BGSW/HRL-BP1)
   - Gauranshi.Tripathi@in.bosch.com
   - 91(80)6657-1950
-  - 
-  -
+  
 
 3. Bosch Mobile number and adress
   - Bosch Adress : CHIL SEZ IT Park, Saravanampatti, Coimbatore, Tamil Nadu 641035
@@ -100,6 +99,21 @@ Mobile Number : 7973882172
 Your application form has been submitted successfully.
 
 Your Application Reference Number(ARN) is: 22-0004765732
+
+
+##### Passport Verification
+- Your Appointment Number is: 100021541451722
+- Appointment date and time - 1/June/ --> 1 PM 
+- show the text message for the appointment
+- 100021541451722 
+- POPSK Roorkee
+
+Roorkee
+
+Head Post Office Roorkee, Civil Lines, Roorkee (Uttarakhand) Pin-247667
+
+ATM Facility with All Bank Cards Available
+
 
 ### Voter Card
 Birth certificate and driving license is required.

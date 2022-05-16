@@ -52,7 +52,7 @@ ETL at R1 RCM --> Yahya Jami
 8. Accolite --> Dhruv
 9. Walmart --> Ashutosh
 10. Zoho
-11. Tek System 
+11. [[Tek System ]]
 12. Jaro
 13. Impetus
 14. Cerner 
@@ -73,6 +73,7 @@ ETL at R1 RCM --> Yahya Jami
 29. [[exotel]]
 30. [[citrix]]
 31. [[accolite]]
+32. [[delloite]]
 
 
 ## Companies in NCR

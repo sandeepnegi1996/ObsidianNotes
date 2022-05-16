@@ -4,23 +4,38 @@
 
 #### 🔗 Links
 
+### Offer Rejection Template 
+```
+Thank you so much for offering me the position. It has been a pleasure speaking with you and learning more about the company after I was interviewed for this post.
+
+Unfortunately, after giving a great deal of thought to this career opportunity, I have decided that it is in my best interest, as well as the company’s, to turn down your gracious job offer which I had earlier accepted. This is because I have recently decided to accept another position that I believe is a better fit for my abilities and skill set.
+
+I am so sorry for any inconvenience my decision may cause.
+
+I again thank you for the opportunity and the recruitment experience I had, please extend my sincere thanks to all those who were involved in the experience.
+
+```
+
 ### Generic Information
-	Exp  : 2 yr 5 months  
-	CCTC : 7 LPA  
-	ECTC : 11 LPA  
-	Notice Period : 30 Days  
-	Current Company : Bosch  
-	Location : Delhi  
-	Reason for Change: looking for more growth and opportunities  
-	Exp in Java: 2 yr 5 months  
-	Springboot: 2 yr  
-	Angular: 1 yr
+```
+Exp  : 2 yr 5 months  
+CCTC : 7 LPA  
+ECTC : 18 LPA  
+Notice Period : 30 Days  
+Current Company : Bosch  
+Location : Delhi  
+Reason for Change: looking for more growth and opportunities  
+Exp in Java: 2 yr 5 months  
+Springboot: 2 yr  
+Angular: 1 yr
+```
 
 
 
 
 ### How to follow up after interview 
 
+```
 Hi ,
 
 I hope all is well.
@@ -31,6 +46,7 @@ I’m excited to hear about the next steps, and the role seems like a great fit 
 
 Regards,
 Sandeep
+```
 
 
 

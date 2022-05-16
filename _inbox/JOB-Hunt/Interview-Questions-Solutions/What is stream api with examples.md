@@ -75,31 +75,77 @@ List<Integer> arrList= Arrays.asList(1,2,3,4,5);
 
 
 
-- Another example of reduce 
+#### Another example of reduce  IMP
+- Longest String in the list
 ```java
   List<String> arrList= Arrays.asList("sandy","amit","driviz","dhruv","vikky","rahul","dhani");
-
-  
-  
 
      String longestString= arrList.stream()
 
             .reduce("",(word1,word2) -> (
-
-  
-
                 word1.length() > word2.length() ? word1:word2));
-
-  
-
                 System.out.println(longestString);
 
-  
-
-  
 
     }
 ```
+
+#### Maximum number in the list 
+
+```java
+Integer[] arr={1,2,3,4,5};
+        List<Integer> list=Arrays.asList(arr);
+        
+       
+       //find the maximum using reduce
+       
+     int max=  list.stream()
+            .reduce(0, (a,b) ->  {
+              // a<b ? b:a
+              
+              if(a<b) {
+                return b;
+              }else{
+                return a;
+              }
+              
+              
+              } );
+       
+       
+       System.out.println(max);
+
+```
+
+
+#### find minimum without any default value
+- so in the case we not giving any default value with reduce we have to choose the return type to Optional
+
+
+```java
+//find the minimum using reduce
+       
+     Optional<Integer> max=  list.stream()
+            .reduce( (a,b) ->  {
+              // a<b ? b:a
+              
+              if(a>b) {
+                return b;
+              }else{
+                return a;
+              }
+              
+              
+              } );
+       
+       
+       System.out.println(max.get());
+    }
+
+```
+
+
+
 
 
 4. filter

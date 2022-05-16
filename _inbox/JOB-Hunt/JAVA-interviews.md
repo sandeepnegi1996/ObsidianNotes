@@ -6,12 +6,11 @@
 
 
 ## pending
-- [ ] [[Difference between hashmap and concurrent hashmap]]
-- [ ] 
-
-
+- [x] [[Difference between hashmap and concurrent hashmap]]
 - [ ] [[What is object cloning in java]]
-- [ ] [[Examples of reduce method in java ]]
+- [ ] [[output based programs java]]
+- [x] [[Examples of reduce method in java ]] [[What is stream api with examples]]
+- [x] [[What is stream api with examples]]
 - [ ] [[what is map.EntrySet() and Map.Entry in java ]]
 - [ ] [[clone method in class vs Collections ]]
 - [ ] [[multithreading with examples in java]]
@@ -24,13 +23,13 @@
 - [ ] [[singleton classes and what will happen if i clone the same object]]
 - [ ] [[StringBuffer and StringBuilder in java]]
 - [ ] [[how garbage collector works in java]]
-- [ ] [[How to run two threads in java one after another]]
+- [x] [[How to run three threads in java one after another]]
 - [ ] [[How to run multiple threads in java]]
 - [ ] [[real life thread example in java]]
 8. [ ] [[Call by Value and Call by reference in java]]
 9. [ ] [[When to use Abstract classes and when to use Interface]] ?
 4. [ ] [[How to run multiple threads in java]] ?
-5. [ ] [[How to run two threads in java one after another]] ?
+5. [ ] [[How to run three threads in java one after another]] ?
 6. [ ] [[What is map and flat map in streams]] ?
 7. [ ] [[What is Default Scope in java]] ? [[What is Scope in beans]]
 

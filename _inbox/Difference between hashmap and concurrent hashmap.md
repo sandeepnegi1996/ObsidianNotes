@@ -1,6 +1,6 @@
 # 📑 Difference between hashmap and concurrent hashmap
 
-- **🏷️Tags** : #10-05-2022,  #pending #completed #permanent
+- **🏷️Tags** : #10-05-2022,   #completed #permanent
 
 #### 🔗 Links
 [hashmap and concurrent hashmap](https://www.geeksforgeeks.org/difference-hashmap-concurrenthashmap/)
@@ -8,26 +8,36 @@
 ## Key Takeaways
 
 ## Overview
-- hashmap is under traditional collections
-- concurrentHashMap is a class under Concurrent Collections
+- HashMap is under traditional collections
+- ConcurrentHashMap is a class under Concurrent Collections
 - 
 
 ### when to use when
-1. ConcurrentHashMap is internally synchronized and hence most suitable for multithreaded applciatrion
+1. *ConcurrentHashMap* is *internally synchronized and hence most suitable for multithreaded* applciation
 2. HashMap is suitable for single threaded application
 
 
 ### Differences
 1. hashmap is non synchronised
 2. hashmap is not thread safe, concurrent hashmap is thread safe in nature
-3. hashmap performacen is high since any number of threads can perform operations at a time , sometimes in concurrent hashmap the performance is low since threads have to wait to perform any operations
-4. *if onethread is iterating the hashmap and otehr thread try to add /modify the contents of the Object in that case we will get Run-time exception saying `ConcurrentModificationExceptio `* 
-5. in concurrenthashmap we won't get any exception while performing any modification at the time of iteration.
-6. in hashmap null key and value is allowed but in ConcurrentHashMap null key and values are not allowed it will throw `NullPointerException`
+3. hashmap performance is high since any number of threads can perform operations at a time , sometimes in concurrent hashmap the performance is low since threads have to wait to perform any operations
+4. *if onethread is iterating the hashmap and other thread try to add /modify the contents of the Object in that case we will get Run-time exception saying `ConcurrentModificationExceptio `* 
+5. in concurrenthashmap we won't get any exception while performing any modification at the time of iteration. since only writing operation is synchronized and reading we don't need to synchronise
+6. in hashmap  single null key and value is allowed but in ConcurrentHashMap null key and values are not allowed it will throw `NullPointerException`
 7. *In ConcurrentHashMap only add the delete are synchronized and read is not sycnhronized hence it is more usefuyl in multhreaded application since there we want the read to be fast and write operation should be synchronzed*
 8. *we can make hashmap synchronized by wrapping it in Collections.synchronizedMap(hashmap)*
-9. if we are using hashmap for caching than concurrent hashmap beats hashmap is all the cases and when the writer threads number increases.
-10. 
+9. if we are using hashmap for caching than concurrent hashmap beats hashmap is all the cases and when the writer threads number increases. 
+
+
+#### values that are not allowed in ConcurrentHashMap
+- null values will throw NPE in ConcurrentHashMap
+
+#### In Concurrent HashMap which operations are synchronized and which are not
+1. reading is not synchronized
+2. add/deleting is synchronized
+
+####  can we make hashmap synchronized
+1. yes by wrapping it in Collections.synchronizedMap(hashmap)
 
 
 #### ConcurrentModificationException in hashmap
