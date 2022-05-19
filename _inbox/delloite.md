@@ -1,3 +1,8 @@
+### Email and laptop
+1. deloitte microsoft using , negi.sandeep01906@gmail.com
+
+
+
 ### Documents
 first advantage : documents upload folder
 1. https://cspi.fadv.com/

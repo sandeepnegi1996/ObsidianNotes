@@ -12,6 +12,7 @@
 - [ ] [[find the minimum cost to add the ropes]]
 - [ ] [[Merge 2 sorted arrays without using Extra space.]]
 - [ ] [[rotate an array k times]]
+- [ ] [[all elemetns are repeating except one ]]
 
 
 

@@ -6,6 +6,8 @@
 
 
 ## pending
+- [ ] [[overview of java build in annotations]]  -->pending meta annotations 
+- [ ] [[How to create custom annotations in java ]]  --> creation done, usage pending 
 - [x] [[Difference between hashmap and concurrent hashmap]]
 - [ ] [[What is object cloning in java]]
 - [ ] [[output based programs java]]

@@ -1,5 +1,24 @@
 # e-separation process
 
+
+## Logistics
+1. print out from and to adress two copies each
+2. print two copies for DC put one in the box and one hand it over to the team 
+
+
+
+## Clearance 
+2. get the form
+3. Get the form from hr : Management System Checklist Associate Transfer/ Exit 
+4. Kiran.TG@in.bosch.com --> docuement received
+5. Follow up with manju for the Document fillment.
+6. 
+
+
+
+
+
+
 Asset : vimal.mohan@in.bosch.com
 - return a computer 
 - check what other asset we need to return
@@ -23,15 +42,14 @@ Gauranshi Tripathi (BGSW/HRL-BP1)
 
 ### Check with HR when i will receive the reliving letter
 1. email send update pending
-2. 
 
 
 ### Documents download
-1. compensation letter
-2. offer letter
+1. [x] compensation letter
+2. [x] offer letter
 3. 5-6 months pay slip
-4. form 16
-5. PF balance --> check the UAN is completed or not
+4. [x] form 16
+5. [x] PF balance --> check the UAN is completed or not
 
 
 ## Check PF details

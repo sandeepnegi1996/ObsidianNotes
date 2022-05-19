@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "JAVA-interviews",
+      "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
+    },
+    {
+      "basename": "overview of java build in annotations",
+      "path": "_inbox/overview of java build in annotations.md"
+    },
+    {
+      "basename": "How to create custom annotations in java",
+      "path": "_inbox/How to create custom annotations in java.md"
+    },
+    {
+      "basename": "2022-05B",
+      "path": "WorkON/2022-05B.md"
+    },
+    {
+      "basename": "Problem ticket",
+      "path": "WorkON/completed/Problem ticket.md"
+    },
+    {
+      "basename": "template-replies",
+      "path": "_inbox/template-replies.md"
+    },
+    {
+      "basename": "how to wrap content in the td for a table",
+      "path": "_inbox/how to wrap content in the td for a table.md"
+    },
+    {
+      "basename": "sprint-2022-05A",
+      "path": "WorkON/sprint-2022-05A.md"
+    },
+    {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
+    },
+    {
+      "basename": "Tek System",
+      "path": "_inbox/Tek System.md"
+    },
+    {
+      "basename": "delloite",
+      "path": "_inbox/delloite.md"
+    },
+    {
+      "basename": "CTSinfo",
+      "path": "_inbox/JOB-Hunt/CTSinfo.md"
+    },
+    {
+      "basename": "home setup",
+      "path": "_inbox/home setup.md"
+    },
+    {
+      "basename": "2022-05-17",
+      "path": "Jorurnaling/2022-05-17.md"
+    },
+    {
+      "basename": "2022-05-18",
+      "path": "Jorurnaling/2022-05-18.md"
+    },
+    {
+      "basename": "e-separation bosch",
+      "path": "WorkON/e-separation bosch.md"
+    },
+    {
+      "basename": "linked List coding problems",
+      "path": "_inbox/fleeting/linked List coding problems.md"
+    },
+    {
+      "basename": "450 DSA Cracker",
+      "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
+    },
+    {
+      "basename": "all elemetns are repeating except one",
+      "path": "_inbox/all elemetns are repeating except one.md"
+    },
+    {
+      "basename": "Array Coding Problems",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
+    },
+    {
+      "basename": "Array",
+      "path": "_inbox/Array.md"
+    },
+    {
+      "basename": "How to patch fix inside WAR",
+      "path": "_inbox/fullStack/How to patch fix inside WAR.md"
+    },
+    {
+      "basename": "Patch fix for the layout issue",
+      "path": "WorkON/completed/Patch fix for the layout issue.md"
+    },
+    {
       "basename": "2022-05-16",
       "path": "Jorurnaling/2022-05-16.md"
     },
@@ -13,20 +105,8 @@
       "path": "everything i wants to do.md"
     },
     {
-      "basename": "e-separation bosch",
-      "path": "WorkON/e-separation bosch.md"
-    },
-    {
-      "basename": "CTSinfo",
-      "path": "_inbox/JOB-Hunt/CTSinfo.md"
-    },
-    {
       "basename": "Everything I need to do",
       "path": "Jorurnaling/Everything I need to do.md"
-    },
-    {
-      "basename": "sprint-2022-05A",
-      "path": "WorkON/sprint-2022-05A.md"
     },
     {
       "basename": "Car Service Checklist",
@@ -37,28 +117,12 @@
       "path": "_inbox/how to become 10x engineer.md"
     },
     {
-      "basename": "Problem ticket",
-      "path": "WorkON/completed/Problem ticket.md"
-    },
-    {
       "basename": "003_productivity MOC",
       "path": "003_productivity MOC.md"
     },
     {
-      "basename": "001_interviews MOC",
-      "path": "001_interviews MOC.md"
-    },
-    {
-      "basename": "delloite",
-      "path": "_inbox/delloite.md"
-    },
-    {
       "basename": "2022-05-12",
       "path": "Jorurnaling/2022-05-12.md"
-    },
-    {
-      "basename": "template-replies",
-      "path": "_inbox/template-replies.md"
     },
     {
       "basename": "Companies",
@@ -67,10 +131,6 @@
     {
       "basename": "TAX PLANNING",
       "path": "_inbox/Productivity/TAX PLANNING.md"
-    },
-    {
-      "basename": "Tek System",
-      "path": "_inbox/Tek System.md"
     },
     {
       "basename": "System Design",
@@ -83,10 +143,6 @@
     {
       "basename": "System Design  Horizontal Vs Vertical Scaling",
       "path": "_inbox/System Design  Horizontal Vs Vertical Scaling.md"
-    },
-    {
-      "basename": "JAVA-interviews",
-      "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
     },
     {
       "basename": "output based programs java",
@@ -143,58 +199,6 @@
     {
       "basename": "When to use Abstract classes and when to use Interface",
       "path": "_inbox/When to use Abstract classes and when to use Interface.md"
-    },
-    {
-      "basename": "How to run multiple threads in java",
-      "path": "_inbox/How to run multiple threads in java.md"
-    },
-    {
-      "basename": "What is Scope in beans",
-      "path": "_inbox/What is Scope in beans.md"
-    },
-    {
-      "basename": "What is Default Scope in java",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Default Scope in java.md"
-    },
-    {
-      "basename": "what is map.EntrySet() and Map.Entry in java",
-      "path": "_inbox/what is map.EntrySet() and Map.Entry in java.md"
-    },
-    {
-      "basename": "What is object cloning in java",
-      "path": "_inbox/What is object cloning in java.md"
-    },
-    {
-      "basename": "primitive datatype in java",
-      "path": "_inbox/primitive datatype in java.md"
-    },
-    {
-      "basename": "clone method in class vs Collections",
-      "path": "_inbox/clone method in class vs Collections.md"
-    },
-    {
-      "basename": "What is Immutable class in java",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
-    },
-    {
-      "basename": "sum of square of even number using stream",
-      "path": "_inbox/sum of square of even number using stream.md"
-    },
-    {
-      "basename": "spring boot interview questions",
-      "path": "_inbox/fleeting/spring boot interview questions.md"
-    },
-    {
-      "basename": "What are the annotations used in Spring Data JPA",
-      "path": "_inbox/What are the annotations used in Spring Data JPA.md"
-    },
-    {
-      "basename": "What is bean life cycle",
-      "path": "_inbox/What is bean life cycle.md"
-    },
-    {
-      "basename": "_Dashboard",
-      "path": "_Dashboard.md"
     }
   ],
   "omittedPaths": [],

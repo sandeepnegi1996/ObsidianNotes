@@ -4,15 +4,55 @@
 
 #### 🔗 Links
 
+## Daily Work : 17/May
+- [ ]  Access to MD in workflow04 in Q : pham
+- [ ] layout issue in RBMANUSHIP --> change history tab
+- [ ] 
+
+
+#### RBMANUSHIP layout issue 
+1. when change history tab is accesed layout is getting wide 
+
+how to handle click event 
+-   Hit F12 to open Dev Tools
+-   Click the Sources tab
+-   On right-hand side, scroll down to "Event Listener Breakpoints", and expand tree
+-   Click on the events you want to listen for.
+-   Interact with the target element, if they fire you will get a break point in the debugger
+
+Similarly, you can right click on the target element -> select "inspect element" Scroll down on the right side of the dev frame, at the bottom is 'event listeners'. Expand the tree to see what events are attached to the element. Not sure if this works for events that are handled through bubbling (I'm guessing not)
+
+[[how to wrap content in the td for a table]]
+
+
+
+#### pham MD Access
+[https://rb-wam-q.bosch.com/WorkOnDashBoard/search/search.seam?keyFilter=RBKVR&pbbs=0&bu=0&pno=1#](https://rb-wam-q.bosch.com/WorkOnDashBoard/search/search.seam?keyFilter=RBKVR&pbbs=0&bu=0&pno=1)
+
+
+
+
 
 ## Daily Work : 16/May
-- [ ] INC000022189153 : remove user `thj1bgk` from the group ; `bgk_ea_pir-th`
+- [ ] INC000022154037   --> check the incident 
+- [x] INC000022189153 : remove user `thj1bgk` from the group ; `bgk_ea_pir-th`  --> alhad
 - [x] INC000022174907   :    --> completed by alhad
 - [x] INC000022161841    :  --> completed by alhad
 - [ ] check the code review items and prepare the build
 - [x] RE: personal substition list for  Mehrarbeitsantrag / Extra Work  Plant Leinfelden : Important and urgent  --> name issue [[Problem ticket]] 
 - [ ] KT Session  --> incident management
-- [ ] 
+- [x] Disciplinary manager details are not correct
+
+
+
+#### Disciplinary manager details
+Nguyen Huu Tri (SX/BSV43-EA): 
+the employee that needs to check is: ISA5BU
+
+1. emp id : `isa5bu` or `ISA5BU`
+2. main user : `ISA5BU`   --> change the target manager or disciplinary manager to user 
+current : `UCD1YO`
+New : `BIC3BU`
 
 
 #### INC000022189153

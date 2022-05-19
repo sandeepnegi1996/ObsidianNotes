@@ -4,6 +4,20 @@
 
 #### 🔗 Links
 
+### Offer Acceptance Template 
+
+```
+Dear Team,
+
+I am writing to formally accept your offer of Backend Developer at Tek System. I am very grateful for the opportunity, and delighted to be joining the company.
+
+Thank you very much for the opportunity.
+
+Yours sincerely,
+
+Sandeep Singh Negi
+```
+
 ### Offer Rejection Template 
 ```
 Thank you so much for offering me the position. It has been a pleasure speaking with you and learning more about the company after I was interviewed for this post.

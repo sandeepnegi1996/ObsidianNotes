@@ -26,7 +26,8 @@
 =+_6<Y:ph5e4?VX
 
 
-Uploaded folder : patch-layout-fix --> root --> tmp/patch-layout-fix
+Uploaded folder : patch-layout-fix --> root --> tmp/patch-layout-fix  --> upload is only possible in root directory
+
 
 root/home/jadmin_q
 
@@ -40,5 +41,4 @@ root/home/jadmin_q
 [[How to patch fix inside WAR]]
 
 
-
-
+(ey03%CNjC2RcyZ
