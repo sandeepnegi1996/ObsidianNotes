@@ -1,4 +1,5 @@
 # e-separation process
+link : https://rb3ph1a1.server.bosch.com:44303/sap/bc/webdynpro/sap/hr_ea_a_overview_ee?sap-wd-configId=HR_EA_AC_OVERVIEW_EE#
 
 
 ## Logistics

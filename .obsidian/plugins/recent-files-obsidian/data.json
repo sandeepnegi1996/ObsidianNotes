@@ -1,8 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-05B",
+      "path": "WorkON/2022-05B.md"
+    },
+    {
+      "basename": "2022-05-21",
+      "path": "Jorurnaling/2022-05-21.md"
+    },
+    {
+      "basename": "how to use mockito",
+      "path": "_inbox/how to use mockito.md"
+    },
+    {
+      "basename": "unit testing in java with junit 4",
+      "path": "_inbox/unit testing in java with junit 4.md"
+    },
+    {
       "basename": "JAVA-interviews",
       "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
+    },
+    {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
+    },
+    {
+      "basename": "_Dashboard",
+      "path": "_Dashboard.md"
+    },
+    {
+      "basename": "System Design",
+      "path": "_inbox/JOB-Hunt/System-Design/System Design.md"
+    },
+    {
+      "basename": "how to make your webcam footage looks better",
+      "path": "_inbox/how to make your webcam footage looks better.md"
+    },
+    {
+      "basename": "swimming",
+      "path": "_inbox/swimming.md"
+    },
+    {
+      "basename": "005_Project Ideas MOC",
+      "path": "005_Project Ideas MOC.md"
+    },
+    {
+      "basename": "interview-experiences",
+      "path": "_inbox/interview-experiences.md"
+    },
+    {
+      "basename": "things to keep in mind in job change",
+      "path": "_inbox/things to keep in mind in job change.md"
+    },
+    {
+      "basename": "e-separation bosch",
+      "path": "WorkON/e-separation bosch.md"
+    },
+    {
+      "basename": "what is Predicate and a function",
+      "path": "_inbox/what is Predicate and a function.md"
+    },
+    {
+      "basename": "method references in java",
+      "path": "_inbox/method references in java.md"
+    },
+    {
+      "basename": "Improvement in java date time api in java 8",
+      "path": "_inbox/Improvement in java date time api in java 8.md"
+    },
+    {
+      "basename": "What is Lambda Expression in java8",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Lambda Expression in java8.md"
     },
     {
       "basename": "overview of java build in annotations",
@@ -11,10 +79,6 @@
     {
       "basename": "How to create custom annotations in java",
       "path": "_inbox/How to create custom annotations in java.md"
-    },
-    {
-      "basename": "2022-05B",
-      "path": "WorkON/2022-05B.md"
     },
     {
       "basename": "Problem ticket",
@@ -31,10 +95,6 @@
     {
       "basename": "sprint-2022-05A",
       "path": "WorkON/sprint-2022-05A.md"
-    },
-    {
-      "basename": "001_interviews MOC",
-      "path": "001_interviews MOC.md"
     },
     {
       "basename": "Tek System",
@@ -59,10 +119,6 @@
     {
       "basename": "2022-05-18",
       "path": "Jorurnaling/2022-05-18.md"
-    },
-    {
-      "basename": "e-separation bosch",
-      "path": "WorkON/e-separation bosch.md"
     },
     {
       "basename": "linked List coding problems",
@@ -133,10 +189,6 @@
       "path": "_inbox/Productivity/TAX PLANNING.md"
     },
     {
-      "basename": "System Design",
-      "path": "_inbox/JOB-Hunt/System-Design/System Design.md"
-    },
-    {
       "basename": "how to start with the distributed system",
       "path": "_inbox/how to start with the distributed system.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "output based programs java",
       "path": "_inbox/output based programs java.md"
-    },
-    {
-      "basename": "interview-experiences",
-      "path": "_inbox/interview-experiences.md"
-    },
-    {
-      "basename": "Difference between hashmap and concurrent hashmap",
-      "path": "_inbox/Difference between hashmap and concurrent hashmap.md"
-    },
-    {
-      "basename": "002_microservices MOC",
-      "path": "002_microservices MOC.md"
-    },
-    {
-      "basename": "2022-05-11",
-      "path": "Jorurnaling/2022-05-11.md"
-    },
-    {
-      "basename": "004_philosphy MOC",
-      "path": "004_philosphy MOC.md"
-    },
-    {
-      "basename": "What is stream api with examples",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is stream api with examples.md"
-    },
-    {
-      "basename": "Examples of reduce method in java",
-      "path": "_inbox/Examples of reduce method in java.md"
-    },
-    {
-      "basename": "What is map and flat map in streams",
-      "path": "_inbox/fleeting/What is map and flat map in streams.md"
-    },
-    {
-      "basename": "How to Synchronize in ArrayList",
-      "path": "_inbox/fleeting/How to Synchronize in ArrayList.md"
-    },
-    {
-      "basename": "How to run three threads in java one after another",
-      "path": "_inbox/How to run three threads in java one after another.md"
-    },
-    {
-      "basename": "Create custom immutable class with string and arraylist",
-      "path": "_inbox/Create custom immutable class with string and arraylist.md"
-    },
-    {
-      "basename": "What is concurrency in java",
-      "path": "_inbox/What is concurrency in java.md"
-    },
-    {
-      "basename": "When to use Abstract classes and when to use Interface",
-      "path": "_inbox/When to use Abstract classes and when to use Interface.md"
     }
   ],
   "omittedPaths": [],

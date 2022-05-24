@@ -6,6 +6,9 @@
 
 
 ## pending
+- [ ] [[  unit testing in java with junit 4]]
+- [ ] [[what is Predicate and a function]]
+- [ ] [[Improvement in java date time api in java 8]]
 - [ ] [[overview of java build in annotations]]  -->pending meta annotations 
 - [ ] [[How to create custom annotations in java ]]  --> creation done, usage pending 
 - [x] [[Difference between hashmap and concurrent hashmap]]
