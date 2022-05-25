@@ -5,12 +5,32 @@
       "path": "WorkON/2022-05B.md"
     },
     {
-      "basename": "2022-05-21",
-      "path": "Jorurnaling/2022-05-21.md"
-    },
-    {
       "basename": "how to use mockito",
       "path": "_inbox/how to use mockito.md"
+    },
+    {
+      "basename": "2022-05-25",
+      "path": "Jorurnaling/2022-05-25.md"
+    },
+    {
+      "basename": "delloite",
+      "path": "_inbox/delloite.md"
+    },
+    {
+      "basename": "2022-05-24",
+      "path": "Jorurnaling/2022-05-24.md"
+    },
+    {
+      "basename": "e-separation bosch",
+      "path": "WorkON/e-separation bosch.md"
+    },
+    {
+      "basename": "2022-05-24",
+      "path": "_inbox/2022-05-24.md"
+    },
+    {
+      "basename": "2022-05-21",
+      "path": "Jorurnaling/2022-05-21.md"
     },
     {
       "basename": "unit testing in java with junit 4",
@@ -51,10 +71,6 @@
     {
       "basename": "things to keep in mind in job change",
       "path": "_inbox/things to keep in mind in job change.md"
-    },
-    {
-      "basename": "e-separation bosch",
-      "path": "WorkON/e-separation bosch.md"
     },
     {
       "basename": "what is Predicate and a function",
@@ -99,10 +115,6 @@
     {
       "basename": "Tek System",
       "path": "_inbox/Tek System.md"
-    },
-    {
-      "basename": "delloite",
-      "path": "_inbox/delloite.md"
     },
     {
       "basename": "CTSinfo",
@@ -187,18 +199,6 @@
     {
       "basename": "TAX PLANNING",
       "path": "_inbox/Productivity/TAX PLANNING.md"
-    },
-    {
-      "basename": "how to start with the distributed system",
-      "path": "_inbox/how to start with the distributed system.md"
-    },
-    {
-      "basename": "System Design  Horizontal Vs Vertical Scaling",
-      "path": "_inbox/System Design  Horizontal Vs Vertical Scaling.md"
-    },
-    {
-      "basename": "output based programs java",
-      "path": "_inbox/output based programs java.md"
     }
   ],
   "omittedPaths": [],
