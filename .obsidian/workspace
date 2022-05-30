@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WorkON/2022-05B.md",
+            "file": "002_microservices MOC.md",
             "mode": "source",
             "source": true
           }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 394,
-    "collapsed": true
+    "width": 394
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkON/2022-05B.md",
+                "file": "002_microservices MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,15 +136,15 @@
   },
   "active": "ccfd16b12c972ba4",
   "lastOpenFiles": [
+    "002_microservices MOC.md",
+    "Jorurnaling/2022-05-25.md",
     "WorkON/2022-05B.md",
     "_inbox/how to use mockito.md",
-    "Jorurnaling/2022-05-25.md",
     "_inbox/delloite.md",
     "Jorurnaling/2022-05-24.md",
     "WorkON/e-separation bosch.md",
     "_inbox/2022-05-24.md",
     "Jorurnaling/2022-05-21.md",
-    "_inbox/unit testing in java with junit 4.md",
-    "_inbox/JOB-Hunt/JAVA-interviews.md"
+    "_inbox/unit testing in java with junit 4.md"
   ]
 }
