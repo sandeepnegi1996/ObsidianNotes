@@ -1,8 +1,21 @@
 {
   "recentFiles": [
     {
-      "basename": "002_microservices MOC",
-      "path": "002_microservices MOC.md"
+
+      "basename": "2022-05B",
+      "path": "WorkON/2022-05B.md"
+    },
+    {
+      "basename": "e-separation bosch",
+      "path": "WorkON/e-separation bosch.md"
+    },
+    {
+      "basename": "2022-05-30",
+      "path": "Jorurnaling/2022-05-30.md"
+    },
+    {
+      "basename": "how to use mockito",
+      "path": "_inbox/how to use mockito.md"
     },
     {
       "basename": "2022-05-25",
@@ -19,10 +32,6 @@
     {
       "basename": "2022-05-24",
       "path": "Jorurnaling/2022-05-24.md"
-    },
-    {
-      "basename": "e-separation bosch",
-      "path": "WorkON/e-separation bosch.md"
     },
     {
       "basename": "2022-05-24",
@@ -195,10 +204,6 @@
     {
       "basename": "Companies",
       "path": "_inbox/JOB-Hunt/companies/Companies.md"
-    },
-    {
-      "basename": "TAX PLANNING",
-      "path": "_inbox/Productivity/TAX PLANNING.md"
     }
   ],
   "omittedPaths": [],
