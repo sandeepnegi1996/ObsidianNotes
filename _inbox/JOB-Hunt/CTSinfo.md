@@ -71,8 +71,8 @@ Gauranshi Tripathi (BGSW/HRL-BP1)
 4. PF statement --> pending  --> for this do the enomination  --> 
 5. Service or Experience Letter --> Pending   --> 
 6. Letter of authorization --> download and then uploading
-7. Passport : --> pending with applciation
-8. voter id : --> ree
+7. Passport : --> verification pending
+8. voter id : --> done
 
 
 
@@ -136,5 +136,7 @@ PAN CARD :   AYNPN5460A
 PF No. :KN/23458/043451 |
 EPS No. :043451 |
 UAN NO. :101520346250 
+
+
 
 

@@ -8,3 +8,6 @@
 [[vscode shortcuts]]
 
 [[how to become 10x engineer]]
+
+
+[[tips for new companies]]

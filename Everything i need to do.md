@@ -9,6 +9,8 @@
 
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
 - [ ] Check the PF passbook 
+
+### Blospost Ideas 
 - [ ]  [[How giving tech interviews build my confidence ]]  
 - [ ] How to use obsidian as a software developer
 - [ ]  [[Walking Challenges for Donation]]
