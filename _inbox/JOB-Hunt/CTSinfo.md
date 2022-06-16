@@ -63,7 +63,7 @@ Gauranshi Tripathi (BGSW/HRL-BP1)
 
 
 
-### Documeents Pending 
+### Documents Pending 
 
 1. Form16 --> done
 2. HR Email Confirmation --> Pending , what email confirmation is required here
@@ -101,7 +101,7 @@ Your application form has been submitted successfully.
 Your Application Reference Number(ARN) is: 22-0004765732
 
 
-##### Passport Verification
+#### Passport Verification
 - Your Appointment Number is: 100021541451722
 - Appointment date and time - 1/June/ --> 1 PM 
 - show the text message for the appointment
@@ -113,6 +113,8 @@ Roorkee
 Head Post Office Roorkee, Civil Lines, Roorkee (Uttarakhand) Pin-247667
 
 ATM Facility with All Bank Cards Available
+
+
 
 
 ### Voter Card

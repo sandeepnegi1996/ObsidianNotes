@@ -2,6 +2,46 @@
 
 
 # Latest
+
+- [x] finish ramco 
+- [ ] check with team for the assets
+- [ ] Take care of your skin , health , everyday 
+- [ ] [[how to take care of your eyes ]]  
+
+### Career
+1. [[backend developer projects]]
+
+### Personal
+- [ ] Learn to eat from fork and knife 
+- [ ] Click some professional pictures in 2 or 3 and upload them on all platforms 
+- [ ] Everydat Pray for 5 mins
+- [ ] Daily remove 5 contacts
+- [ ] Daily remove 2 unsubscribe newsletter
+- [ ] [[Three Pillars of My Life]]
+- [ ] Everyday create one permanent notes for slipbox
+- [x] [[Basic Legal Rights]] [[8 hard skills for life]] --> private employee done 
+- [ ] [[Basic Legal Rights]]  [[8 hard skills for life]]  --> home owner
+- [ ]  [[Risk Assessment and decision making]]   [[8 hard skills for life]]
+- [ ] [[Create ab Ebook and sell it online]]
+
+
+
+- [ ] Increase fruits and vegetables intake 
+- [ ] Reduce Screentime 
+- [ ] Fix sleep time and wake up time 
+- [ ] Never Ever Ask anyone for money
+- [ ] car wash
+- [ ] car documents
+- [ ] Arti Di Degress --> pending
+- [ ] Mummy and Father Bank Account in HDFC 
+
+
+
+
+
+
+
+
 - [ ] [[Oil Free Recipies indian]] 
 - [ ] Plan for the bosch e separation [[e-separation bosch]]
 - [ ] https://github.com/tuan3w/obsidian-template
@@ -9,12 +49,13 @@
 
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
 - [ ] Check the PF passbook 
-- [ ]  [[How giving tech interviews build my confidence ]]  
-- [ ] How to use obsidian as a software developer
+
+
+
+
 - [ ]  [[Walking Challenges for Donation]]
-- [ ]  [ ] [[Document Skills for Sister]]
-- [ ] [[Overnight Oats Recipes]]
-- [ ] How to do presentation using obsidian
+
+
 - [ ] Clean kitchen, wash utensils
 - [ ] Clean table
 - [ ] Wash clothes
@@ -25,7 +66,9 @@
 - [ ] play with ball
 - [ ] call a friend
 
-#### Old
+#### Completed
+- [x] How to do presentation using obsidian --> this can be achive by doing three `---` and it will work
+- [x] 8 hard skills for life ---> `self-soothing` done , needs to implement points from it 
 - [x] Bosch PF shown in UAN
 - [x] Plan for passport 
 - [ ] - [x] Get certification from hackerrank and solve questions on hakerrank

@@ -18,7 +18,7 @@
   "attachmentFolderPath": "attachments",
   "defaultViewMode": "source",
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "newFileFolderPath": "_inbox",
   "trashOption": "none"
 }

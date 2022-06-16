@@ -3,6 +3,39 @@
 - **🏷️Tags** : #05-05-2022,  #pending 
 
 #### 🔗 Links
+### Introduce yourself as new Joinee 
+
+```
+
+Hi , I am Sandeep Negi, I am from Uttarakhand I completed by Bachelor degree in Computer Science in 2019.right after the college I got a offer from Bosch and for the past 2yr 5 months I have been working there. I have worked on Azure Devops, Angular and SpringBoot. 
+
+Outisde of the work  I like running  and Creating blogposts for the developer community on hashnode.
+
+I am very excited to join Teksystem and VISA and look forward to learning new skills and meeting new people and growing with the team.
+
+This is all from my end Thank you :)
+
+
+
+```
+
+
+### Thank you email template to recruiter after onboarding
+
+```
+
+Dear Chandana,  
+  
+I sincerely and earnestly thank you for the whole interview experience. I am very thrilled to be a part of Tek Systems and Visa.  
+  
+My whole interview experience was wonderful, from starting itself when we had a discussion about my career goals. I admire the effort put by @Chandana and the whole Team for finding suitable opportunities for me.  
+  
+I would also like to thank @Ayas and @Arjun for the pre-onboarding talk, which really helped me understand the project and the work culture.  
+  
+Thank you once again for your efforts :)
+
+
+```
 
 ### Offer Acceptance Template 
 

@@ -15,3 +15,5 @@ https://www.interviewbit.com/sql-interview-questions/
 - [x] [[relations in database,]]
 - [ ] [[how group by queries works]]
 - [ ] [[how joins works]]
+
+

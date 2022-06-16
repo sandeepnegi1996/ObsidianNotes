@@ -54,3 +54,5 @@ https://www.youtube.com/watch?v=3_Ue0tweDkEs
 
 ## Find impactful areas in the project
 - Try to make a decision based on the impact 
+
+

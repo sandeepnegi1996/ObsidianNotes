@@ -1,7 +1,7 @@
 {
-  "baseFontSize": 24,
+  "baseFontSize": 15,
   "theme": "obsidian",
-  "cssTheme": "Cybertron",
+  "cssTheme": "Deep Work",
   "baseFontSizeAction": true,
   "translucency": false,
   "enabledCssSnippets": []

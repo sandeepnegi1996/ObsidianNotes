@@ -17,3 +17,7 @@
 - [[template-replies]]
 - [[AWS Services]]
 - [[delloite]]
+
+### Blogpost  Ideas
+- [ ]  [[How giving tech interviews build my confidence ]]  
+- [ ] [[How to use obsidian as a software developer]]
