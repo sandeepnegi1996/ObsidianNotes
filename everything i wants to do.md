@@ -2,14 +2,28 @@
 
 
 # Latest
-
-- [x] finish ramco 
-- [ ] check with team for the assets
+- [ ] check passport  PP891332608IN it will take some more time 
+- [ ] check bosch appliance order 
+	https://employee-sales.bsh-group.asia/in/myaccount/login
+- [ ] [[mentors for life]]
+- [ ] follow up for the asset shipment 
 - [ ] Take care of your skin , health , everyday 
 - [ ] [[how to take care of your eyes ]]  
+- [ ] [[my favorite quotes]] --> revise rewrite or write some stories on it 
+- [ ] [[setup upgrades]]
+- [ ] check Saurav Pal for the Personal development and career development
+- [ ] unsubscribe channel from sandeep negi channel
+- [ ] ask pradeep to put all documents in a folder
+
 
 ### Career
-1. [[backend developer projects]]
+- [ ] How to get more achievements on github
+1. [ ] [[backend developer projects]]
+2. [ ] [[Reading list of blogs]]
+3. [ ] fix the github issues in [[Dice-Roller CLI App]]
+4. [ ] fix the github issues in [[Modern Phone Book CLI App]]
+5. [ ] build second brain --> improve your second brain 
+6. [ ] Generate income for family so that they do need to ask money from me this is a really inspiring story :) 
 
 ### Personal
 - [ ] Learn to eat from fork and knife 
@@ -67,6 +81,7 @@
 - [ ] call a friend
 
 #### Completed
+- [x] download insurance document -->and store in google drive
 - [x] How to do presentation using obsidian --> this can be achive by doing three `---` and it will work
 - [x] 8 hard skills for life ---> `self-soothing` done , needs to implement points from it 
 - [x] Bosch PF shown in UAN

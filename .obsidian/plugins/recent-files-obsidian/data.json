@@ -1,52 +1,160 @@
 {
   "recentFiles": [
     {
-      "basename": "template-replies",
-      "path": "_inbox/template-replies.md"
+      "basename": "backend developer projects",
+      "path": "_inbox/backend developer projects.md"
     },
     {
-      "basename": "2022-06-16",
-      "path": "Jorurnaling/2022-06-16.md"
-    },
-    {
-      "basename": "2022-06-15",
-      "path": "Jorurnaling/2022-06-15.md"
+      "basename": "2022-06-21",
+      "path": "Jorurnaling/2022-06-21.md"
     },
     {
       "basename": "Modern Phone Book CLI App",
       "path": "_inbox/Modern Phone Book CLI App.md"
     },
     {
-      "basename": "Personal Project README Templates",
-      "path": "templates/Personal Project README Templates.md"
-    },
-    {
       "basename": "Dice-Roller CLI App",
       "path": "_inbox/Dice-Roller CLI App.md"
     },
     {
-      "basename": "backend developer projects",
-      "path": "_inbox/backend developer projects.md"
+      "basename": "Random password Generator",
+      "path": "_inbox/Random password Generator.md"
     },
     {
-      "basename": "005_Project Ideas MOC",
-      "path": "005_Project Ideas MOC.md"
-    },
-    {
-      "basename": "Tek System",
-      "path": "_inbox/Tek System.md"
+      "basename": "Learn Intellij shortcuts",
+      "path": "_inbox/Learn Intellij shortcuts.md"
     },
     {
       "basename": "everything i wants to do",
       "path": "everything i wants to do.md"
     },
     {
-      "basename": "2022-06-14",
-      "path": "Jorurnaling/2022-06-14.md"
+      "basename": "2022-06-20",
+      "path": "Jorurnaling/2022-06-20.md"
+    },
+    {
+      "basename": "2022-06-24",
+      "path": "Jorurnaling/2022-06-24.md"
+    },
+    {
+      "basename": "Tek System",
+      "path": "_inbox/Tek System.md"
+    },
+    {
+      "basename": "e-separation bosch",
+      "path": "_inbox/e-separation bosch.md"
+    },
+    {
+      "basename": "CTSinfo",
+      "path": "_inbox/JOB-Hunt/CTSinfo.md"
+    },
+    {
+      "basename": "2022-06-19",
+      "path": "Jorurnaling/2022-06-19.md"
+    },
+    {
+      "basename": "mentors for life",
+      "path": "_inbox/mentors for life.md"
     },
     {
       "basename": "2022-06-18",
       "path": "Jorurnaling/2022-06-18.md"
+    },
+    {
+      "basename": "Reading list of blogs",
+      "path": "_inbox/Reading list of blogs.md"
+    },
+    {
+      "basename": "003_productivity MOC",
+      "path": "003_productivity MOC.md"
+    },
+    {
+      "basename": "37 Tips for Junior Devs",
+      "path": "_inbox/37 Tips for Junior Devs.md"
+    },
+    {
+      "basename": "template-replies",
+      "path": "_inbox/template-replies.md"
+    },
+    {
+      "basename": "2022-06-17",
+      "path": "Jorurnaling/2022-06-17.md"
+    },
+    {
+      "basename": "learning markdown",
+      "path": "_inbox/learning markdown.md"
+    },
+    {
+      "basename": "2022-06-14",
+      "path": "Jorurnaling/2022-06-14.md"
+    },
+    {
+      "basename": "2022-06-15",
+      "path": "Jorurnaling/2022-06-15.md"
+    },
+    {
+      "basename": "2022-06-16",
+      "path": "Jorurnaling/2022-06-16.md"
+    },
+    {
+      "basename": "Marshalling XML using O X Mappers",
+      "path": "_inbox/Marshalling XML using O X Mappers.md"
+    },
+    {
+      "basename": "spring framework",
+      "path": "_inbox/spring framework.md"
+    },
+    {
+      "basename": "002_microservices MOC",
+      "path": "002_microservices MOC.md"
+    },
+    {
+      "basename": "X Mappers",
+      "path": "21 Marshalling XML using O/X Mappers.md"
+    },
+    {
+      "basename": "what is Serializable",
+      "path": "_inbox/what is Serializable.md"
+    },
+    {
+      "basename": "spring boot interview questions",
+      "path": "_inbox/fleeting/spring boot interview questions.md"
+    },
+    {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
+    },
+    {
+      "basename": "8 hard skills for life",
+      "path": "_inbox/8 hard skills for life.md"
+    },
+    {
+      "basename": "004_philosphy MOC",
+      "path": "004_philosphy MOC.md"
+    },
+    {
+      "basename": "my favorite quotes",
+      "path": "_inbox/my favorite quotes.md"
+    },
+    {
+      "basename": "008_Books",
+      "path": "008_Books.md"
+    },
+    {
+      "basename": "how to share onenotes meeting notes for meeting",
+      "path": "_inbox/how to share onenotes meeting notes for meeting.md"
+    },
+    {
+      "basename": "one on one  meeting with manager",
+      "path": "_inbox/one on one  meeting with manager.md"
+    },
+    {
+      "basename": "Personal Project README Templates",
+      "path": "templates/Personal Project README Templates.md"
+    },
+    {
+      "basename": "005_Project Ideas MOC",
+      "path": "005_Project Ideas MOC.md"
     },
     {
       "basename": "Daily Note Template",
@@ -65,20 +173,8 @@
       "path": "_inbox/What are the annotations used in Spring Data JPA.md"
     },
     {
-      "basename": "spring boot interview questions",
-      "path": "_inbox/fleeting/spring boot interview questions.md"
-    },
-    {
-      "basename": "001_interviews MOC",
-      "path": "001_interviews MOC.md"
-    },
-    {
       "basename": "database interview questions",
       "path": "_inbox/JOB-Hunt/database interview questions.md"
-    },
-    {
-      "basename": "002_microservices MOC",
-      "path": "002_microservices MOC.md"
     },
     {
       "basename": "What is JAX-RS",
@@ -93,10 +189,6 @@
       "path": "_inbox/Vertx in Action.md"
     },
     {
-      "basename": "008_Books",
-      "path": "008_Books.md"
-    },
-    {
       "basename": "What is Immutable class in java",
       "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
     },
@@ -107,98 +199,6 @@
     {
       "basename": "2022-06-09",
       "path": "Jorurnaling/2022-06-09.md"
-    },
-    {
-      "basename": "how to take notes from books",
-      "path": "_inbox/how to take notes from books.md"
-    },
-    {
-      "basename": "003_productivity MOC",
-      "path": "003_productivity MOC.md"
-    },
-    {
-      "basename": "CTSinfo",
-      "path": "_inbox/JOB-Hunt/CTSinfo.md"
-    },
-    {
-      "basename": "e-separation bosch",
-      "path": "_inbox/e-separation bosch.md"
-    },
-    {
-      "basename": "12 things every programmer should own",
-      "path": "_inbox/12 things every programmer should own.md"
-    },
-    {
-      "basename": "2022-06-08",
-      "path": "Jorurnaling/2022-06-08.md"
-    },
-    {
-      "basename": "Java Completable Future",
-      "path": "_inbox/Java Completable Future.md"
-    },
-    {
-      "basename": "Risk Assessment and decision making",
-      "path": "_inbox/Risk Assessment and decision making.md"
-    },
-    {
-      "basename": "8 hard skills for life",
-      "path": "_inbox/8 hard skills for life.md"
-    },
-    {
-      "basename": "Basic Legal Rights",
-      "path": "_inbox/Basic Legal Rights.md"
-    },
-    {
-      "basename": "productivity hacks -review",
-      "path": "_inbox/Productivity/productivity hacks -review.md"
-    },
-    {
-      "basename": "007_Everything MOC",
-      "path": "007_Everything MOC.md"
-    },
-    {
-      "basename": "004_philosphy MOC",
-      "path": "004_philosphy MOC.md"
-    },
-    {
-      "basename": "Three Pillars of My Life",
-      "path": "_inbox/Three Pillars of My Life.md"
-    },
-    {
-      "basename": "Java Callable and Future Tutorial",
-      "path": "_inbox/Java Callable and Future Tutorial.md"
-    },
-    {
-      "basename": "how to think like a developer",
-      "path": "_inbox/how to think like a developer.md"
-    },
-    {
-      "basename": "37 Tips for Junior Devs",
-      "path": "_inbox/37 Tips for Junior Devs.md"
-    },
-    {
-      "basename": "how to become 10x engineer",
-      "path": "_inbox/how to become 10x engineer.md"
-    },
-    {
-      "basename": "laziness is slow poison",
-      "path": "_inbox/laziness is slow poison.md"
-    },
-    {
-      "basename": "Thread Synchronization",
-      "path": "_inbox/Thread Synchronization.md"
-    },
-    {
-      "basename": "ExecutorService and Thread Pools",
-      "path": "_inbox/ExecutorService and Thread Pools.md"
-    },
-    {
-      "basename": "Callable and Futures in Java",
-      "path": "_inbox/Callable and Futures in Java.md"
-    },
-    {
-      "basename": "2022-06-03",
-      "path": "Jorurnaling/2022-06-03.md"
     }
   ],
   "omittedPaths": [],

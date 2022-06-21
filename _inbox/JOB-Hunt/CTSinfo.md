@@ -100,6 +100,8 @@ Your application form has been submitted successfully.
 
 Your Application Reference Number(ARN) is: 22-0004765732
 
+Latest update : D6066474206822: Passport No. V9902253 dispatched on 20/06/2022 and can be tracked using Speed Post Tracking No. PP891332608IN -PassportSP
+
 
 #### Passport Verification
 - Your Appointment Number is: 100021541451722

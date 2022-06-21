@@ -13,12 +13,16 @@
 
 
 ### Backend Projects
+
+#### Beginner Level
 1. Simple CLI Java Application
 	1. [x] Dice Roller Program : it should ask user to roll a dice or exit, it should return a number from 1 to 6 any random number [[Dice-Roller CLI App]]
-	2. [ ] Save contact information, initally only name and mobile number later, use should be able to save, name, adress, mobile number, email adress, this is more kind of phone book but it will be modern phone book. [[Modern Phone Book CLI App  ]]
-	3. [ ] Random password Generator, : user give some information such as some words and then later password is created from those words
-	4. 
+	2. [x] Save contact information, initally only name and mobile number later, use should be able to save, name, adress, mobile number, email adress, this is more kind of phone book but it will be modern phone book. [[Modern Phone Book CLI App  ]]
+	3. [x] [[Random password Generator]]  
+		1.  ask user to enter the length of password and generate password 
 
+
+#### Medium Level 
 1. Build some API with sample Data, such as movies or songs or anything else
 	1. later add the CRUD functionality to it 
 	2. Initially Do not add the database

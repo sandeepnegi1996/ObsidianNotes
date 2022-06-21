@@ -3,7 +3,12 @@
 - **🏷️Tags** : #05-05-2022,  #pending 
 
 #### 🔗 Links
+
+
+
 ### Introduce yourself as new Joinee 
+
+
 
 ```
 
@@ -19,6 +24,8 @@ This is all from my end Thank you :)
 
 ```
 
+>Three words about my self 
+>Consistent, Passionate about tech , Organized 
 
 ### Thank you email template to recruiter after onboarding
 

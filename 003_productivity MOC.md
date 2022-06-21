@@ -18,3 +18,5 @@
 [[12 things every programmer should own]]
 
 [[how to take notes from books]]
+
+

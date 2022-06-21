@@ -1,3 +1,4 @@
 - [ ] [[Every coin has two sides]]
 - [ ] [[Everything in this world is having advantages and disadvantages]]
 - [ ] [[ Three Pillars of My Life]]
+- [ ] [[my favorite quotes]]
