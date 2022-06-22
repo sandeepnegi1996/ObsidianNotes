@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_inbox/backend developer projects.md",
+            "file": "Jorurnaling/2022-06-21.md",
             "mode": "source",
             "source": false
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326,
-    "collapsed": true
+    "width": 326
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/backend developer projects.md",
+                "file": "Jorurnaling/2022-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +136,15 @@
   },
   "active": "98e6c6c456516e36",
   "lastOpenFiles": [
-    "_inbox/backend developer projects.md",
     "Jorurnaling/2022-06-21.md",
-    "_inbox/Modern Phone Book CLI App.md",
-    "_inbox/Dice-Roller CLI App.md",
-    "_inbox/Random password Generator.md",
-    "_inbox/Learn Intellij shortcuts.md",
-    "everything i wants to do.md",
-    "Jorurnaling/2022-06-20.md",
+    "Jorurnaling/2022-06-28.md",
     "Jorurnaling/2022-06-24.md",
-    "_inbox/Tek System.md"
+    "Jorurnaling/2022-06-22.md",
+    "templates/Daily Note Template.md",
+    "_inbox/Tek System.md",
+    "everything i wants to do.md",
+    "_inbox/backend developer projects.md",
+    "_inbox/Modern Phone Book CLI App.md",
+    "_inbox/Dice-Roller CLI App.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 
 # Latest
-- [ ] check passport  PP891332608IN it will take some more time 
+
 - [ ] check bosch appliance order 
 	https://employee-sales.bsh-group.asia/in/myaccount/login
 - [ ] [[mentors for life]]
@@ -24,6 +24,8 @@
 4. [ ] fix the github issues in [[Modern Phone Book CLI App]]
 5. [ ] build second brain --> improve your second brain 
 6. [ ] Generate income for family so that they do need to ask money from me this is a really inspiring story :) 
+7. [ ] [[linkedin post ideas]]
+8. [ ]  [[blogpost ideas]]
 
 ### Personal
 - [ ] Learn to eat from fork and knife 

@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "backend developer projects",
-      "path": "_inbox/backend developer projects.md"
-    },
-    {
       "basename": "2022-06-21",
       "path": "Jorurnaling/2022-06-21.md"
+    },
+    {
+      "basename": "2022-06-28",
+      "path": "Jorurnaling/2022-06-28.md"
+    },
+    {
+      "basename": "2022-06-24",
+      "path": "Jorurnaling/2022-06-24.md"
+    },
+    {
+      "basename": "2022-06-22",
+      "path": "Jorurnaling/2022-06-22.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "templates/Daily Note Template.md"
+    },
+    {
+      "basename": "Tek System",
+      "path": "_inbox/Tek System.md"
+    },
+    {
+      "basename": "everything i wants to do",
+      "path": "everything i wants to do.md"
+    },
+    {
+      "basename": "backend developer projects",
+      "path": "_inbox/backend developer projects.md"
     },
     {
       "basename": "Modern Phone Book CLI App",
@@ -25,20 +49,8 @@
       "path": "_inbox/Learn Intellij shortcuts.md"
     },
     {
-      "basename": "everything i wants to do",
-      "path": "everything i wants to do.md"
-    },
-    {
       "basename": "2022-06-20",
       "path": "Jorurnaling/2022-06-20.md"
-    },
-    {
-      "basename": "2022-06-24",
-      "path": "Jorurnaling/2022-06-24.md"
-    },
-    {
-      "basename": "Tek System",
-      "path": "_inbox/Tek System.md"
     },
     {
       "basename": "e-separation bosch",
@@ -157,10 +169,6 @@
       "path": "005_Project Ideas MOC.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "templates/Daily Note Template.md"
-    },
-    {
       "basename": "202206101713",
       "path": "_inbox/202206101713.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "What is Immutable class in java",
       "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
-    },
-    {
-      "basename": "JAVA-interviews",
-      "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
-    },
-    {
-      "basename": "2022-06-09",
-      "path": "Jorurnaling/2022-06-09.md"
     }
   ],
   "omittedPaths": [],
