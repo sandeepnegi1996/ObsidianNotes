@@ -28,4 +28,5 @@
 
 Dimensions : 31.5"D x 63"W x 28 "H
 for depth i need to check how much wide i can take the item in the home
+for height also I need to check with the vendor
 

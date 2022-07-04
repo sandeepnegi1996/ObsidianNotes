@@ -42,11 +42,13 @@ This is the central repository for the skill set.
 
 ## Information from bosch
 
-1. **Manager** --> Nikhil --> email id and mobile number
- 
-- Satankar Nikhil Bhaskar Rao (SX/BSV-AD1)
+1. **Manager** --> Nikhil 
+-  email id and mobile number
+- Satankar Nikhil Bhaskar Rao (SX/BSV-AD1) 
 - Nikhil.Satankar@in.bosch.com
 - 91(80)6738-1986
+
+
 
 2. **HR**  --> Phone number , email.  
 Gauranshi Tripathi (BGSW/HRL-BP1)
@@ -68,11 +70,10 @@ Gauranshi Tripathi (BGSW/HRL-BP1)
 1. Form16 --> done
 2. HR Email Confirmation --> Pending , what email confirmation is required here
 3. Offer Letter --> offer letter downloaded but there is no date of joining
-4. PF statement --> pending  --> for this do the enomination  --> 
-5. Service or Experience Letter --> Pending   --> 
-6. Letter of authorization --> download and then uploading
-7. Passport : --> pending with applciation
-8. voter id : --> ree
+4. PF statement -->
+5. Service or Experience Letter --> pending
+
+
 
 
 

@@ -1,3 +1,15 @@
+
+#### PRAN OR NPS Details
+PRAN : 110186822793
+Pass : S@ndeep12345
+21/03/1996
+
+
+	  
+
+
+
+
 GitHub  
   
 [9041128179sandy@gmaill.com](mailto:9041128179sandy@gmaill.com)  
@@ -47,8 +59,9 @@ S@ndeep123456
   
 12. hdfc user id :- 133060130  
 13. login pin internet banking ;- S@ndeep12345  
-14. bank account number :- 50100306618491  
-15. ifsc code : HDFC0003636  
+14. Bank Name : HDFC
+15. bank account number :- 50100306618491  
+16. ifsc code : HDFC0003636  
   
 14. [negi.sunder96mes@gmail.com](mailto:negi.sunder96mes@gmail.com)  
 pssword. :- S@ndeep1234567  

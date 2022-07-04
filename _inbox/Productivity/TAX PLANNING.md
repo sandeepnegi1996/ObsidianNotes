@@ -1,6 +1,38 @@
 # TAX PLANNING
 
+
+## Key Takeaways 
+1. NPS --> 50 K   
+2. ELSS  --> 1.5 Lakh 
+3. PPF --> 50K 
+4. Standard Deductions : 50K
+5. Medical insurance : 25k 
+
 - High income --> old tax slab this is best for us 
+
+
+- [ ] How to save on section 80D for medical insurance 
+- [ ] Section 24 -> home loan for 2 lakh
+- [ ] HRA --> home alone
+- [ ] Education Lone
+- [ ] LTA Allowance for 
+
+
+
+
+### NPS
+1. activate
+
+
+### ELSS
+1. Mirae Asset from Groww
+
+
+### Save and Invest in RealState
+
+
+
+
 
 
 ## Save Tax
@@ -60,10 +92,6 @@ Deductions
 	- Sec 80D --> Medical Insurance  --> 25000
 	-
 	
-	![[Pasted image 20220407102815.png]]
-- ![[screenshot_71.png]]
-
-
 ### Joint Home Loan
 -  both the partners can claim
 

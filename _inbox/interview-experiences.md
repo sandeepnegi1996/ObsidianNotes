@@ -109,7 +109,6 @@
 20. What is message broker, kafka and rabbit mq
 21. basics of scalable system: caching, sharding, cap theorem, hashing etc
 22. how to write simple unit tests 
-23. 
 
 
 

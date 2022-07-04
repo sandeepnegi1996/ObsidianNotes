@@ -1,6 +1,26 @@
 
 ### Really cool Blog
+
+https://betterprogramming.pub/stack-overflow-2022-developer-survey-where-is-the-industry-heading-3cd4a0cd41f3
+
+
+https://levelup.gitconnected.com/7-phenomenal-websites-that-every-developer-wish-they-knew-earlier-7cc35669859a
+
+
+https://medium.com/@AliBuilds/how-i-deploy-my-full-stack-projects-for-free-e07bde56b389
+
+
+https://hackernoon.com/new-tech-breakthrough-in-cancer-research-targets-only-cancer-cells
+
+
+
 https://blog.bytebytego.com/archive?sort=new
+
+https://betterprogramming.pub/developers-take-bug-reports-as-opportunities-not-criticisms-58db51f75d96
+
+https://betterprogramming.pub/what-i-learned-after-interviewing-100-software-engineers-35e0454dcf4b
+
+https://medium.com/javarevisited/do-you-know-classpath-in-java-3edd297907e5
 
 
 #### 

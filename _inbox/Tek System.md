@@ -1,3 +1,69 @@
+### PF Transfer 
+
+
+## NPS
+- What is NPS
+	- National Pension Scheme
+	- Tier 1 : Investment  
+	- Tier 2 : Pension
+	- Regulated by PFRDA
+	- 1.5 Lakh ELSS
+	- 50k NPS
+	- check with company will they also add some amount in the NPS
+	- Acive Choice to invest more on equity and debt 
+	- Auto Choice : 
+- Open Account using POP
+	- PRAN : number will be generated and this is similar to like PAN Number}
+	- find the nearest POP Office 
+	- enps.nsdl.com
+	- we can register everything online 
+	- invest everyone month something like SIP
+	- Calculator : for montly income 
+	-  Means montly we should invest around  : 4200
+- Detailed unsterdaing of NPS
+- 
+
+
+### Insurance Details
+
+Lavanya V : 
+Lavanya V   Lavanya.V@globalinsurance.co.in
+Malini D:   malini.d@globalinsurance.co.in
+
+
+
+### Employee Service Portal Tek system
+
+https://allegisindia.ramcocloud.com/rvw/
+
+Username : INR013864
+
+Password : F_tB\wHq13$
+
+new password : S@ndeep12345
+
+
+#### POSH Trainning
+We are glad to announce the launch of the e-learning module for Prevention of Sexual Harassment Act (PoSH). This is a mandatory e-learning module that all our employees need to take and learn about the various aspects of the PoSH Act.
+
+Kindly click on the link here - [https://ecourse1.anytimelearn.in](https://urldefense.proofpoint.com/v2/url?u=https-3A__ecourse1.anytimelearn.in&d=DwMFaQ&c=_EdSgJoS8igo01XnekBu_azVXoUPxJkwz9O2AzwhBbE&r=C4PBuAZCrsKf67ZBKr-5MSn8SHEemjiGSmuVMlH1eN8&m=YQrrqz2fuM40qk1xJgnD_w8FUnAMtipcR7JblMSCXCc&s=DtyuUdu2jgMtu6v-WMs9Ch7jQgaSPozRH1gqXlelfVk&e=)
+
+Username – [negi.sandeep01906@gmail.com](mailto:negi.sandeep01906@gmail.com)
+
+Password – Welcome123#
+
+You are requested to complete the mandatory training ASAP. Once completed, please take a screenshot of your completion certificate eligible to get certificate is **80% and send it to** [**sadhanaraj@teksystems.com**](mailto:sadhanaraj@teksystems.com)
+
+In case you face any issues, kindly reach out to me.
+
+POSH Login Guide
+
+To Access POSH course refer the below guidelines:
+
+1.     Go to the url: [https://ecourse1.anytimelearn.in](https://ecourse1.anytimelearn.in/)
+
+2.     Enter your email ID and password to login.
+
 ### Notes from orientation 
 
 1. Employee Relations --> nelson
@@ -54,15 +120,6 @@ Furlough --> client speific is adjusted with PL --> company closed for those day
 
 
 
-### Employee Service Portal Tek system
-
-https://allegisindia.ramcocloud.com/rvw/
-
-Username : INR013864
-
-Password : F_tB\wHq13$
-
-new password : S@ndeep12345
 
 
 
@@ -362,26 +419,18 @@ S@ndeep123456
 
 mobile no : 7973882172
 
-
-
-
-
-
-
-
 ### Manager :
 
 1. Gopalkrishnan, Ravishankar  :
 2. email: `ragopala@visa.com`
 
 
-### Tech Lead
+##### Tech Lead
 1. ayas kanta
 2. email : ayswain@visa.com
 
 
 
-### VDI Setup
 
 
 
@@ -438,6 +487,9 @@ Mobile No           : 9900894411
 Please keep this mail for your immediate reference till you get any update upon the same.
 
 Assure you all possible support.
+
+chshivananda@teksystems.com
+
 
 
 

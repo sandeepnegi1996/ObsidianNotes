@@ -23,41 +23,49 @@
 
 
 #### Medium Level 
-1. Build some API with sample Data, such as movies or songs or anything else
-	1. later add the CRUD functionality to it 
+
+1. [x] - public API github link : [github](https://github.com/public-apis/public-apis)
+[[anime random Quote ]]
+
+1. Build some API with sample Data, such as movies or songs or anything else. later add the CRUD functionality to it 
 	2. Initially Do not add the database
 	3. Add the database later
+	4. 
 
-- public API github link : [github](https://github.com/public-apis/public-apis)
 
-2. Build API by using Third Party API in your projects
+3. Build one CLI project to addition  and subtraction of dates
+	1. use SimpleDateFormatter or JODA
+	2. use Calendar API for the addition and sustraction
+	3. always consider the time zone while working.
+	4. 
+4. Build API by using Third Party API in your projects
 
-3. Build a webscraper
+5. Build a webscraper
 
-4. Build a cypher
+6. Build a cypher
 
-5. Build an API that can render some templates
+7. Build an API that can render some templates
 
-6. Integrate CRUD API with database,
+8. Integrate CRUD API with database,
 	1. Relational or non relational
 
-7. Implement Basic Auth
+9. Implement Basic Auth
 	1. Username and password
 	2. JWT autentication
 	3. Implement OAuth Service 
 
-8. Email Service Integration to CRUD API
+10. Email Service Integration to CRUD API
 
-9. Deployment for Backend API
+11. Deployment for Backend API
 	1. use docker or some github actions or some other free services.
 
-10. Build API using GraphQL
+12. Build API using GraphQL
 
-11. Chat Server using Sockets
+13. Chat Server using Sockets
 
-12. Web server 
+14. Web server 
 
-13. Chat bot
+15. Chat bot
 
 
 

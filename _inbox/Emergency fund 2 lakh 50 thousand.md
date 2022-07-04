@@ -1,0 +1,9 @@
+- [ ] July : 10k
+- [ ] August : 10k
+- [ ] September : 10k
+- [ ] October : 10k 
+- [ ] November : 10k
+- [ ] December : 10k
+- [ ] Any bonus or amount i will receive as one time 
+- [ ] Any hike amount which is increment in salary should be put here.
+- [ ] August : Put all the money from Bosch in this Emergency fund as a Fixed Deposit 

@@ -8,3 +8,5 @@
 
 ### Projects
 [[Dice-Roller CLI App]]
+[[Modern Phone Book CLI App]]
+[[Random password Generator]]

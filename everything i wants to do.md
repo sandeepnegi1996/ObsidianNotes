@@ -1,20 +1,47 @@
-# Everything i need to do
+# Everything I need to do
+
+## Important and Urgent 
+- Get money from Gym bro
 
 
-# Latest
 
-- [ ] check bosch appliance order 
-	https://employee-sales.bsh-group.asia/in/myaccount/login
+
+
+
+## Important 
+1. Check health of fat lumps
+3. [x] Create NPS [[TAX PLANNING]]
+4. Invest in ELSS [[007_Challenges]]
+5. Mention ELSS and other things in ramco
+6. follow up with tek for documents verification
+8. Prepare your Emergency Fund Full fledged 
+9. pay for policy
+10.  [[monthly expense tracker ]]
+11. [[fun todo list]] 
+12. landing page small business --> dhananjay
+13. [[FIRE]]
+
+- [ ] checkout the project typewriter effect 
+
+- [ ] NPS and PPF in ramco
+- [ ] Formalities to visit tek system
+- [ ] check with tek system for star health global organization [[Tek System]]    -> follow up with lavanaya
+- [ ] how to claim tax benefits every month ramco 7th 
+	- [ ] meal,nps,investment
+- [ ] check for meal coupons paytm with payroll team
+- [ ] initiate PF Transfer after 2 months salary ask previous employer to transfer the PF [[Tek System]]
+	- [ ] 
+
+
+
+## Latest
+- [ ] publish obsidian notes to github pages so that we can directly publish from local
+- [x] check with bosch for the formalities --> final amount will be reimbursed on 12th August 
 - [ ] [[mentors for life]]
-- [ ] follow up for the asset shipment 
-- [ ] Take care of your skin , health , everyday 
 - [ ] [[how to take care of your eyes ]]  
 - [ ] [[my favorite quotes]] --> revise rewrite or write some stories on it 
 - [ ] [[setup upgrades]]
-- [ ] check Saurav Pal for the Personal development and career development
 - [ ] unsubscribe channel from sandeep negi channel
-- [ ] ask pradeep to put all documents in a folder
-
 
 ### Career
 - [ ] How to get more achievements on github
@@ -28,7 +55,9 @@
 8. [ ]  [[blogpost ideas]]
 
 ### Personal
-- [ ] Learn to eat from fork and knife 
+7. Follow minimilism [[Minimalism]]
+8. [[frugal living]]
+9. [[8 hard skills for life]]
 - [ ] Click some professional pictures in 2 or 3 and upload them on all platforms 
 - [ ] Everydat Pray for 5 mins
 - [ ] Daily remove 5 contacts
@@ -45,10 +74,7 @@
 - [ ] Increase fruits and vegetables intake 
 - [ ] Reduce Screentime 
 - [ ] Fix sleep time and wake up time 
-- [ ] Never Ever Ask anyone for money
-- [ ] car wash
-- [ ] car documents
-- [ ] Arti Di Degress --> pending
+- [ ] Arti Di Degress --> August check
 - [ ] Mummy and Father Bank Account in HDFC 
 
 
@@ -83,6 +109,17 @@
 - [ ] call a friend
 
 #### Completed
+5. [x] check courier of bluedart : bosch
+
+			58049641823
+
+
+
+
+6. [x] check courier of tek system  :   
+
+		Speed post No : EV490031353IN
+- [x] Book flight ticket 
 - [x] download insurance document -->and store in google drive
 - [x] How to do presentation using obsidian --> this can be achive by doing three `---` and it will work
 - [x] 8 hard skills for life ---> `self-soothing` done , needs to implement points from it 
