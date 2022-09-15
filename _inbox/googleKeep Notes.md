@@ -10,20 +10,18 @@ Pass : S@ndeep12345
 
 
 
-GitHub  
+### GitHub  
   
 [9041128179sandy@gmaill.com](mailto:9041128179sandy@gmaill.com)  
   
 S@ndeep96github  
   
-1. youtube  
+### youtube  
   
 email :- [negi.sandeep01906@gmail.com](mailto:negi.sandeep01906@gmail.com)  
 password:- Sunder!@#L@xmi967  
   
 channel :- hashcodehub  
-  
-2. youtube  
   
 email :- [negi.sandeep01906@gmail.com](mailto:negi.sandeep01906@gmail.com)  
 password:- Sunder!@#L@xmi967  
@@ -31,7 +29,7 @@ password:- Sunder!@#L@xmi967
 channel :- sandeep negi  
 this youtube is for motivational content  
   
-3. godaddy  
+### godaddy  
   
 Login :- google account :- [negi.sandeep01906@gmail.com](mailto:negi.sandeep01906@gmail.com)  
   
@@ -56,7 +54,8 @@ S@ndeep123456
   
 11. Whizzlabs  
 [negi.sandeep01906@gmail.com](mailto:negi.sandeep01906@gmail.com). ---> gmail  
-  
+
+### HDFC Bank
 12. hdfc user id :- 133060130  
 13. login pin internet banking ;- S@ndeep12345  
 14. Bank Name : HDFC
@@ -67,8 +66,8 @@ S@ndeep123456
 pssword. :- S@ndeep1234567  
   
   
-15. UAN NUMBER :- 101520346250  
-  
+### UANs
+UAN NUMBER :- 101520346250  
 password :-. S@ndeep123456  
   
   
@@ -94,15 +93,7 @@ papa birthday :- 13/september /1962
   
   
 Wifi password :- sandeep@32145  
-  
-Wifi  
-  
-[28/05, 9:18 am] sandeep negi: up.sbm1.sandeepnegi  
-[28/05, 9:18 am] sandeep negi: sandeep123  
-  
-  
-  
-Dear Subscriber, Please use the access details for login to Railwire-services. Username:up.sbm1.sandeep... Password:sandeep123 - Team Railtel  
+
   
   
 Irctc login details :-  
@@ -116,11 +107,7 @@ Pin :- 9595
 Mobile number :- 9041128179  
   
 Email id :- [9041128179sandy@gmail.com](mailto:9041128179sandy@gmail.com)  
-  
-Netflix : akshay  
-  
-  
-  
+    
 Pops  
   
 Email :- [negi.sunder96mes@gmail.com](mailto:negi.sunder96mes@gmail.com)  
@@ -129,9 +116,12 @@ Mobile no. 8958842537
   
   
 Mummy :-  
-  
-  
-  
+Account No. 0946000100171926
+LAKSHAMI DEVI
+PUNB0094600
+
+
+
   
 Bosch  
   

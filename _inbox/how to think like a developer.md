@@ -1,3 +1,7 @@
+
+
+
+
 - Practice is the Key 
 - build and practice things
 - so that we can think in different scenarios

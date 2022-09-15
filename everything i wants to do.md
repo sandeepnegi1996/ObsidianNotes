@@ -2,10 +2,7 @@
 
 ## Important and Urgent 
 - Get money from Gym bro
-
-
-
-
+- [ ] Money payment of the NPS around 5k
 
 
 ## Important 

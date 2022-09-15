@@ -21,3 +21,6 @@
 
 [[packing and moving guides]]
 
+[[how to become 10x engineer]]
+[[How to Become a Better Software Engineer]]
+

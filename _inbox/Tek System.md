@@ -1,3 +1,6 @@
+
+
+
 ### PF Transfer 
 
 
@@ -37,9 +40,6 @@ Malini D:   malini.d@globalinsurance.co.in
 https://allegisindia.ramcocloud.com/rvw/
 
 Username : INR013864
-
-Password : F_tB\wHq13$
-
 new password : S@ndeep12345
 
 
@@ -503,7 +503,6 @@ reset password AD
 final password :
 S@ndeep12345
 
-#### Mac machine 
 
 1. Active Id : 147258 password 
 2. 
