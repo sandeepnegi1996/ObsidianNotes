@@ -1,42 +1,43 @@
-*Just Perform 1% better then Yesterday*
- 
- *Focus Mode and Pomodoro and TimeBlocking* 
-
- *Never Reveal*
- 
-*Train your brain to do hard things *
-
-*Never Ever Ask anyone for money*
+1. *Just Perform 1% better then Yesterday*
+2. *Focus Mode and Pomodoro and TimeBlocking* 
+3. *Never Reveal*
+4. *Train your brain to do hard things *
+5. *Never Ever Ask anyone for money*
+6. become strongest and richest in your bloodline 
 
 
-## Morning thoughts
+### Morning thoughts
 
-## Gratitude
+### Gratitude
 
-## Meeting Log
+### Meeting Log
 
 #### 0000:
 
 
-## Daily Checklist 
+### Daily Checklist 
 
-### Start of Day
+#### Start of Day
 
-- [ ] Check Email
-- [ ] Check Calendar - Time Block
-- [ ] submit timesheet
-- [ ] 
+- [ ] drink 1l water 
+- [ ] take medicines 
+- [ ] read for 15 mins 
+- [ ] clean your desk and bed and complete room 
 
 ### Daily checklist
+1. prepare meals for tomorrow 
 
 
-### End of Day
+#### End of Day
 - [ ] Check tomorrow's calendar and do time-block
 - [ ] Clean face and eyes
 - [ ] Clean Desk
 
 
 ### Journaling 
+1. what went well 
+2. what didn't well 
+3. How we can improve 
 
 
 

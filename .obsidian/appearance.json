@@ -1,8 +1,9 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 12,
   "theme": "moonstone",
-  "cssTheme": "Deep Work",
+  "cssTheme": "Sanctum",
   "baseFontSizeAction": true,
   "translucency": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "accentColor": ""
 }

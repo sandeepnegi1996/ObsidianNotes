@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "51cfc214d15408a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dccbb861aeeefdbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ee7b31c987a89c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/Productivity/Time Elasticity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a4c837fecf16977",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ca0cdb3a385cb0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a33c6de92fc8fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7351a772ff4f29fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5efe720785950671",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "4772bdc2a27349b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326
+  },
+  "right": {
+    "id": "446b376c3f9369a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f666c68fd125c1",
+        "type": "tabs",
+        "dimension": 25,
+        "children": [
+          {
+            "id": "96c041c70cba207d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ed3bdcf4aa96ef66",
+        "type": "tabs",
+        "dimension": 25,
+        "children": [
+          {
+            "id": "bb117802a285e060",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_inbox/Productivity/Time Elasticity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1741f759e27f490f",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "824ff57714da923a",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "periodic-notes:Open today": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "5ee7b31c987a89c6",
+  "lastOpenFiles": [
+    "_inbox/Productivity/Time Elasticity.md",
+    "_inbox/Productivity/Productivity.md",
+    "003_productivity MOC.md",
+    "_inbox/Untitled 1.canvas",
+    "_inbox/Untitled.canvas",
+    "_inbox/things I wanted to do.md",
+    "templates/Daily Note Template.md",
+    "Jorurnaling/2023-01-05.md",
+    "_inbox/2023-01-05.md",
+    "_inbox/Tek System.md",
+    "Jorurnaling/2022-06-29.md"
+  ]
+}

@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Time Elasticity",
+      "path": "_inbox/Productivity/Time Elasticity.md"
+    },
+    {
+      "basename": "Productivity",
+      "path": "_inbox/Productivity/Productivity.md"
+    },
+    {
+      "basename": "003_productivity MOC",
+      "path": "003_productivity MOC.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "_inbox/Untitled 1.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "_inbox/Untitled.canvas"
+    },
+    {
+      "basename": "things I wanted to do",
+      "path": "_inbox/things I wanted to do.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "templates/Daily Note Template.md"
+    },
+    {
+      "basename": "2023-01-05",
+      "path": "Jorurnaling/2023-01-05.md"
+    },
+    {
+      "basename": "2023-01-05",
+      "path": "_inbox/2023-01-05.md"
+    },
+    {
       "basename": "Tek System",
       "path": "_inbox/Tek System.md"
+    },
+    {
+      "basename": "2022-06-29",
+      "path": "Jorurnaling/2022-06-29.md"
+    },
+    {
+      "basename": "007_Challenges",
+      "path": "007_Challenges.md"
+    },
+    {
+      "basename": "TAX PLANNING",
+      "path": "_inbox/Productivity/TAX PLANNING.md"
+    },
+    {
+      "basename": "amit",
+      "path": "people/amit.md"
     },
     {
       "basename": "009_Videos",
@@ -15,14 +67,6 @@
     {
       "basename": "googleKeep Notes",
       "path": "_inbox/googleKeep Notes.md"
-    },
-    {
-      "basename": "003_productivity MOC",
-      "path": "003_productivity MOC.md"
-    },
-    {
-      "basename": "amit",
-      "path": "people/amit.md"
     },
     {
       "basename": "Trekking",
@@ -53,10 +97,6 @@
       "path": "Jorurnaling/2022-07-09.md"
     },
     {
-      "basename": "TAX PLANNING",
-      "path": "_inbox/Productivity/TAX PLANNING.md"
-    },
-    {
       "basename": "2022-07-04",
       "path": "Jorurnaling/2022-07-04.md"
     },
@@ -71,10 +111,6 @@
     {
       "basename": "Minimalism",
       "path": "_inbox/Minimalism.md"
-    },
-    {
-      "basename": "007_Challenges",
-      "path": "007_Challenges.md"
     },
     {
       "basename": "self soothing",
@@ -163,44 +199,9 @@
     {
       "basename": "How to run three threads in java one after another",
       "path": "_inbox/How to run three threads in java one after another.md"
-    },
-    {
-      "basename": "2022-07-02",
-      "path": "_inbox/2022-07-02.md"
-    },
-    {
-      "basename": "packing and moving guides",
-      "path": "_inbox/packing and moving guides.md"
-    },
-    {
-      "basename": "backend developer projects",
-      "path": "_inbox/backend developer projects.md"
-    },
-    {
-      "basename": "2022-06-29",
-      "path": "Jorurnaling/2022-06-29.md"
-    },
-    {
-      "basename": "2022-06-28",
-      "path": "Jorurnaling/2022-06-28.md"
-    },
-    {
-      "basename": "Reading list of blogs",
-      "path": "_inbox/Reading list of blogs.md"
-    },
-    {
-      "basename": "Life as a developer on Oracle Cloud",
-      "path": "_inbox/Life as a developer on Oracle Cloud.md"
-    },
-    {
-      "basename": "anime random Quote",
-      "path": "_inbox/anime random Quote.md"
-    },
-    {
-      "basename": "frugal living",
-      "path": "_inbox/frugal living.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
