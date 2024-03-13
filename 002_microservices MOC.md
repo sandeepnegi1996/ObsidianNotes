@@ -1,3 +1,11 @@
+
+Pending 
+- [ ] [[springboot integration tests example]]
+
+
+
+
+
 [[event driven microservices architecture]]
 [[what is Vert.x]]
 [[how to use intellij in windows for community edition]]
@@ -14,6 +22,8 @@
 [[what is Serializable ]]
 
 [[spring framework ]]
+
+
 
 
 

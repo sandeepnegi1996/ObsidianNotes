@@ -8,13 +8,14 @@ Time is Elastic
 
 #### 4 Ways to Stretch your time
 ---
-##### Use Your Time to Work Toward Achieving Your Best Life
+##### Use Your Time to Work Toward Achieving Your Best Life****
 -  Spend your time only on things that will give you your best life.
 -  Set Milestone to reach that goal
 -  Break Goals, into smaller goals and into smaller chunks and then plan each day to reach or complete that smaller goals.
 
 - [[What is my Best Life Looks Like ]]
 - [[how to break a task into smaller chunks]]
+- [[Things that makes me happy]]
 ---
 
 ##### Apply the Law of Straight Lines.

@@ -8,7 +8,7 @@
 ## Key Takeaways
 
 ## Overview
-- `@SpringBootApplication` annotation is bascially used with the main class to enable a host of features
+- `@SpringBootApplication` annotation is basically used with the main class to enable a host of features
 - `@Configuration`  : this will do java based configuration
 - `@EnableAutoConfiguration` : it enable the auto configuration feature in spring boot
 - `@ComponentScan` : enable component scanning
@@ -34,3 +34,20 @@
 5. 
 
 
+
+#### Example code 
+```java
+package com.hashcodehub.springboot.studentservices;  
+  
+import org.springframework.boot.SpringApplication;  
+import org.springframework.boot.autoconfigure.SpringBootApplication;  
+  
+@SpringBootApplication  
+public class StudentServicesApplication {  
+  
+   public static void main(String[] args) {  
+      SpringApplication.run(StudentServicesApplication.class, args);  
+   }  
+  
+}
+```

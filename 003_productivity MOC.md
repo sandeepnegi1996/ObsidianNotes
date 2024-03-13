@@ -1,4 +1,7 @@
-[[bharmcharya]]
+- [ ] [[40 harsh truths of life]]
+- [ ] [[A new struggle of middle class  sango]]
+- [ ] [[How to use credit card , rupay and regalia]]
+- [ ] [[bharmcharya]]
 [[Productivity]]
 [[productivity hacks -review]]
 [[Maximizing Productivity -Huberman]]

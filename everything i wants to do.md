@@ -1,4 +1,99 @@
-# Everything I need to do
+#### All the todo items 
+
+https://docs.google.com/spreadsheets/d/1S-ipgKltkrqiKgtvRiM9hVtcgCFEa0OjdU4sfjC166g/edit#gid=0
+
+
+| **heading**                                                                        | **priority** | **status** |
+| ---------------------------------------------------------------------------------- | ------------ | ---------- |
+| Organize obsidian notes in top category in life and push all the latest            |              |            |
+| create emergency fund - top priority                                               |              |            |
+| stitch green lower                                                                 |              |            |
+| ladies helmet                                                                      |              |            |
+| prepare route rihikesh to delhi -> by car                                          |              |            |
+| Prepare route from delhi to rishikesh by car                                       |              |            |
+| Prepare bike route from rishikesh to delhi                                         |              |            |
+| Prepare bike route from delhi to rishikesh                                         |              |            |
+| Get one perfume for ajay jija ji                                                   |              |            |
+| Gift neck band to arti didi                                                        |              |            |
+| Vandna Di birthday gift                                                            |              |            |
+| Tax Fill check with Rajat CA                                                       |              |            |
+| Learn whatsapp new features that can improve productivity                          |              |            |
+| Buy a new phone for myself                                                         |              |            |
+| Buy a new personalised laptop for myself                                           |              |            |
+| GPS for CAR                                                                        |              |            |
+| car mobile holder for navigation                                                   |              |            |
+| Sports shoes for Vandna Didi                                                       |              |            |
+| Categories the items in routine, daily, montly , 3 months , and 6 months checklist |              |            |
+| Check all the loans on my accont                                                   |              |            |
+| Write a letter to future self and send it using gmail                              |              |            |
+| Write everything I have achived in 2023                                            |              |            |
+| IFBB machine service                                                               |              |            |
+| Return 3Lakh to mom for Priya jewellery                                            |              |            |
+| Return 60k to mom for engagement                                                   |              |            |
+| papa 3 months recharge                                                             |              |            |
+| mom 3 months recharge                                                              |              |            |
+| Cancel LIC next year                                                               |              |            |
+| rebuild hashcodehub instagram page                                                 |              |            |
+| one detailed guide for interview prep                                              |              |            |
+| Go karting with friends                                                            |              |            |
+| Bike and lagguage shipment                                                         |              |            |
+| amit marriage                                                                      |              |            |
+| helmet                                                                             |              |            |
+| Gift omi ukele                                                                     |              |            |
+| Buy dream bike                                                                     |              |            |
+| Build desk setup at homr                                                           |              |            |
+| Visit Kodaikanal                                                                   |              |            |
+| Visit isha yoga                                                                    |              |            |
+| Ride 300km motorcycle                                                              |              |            |
+| increase LIC home loan EMI                                                         |              |            |
+| Plan for Dream home                                                                |              |            |
+| Create one project with integration tests in springboot                            |              |            |
+| Learn Loan and whole process by jija ji                                            |              |            |
+| buy oil dispenser                                                                  |              |            |
+| buy saree organizer                                                                |              |            |
+| buy new dressing                                                                   |              |            |
+| buy new phone for papa                                                             |              |            |
+| 1000 Rs Rd for Kushi                                                               |              |            |
+| clean chimni                                                                       |              |            |
+| clean washing machine                                                              |              |            |
+| talk to kalpana didi for work                                                      |              |            |
+| talk to nitin for work                                                             |              |            |
+| research about network booster                                                     |              |            |
+| 1000 rs RD for vaishu                                                              |              |            |
+| 1000rs RD for ayush kid                                                            |              |            |
+| center locking fix car                                                             |              |            |
+| search for a job where you are paid for creating documentation                     |              |            |
+| change tax regime                                                                  |              |            |
+| merge PF                                                                           |              |            |
+| buy radiator cover for triumph                                                     |              |            |
+| headlight protector                                                                |              |            |
+| saddlebag and bag holder from motoroque                                            |              |            |
+| rider jacket                                                                       |              |            |
+| buy a speaker for father a big one                                                 |              |            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Important and Urgent 
 - Get money from Gym bro

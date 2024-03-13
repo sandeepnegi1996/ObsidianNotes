@@ -12,12 +12,32 @@
 ### Most Important 
 - [x] [[Complete Sprinboot project REST API with MySQL]]
 - [ ] [[Simple Springboot REST API with H2 ]]
+- [x] [[springboot integration tests example]]
+- [ ] [[What is SpringBootTest]]
+- [ ] [[What is  LocalServerPort]]
+- [ ] [[What is TestRestTemplate ]]
+- [ ] [[What is HttpEntity]]
+- [ ] [[Json Assert with false as the last arguement]]
+- [ ] [[How Application.properties works with examples ]]
+
+## The “Testing with Spring Boot” Series
+
+This tutorial is part of a series:
+
+- [ ]  1. [Unit Testing with Spring Boot](https://reflectoring.io/unit-testing-spring-boot/)
+- [ ]  2. [Testing Spring MVC Web Controllers with Spring Boot and `@WebMvcTest`](https://reflectoring.io/spring-boot-web-controller-test/)
+- [ ]  3. [Testing JPA Queries with Spring Boot and `@DataJpaTest`](https://reflectoring.io/spring-boot-data-jpa-test/)
+- [ ]  4. [Testing with Spring Boot and `@SpringBootTest`](https://reflectoring.io/spring-boot-test/)
+
 
 ## Pending 
-1. [x] [[What is bean life cycle]]
-2.  [ ] [[What are the annotations used in Spring Data JPA ]]
-3. [ ] [[What is cascading ?]]
-4.  [ ] [[ Can we create custom annotation in springboot]]
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] [[What is bean life cycle]]
+5.  [ ] [[What are the annotations used in Spring Data JPA ]]
+6. [ ] [[What is cascading ?]]
+7.  [ ] [[ Can we create custom annotation in springboot]]
 - [ ] [[how spring container manages bean]]
 - [x] [[What is @PostConstruct and @PreDestroy ]]
 - [x] [[What is inside @SpringBootApplication annotation]]

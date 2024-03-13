@@ -21,3 +21,11 @@
 ### Blogpost  Ideas
 - [ ]  [[How giving tech interviews build my confidence ]]  
 - [ ] [[How to use obsidian as a software developer]]
+
+
+### Schedule Interviews Tips 
+- [ ] [[How to use linkedin to schedule interviews]]
+- [ ] [[How to follow up on email ]]
+- [ ] [[email and personal contacts of HRs]]
+- [ ] [[platform to apply jobs for freshers ]]
+- [ ] 

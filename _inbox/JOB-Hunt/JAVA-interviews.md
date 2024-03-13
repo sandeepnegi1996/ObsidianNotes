@@ -1,11 +1,12 @@
  # Java Interview Questions
  [[001_interviews MOC]]
- #interview 
+ #interview  
  #java 
 #interview
 
 
 ## pending
+- [ ] [[More Java Interview Questions 2024]]
 - [ ] [[  unit testing in java with junit 4]]
 - [ ] [[what is Predicate and a function]]
 - [ ] [[Improvement in java date time api in java 8]]
