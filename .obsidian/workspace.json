@@ -4,203 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7d19fcaa6d5c41bf",
+        "id": "02cf3a83211521ba",
         "type": "tabs",
         "children": [
           {
-            "id": "4dc46e58db8bce9c",
+            "id": "0932e3c7e7348dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_interviews MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12b08c307dcd81f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_inbox/JOB-Hunt/JAVA-interviews.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d2e9426abcc41fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48ba38f5416edf6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_inbox/Side hustles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d0e12fe354a442c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c122250a9294b21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_inbox/JOB-Hunt/JAVA-interviews.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e2ae679e8522c3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e1dbe1b34c06b58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f9b150dbb12ea63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b53c6a9c3d38ebf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "300bbbaaaec32fc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2bd704a1cc9587e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4dfc5107f995a81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24c00ede97022f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7f9269a116c1393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0011 In Progress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72d383a2ef748058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "everything i wants to do.md",
+                "file": "_inbox/Bike and Car Service Updates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "insurance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -262,12 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326
+    "width": 200
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -311,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_inbox/Bike and Car Service Updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -359,46 +178,51 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "4772bdc2a27349b0",
+  "active": "0932e3c7e7348dec",
   "lastOpenFiles": [
-    "everything i wants to do.md",
-    "0011 In Progress.md",
-    "_inbox/monthly expense tracker.md",
-    "_inbox/Thoughts.md",
-    "_inbox/Improve relationship.md",
-    "_inbox/Things that makes me happy.md",
-    "_inbox/personal notes.md",
-    "_inbox/GYM updates.md",
-    "attachments/Pasted image 20240313082158.png",
-    "_inbox/IT jobs after 40.md",
-    "_inbox/Bike and Car Service Updates.md",
-    "0010_Miscalenous.md",
-    "How to Become a Better Software Engineer.md",
-    "_inbox/Qualities I like about Priyanka.md",
-    "_inbox/More Java Interview Questions 2024.md",
-    "_inbox/JOB-Hunt/JAVA-interviews.md",
-    "001_interviews MOC.md",
-    "_inbox/sango life sutras.md",
-    "_inbox/Dream life updates.md",
-    "_inbox/Side hustles.md",
-    "_inbox/Documentation Specialist job.md",
-    "_inbox/What is SpringBootTest.md",
-    "_inbox/fleeting/spring boot interview questions.md",
-    "_inbox/40 harsh truths of life.md",
+    "_inbox/goa.md",
+    "attachments/WhatsApp Image 2024-08-12 at 20.35.01_5b90b972.jpg",
+    "_inbox/Streaming in java.md",
     "003_productivity MOC.md",
-    "_inbox/A new struggle of middle class  sango.md",
-    "_inbox/How Application.properties works with examples.md",
-    "attachments/Pasted image 20240312113704.png",
-    "attachments/Pasted image 20240312110643.png",
+    "0010_Miscalenous.md",
+    "_inbox/Sango life sutras.md",
+    "_inbox/googleKeep Notes.md",
+    "_inbox/wardrobe for home.md",
+    "_inbox/what to do after work.md",
+    "attachments/Pasted image 20240811133917.png",
+    "attachments/Pasted image 20240811133826.png",
+    "attachments/Pasted image 20240811133703.png",
+    "attachments/Pasted image 20240811133601.png",
+    "attachments/Pasted image 20240811133445.png",
+    "attachments/Pasted image 20240811133255.png",
+    "attachments/Pasted image 20240811133235.png",
+    "attachments/Pasted image 20240811131004.png",
+    "_inbox/Tek System.md",
+    "_inbox/everything about insurance.md",
+    "attachments/Pasted image 20240721125815.png",
+    "_inbox/7 years of software engineering advice.md",
+    "_inbox/FIRE.md",
+    "001_interviews MOC.md",
+    "_inbox/JOB-Hunt/companies/Remote job.md",
+    "_inbox/how to think like a developer.md",
+    "_inbox/Productivity/Productivity.md",
+    "_inbox/how to learn faster.md",
+    "004_philosphy MOC.md",
+    "_inbox/Car Service Checklist.md",
+    "_inbox/hsbc onboarding details.md",
+    "_inbox/JOB-Hunt/Interview-Questions-Solutions/Multithreading and multiprocessing.md",
+    "002_microservices MOC.md",
+    "_inbox/40 lessons for a developer.md",
+    "_inbox/what is @Configuration and @ConfigurationProperties.md",
+    "_inbox/fleeting/spring boot interview questions.md",
+    "Untitled.canvas",
+    "attachments/~$JobSupportLatest.xlsx",
+    "attachments/JobSupportLatest.xlsx",
+    "templates/JobSupportLatest.xlsx",
+    "attachments/Kuldeep-Singh-Patil-CV-2.pdf",
+    "attachments/FINENQ_Statement 1002260000745.pdf",
     "attachments/Recording 20240309201257.webm",
     "attachments/Recording 20240309201227.webm",
-    "attachments/Pasted image 20240309130336.png",
-    "attachments/Pasted image 20240309130325.png",
-    "attachments/Pasted image 20240309130311.png",
-    "attachments/Pasted image 20240308130626.png",
-    "attachments/Pasted image 20240308130552.png",
-    "attachments/Pasted image 20240308130459.png",
-    "attachments/Pasted image 20240308125312.png",
     "Untitled",
     "_inbox/Untitled 1.canvas",
     "_inbox/Untitled.canvas"

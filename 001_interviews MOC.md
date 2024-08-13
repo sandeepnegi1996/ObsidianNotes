@@ -1,5 +1,8 @@
 # Interviews MOC
 
+- [ ] [[Streaming in java]]
+
+- [ ] [[System Design]]  -> in progress
 - [[JAVA-interviews | java interview Questions]]
 - [[spring boot interview questions]]
 - [[database interview questions]]
@@ -9,14 +12,15 @@
 - [[angular-interview-questions]]
 - [[html interview questions]]
 - [[frontend interview questions ]]
-- [[System Design]]
-- [[Companies]]
+
+- [[Remote job]]
 - [[tests]]
 - [[interview-experiences]]
 - [[Managerial Round Questions]]
 - [[template-replies]]
 - [[AWS Services]]
 - [[delloite]]
+- 
 
 ### Blogpost  Ideas
 - [ ]  [[How giving tech interviews build my confidence ]]  
@@ -29,3 +33,5 @@
 - [ ] [[email and personal contacts of HRs]]
 - [ ] [[platform to apply jobs for freshers ]]
 - [ ] 
+
+

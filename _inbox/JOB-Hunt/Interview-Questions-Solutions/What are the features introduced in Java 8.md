@@ -82,6 +82,8 @@ Runnable r1 = () -> {
 
 ## ```Optional <T>```
 #pending 
+
+[[What is Optional , with example]]
 - Earlier Developers needs to carefully handle the null pointer exception and that tends out to be some boiler plate code
 - Optional --> helps to handle  NPE 
 	- acts as a container

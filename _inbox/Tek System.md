@@ -1,30 +1,39 @@
 
 
+sandeep.negi@teksystemsindia.com
+latest password : S@ndep!13579
+tek generated password : INR013864@C!ndia
 
-### PF Transfer 
 
 
-## NPS
-- What is NPS
-	- National Pension Scheme
-	- Tier 1 : Investment  
-	- Tier 2 : Pension
-	- Regulated by PFRDA
-	- 1.5 Lakh ELSS
-	- 50k NPS
-	- check with company will they also add some amount in the NPS
-	- Acive Choice to invest more on equity and debt 
-	- Auto Choice : 
-- Open Account using POP
-	- PRAN : number will be generated and this is similar to like PAN Number}
-	- find the nearest POP Office 
-	- enps.nsdl.com
-	- we can register everything online 
-	- invest everyone month something like SIP
-	- Calculator : for montly income 
-	-  Means montly we should invest around  : 4200
-- Detailed unsterdaing of NPS
-- 
+sandeep.negi@allegisgroup.com
+
+
+### ramco
+INR013864
+S@ndep!123456789
+
+
+insurance : https://asi.globalinsurance.co.in/Iagree
+id: 
+sandeep.negi@teksystemsindia.com
+password : S@ndep!98765432
+new : S@ndep!1234567890
+
+
+
+
+
+
+#### PF Transfer 
+
+
+#### apply more sick leaves and emergency leaves
+
+
+
+
+
 
 
 ### Insurance Details
@@ -110,6 +119,7 @@ Furlough --> client speific is adjusted with PL --> company closed for those day
 
 ##### Spotlight website 
 1. Rewards and Recognition --> share the recognition from client to payroll team to get the appreciation and we will get the rewards from the tek system
+2. 
 
 
 ##### teksystemsindia.freshdesk.com
@@ -386,7 +396,6 @@ Savanur, Fakkiresh" <fasavanu@allegisgroup.com>,
 "gs525878@gmail.com" <gs525878@gmail.com>,  
 "sagarlakra2010@gmail.com" <sagarlakra2010@gmail.com>,  
 "shubhangiv905@gmail.com" <shubhangiv905@gmail.com>,  
-"jyotidewan712@gmail.com" <jyotidewan712@gmail.com>,  
 "elie8586@gmail.com" <elie8586@gmail.com>,  
 "kirti17cs@gmail.com" <kirti17cs@gmail.com>,  
 "dhanesh.ramasamy@outlook.com" <dhanesh.ramasamy@outlook.com>,  
@@ -400,7 +409,7 @@ trainning : https://allegisindia.litmos.com.au/account/Welcome
 
 INR013864  --> RAMCO
 
-sandeep.negi@teksystemsindia.com
+
 
 UserId : 60015050703
 
@@ -415,7 +424,7 @@ https://allegisindia.litmos.com.au/home/LearningPath/15577?r=False&ts=6379045474
 
 **E-Mail ID: Sandeep.Negi@teksystemsindia.com
 
-S@ndeep123456
+S@ndep!1234567890
 
 mobile no : 7973882172
 

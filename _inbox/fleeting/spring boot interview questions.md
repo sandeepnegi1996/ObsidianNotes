@@ -8,9 +8,19 @@
 ##  Spring boot 
 
 
+### Latest
+
+1. [ ] [[ What is factory design pattern springboot]]
+2. [ ] [[What is Session Factory]]
+3. [ ] [[Singleton design patterns]]
+4. [x] [[what is @Configuration and @ConfigurationProperties]]
+5. [x] [[inversion of control]]
 
 ### Most Important 
 - [x] [[Complete Sprinboot project REST API with MySQL]]
+- [x] [[introduction to jackson]]
+- [ ] [[what is BOM and dependency meditation in SpringBoot]]
+- [ ] [[maven core plugins ]]
 - [ ] [[Simple Springboot REST API with H2 ]]
 - [x] [[springboot integration tests example]]
 - [ ] [[What is SpringBootTest]]
@@ -19,6 +29,7 @@
 - [ ] [[What is HttpEntity]]
 - [ ] [[Json Assert with false as the last arguement]]
 - [ ] [[How Application.properties works with examples ]]
+- [x] [[unit testing in java with junit 4]]
 
 ## The “Testing with Spring Boot” Series
 
@@ -46,10 +57,8 @@ This tutorial is part of a series:
 - [ ] [[How to improve performance of springboot application]]
 - [ ] [[What is setter injector and constructor injection]]
 - [x] [[What is Scope in beans]]
-	4.[[ What is factory design]]
-	7. [[What is Session Factory]]
-	5.  and [[Singleton design patterns]]
-	6. Which version of hibernate you are using 
+
+	6. [ ] Which version of hibernate you are using 
 	7. 6. [ ] [[what is shutdown hook]]
 	8. 7. [ ] [[What is the way to make Async call in sprinboot microservices.]]
 

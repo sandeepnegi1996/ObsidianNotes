@@ -1,5 +1,12 @@
 # What is stream API in java with examples
 
+[[JAVA-interviews]] [[More Java Interview Questions 2024]]
+
+#java #interview-prep 
+
+links : importan Questions
+[Java 8 Interview Sample Coding Questions (javaconceptoftheday.com)](https://javaconceptoftheday.com/java-8-interview-sample-coding-questions/)
+
 ## Motivation
 - Understanding why we should use Streams over conventional for loop or for each
 - since it can ramp up our programming game like crazy
@@ -7,15 +14,25 @@
 - [[What are the features introduced in Java 8]]
 
 
+### pending 
+- [x] //TODO : what is chars()   [[#what is chars and mapToObj in java]]
+- [x] //TODO : what is mapToObj  [[#what is mapToObj ?]]
+- [ ] //TODO : groupingBy   
+- [ ] //TODO : Function.identity  
+- [ ] //TODO :Collectors.counting()
+- [ ] //method reference and lambda
+- [ ] BiConsumer in java 
 
 ## What is Stream 
 - introduced in java8
 - used for bulk data operation
 - it will not modify the original list or collection
-- it is not a Data structure, it takes input from array, Collection , I/O channel
-- stream operations can be pipelined together (all the intermediate operations only)
-- Terminal operations is used to mark the end of the stream and return the result
-- stream can be sequetial stream() or parallel (parallelStream())
+- **it is not a Data structure, it takes input from array, Collection , I/O channel**
+- stream operations can be pipelined together (all the *intermediate operations* only)
+- *Terminal operations* is used to mark the end of the stream and return the result
+- stream can be sequential stream() or parallel (parallelStream())
+- we cannot use primitive type datastrucutre with streams -> with the help of IntStream,LongStream,DoubleStream-> we can use primitive types with streams
+- 
 
 ### Intermediate Operations
 1. *map*
@@ -29,6 +46,110 @@
 
 
 Note: learn about `Integer.parseInt(n)`
+
+##### what is chars and mapToObj in java 
+- chars() it is used with String and it will convert the String to Stream of integer -> basically integer Stream -> then we can use mapToObj to map it to any 
+
+```java
+  
+ String inputString1 = "Hello I am a Software Engineer";  
+ //chars() -> it converted the given string to integer of stream  
+ IntStream intergerStream = inputString1.chars();  
+  
+int sumOfCharStream= intergerStream.sum();  
+ System.out.println(sumOfCharStream);  
+ //Integer::min  
+  
+ //convert ing to stream of characters // mapToObj is an intermediate operation and it will run the passed method on each of the stream elements  
+ Stream<Character> characterStream=  inputString.chars().mapToObj(ch -> (char)ch);  
+  
+  
+inputString.chars().mapToObj(ch ->String.valueOf((char) ch)).forEach((str) -> System.out.println(str));
+```
+
+#### what is mapToObj ?
+1. mapToObj -> signify that the stream chnages from `IntStream to Stream<T>`
+
+2. in the below mentioned example we are coverting the IntStream which we have recived from `inputString.chars()` to `Stream<Character>`
+3. 
+` Stream<Character> characterStream=  inputString.chars().mapToObj(ch -> (char)ch);  `
+
+- so when we wanted to process stream of integers we should use specialized stream that is `IntStream` rather then `Stream<Integer>` because in the later one there is autoboxing and unboxing taking place., this can help us in improving performance. 
+- 
+
+## Coding problems with Streams
+
+
+```java
+package org.example;  
+  
+import java.util.Arrays;  
+import java.util.List;  
+import java.util.Map;  
+import java.util.function.Function;  
+import java.util.stream.Collectors;  
+  
+/**  
+ * Hello world! * */public class App {  
+    public static void main( String[] args )  
+    {  
+  
+        List<Integer> listOfInteger= Arrays.asList(1,2,3,4);  
+  
+        //1. filter all the even number from the list and store it in a list  
+      List<Integer> evenList=   listOfInteger.stream()  
+                                              .filter(n -> n%2==0)  
+                                             .collect(Collectors.toList());  
+  
+  
+      //2. multiple all the elements in the list by 2  
+            //stream            //map            //collect  
+       List<Integer> multipliedByTwo =  listOfInteger.stream()  
+                        .map(n ->n*2)  
+                                .collect(Collectors.toList());  
+  
+//        System.out.print(multipliedByTwo);  
+  
+  
+        //separate odd and even numbers using streams -> partioningBy        Map<Boolean,List<Integer>> partionedMap= listOfInteger.stream().collect(Collectors.partitioningBy(n -> n%2==0));  
+  
+//        System.out.println(partionedMap);  
+  
+  
+        //remove duplicates from list       List<Integer> duplicateListElement =  Arrays.asList(1,1,2,2,3,3,3,4,5);  
+  
+       List<Integer> distinctElementsOnlyList =  duplicateListElement.stream().distinct().collect(Collectors.toList());  
+  
+       System.out.println(distinctElementsOnlyList);  
+  
+       //find frequencey of each string using java8 streams  
+  
+        String inputString = "Hello I am a Software Engineer";  
+  
+         Map<Character,Long> frequenceyMap = inputString.chars().mapToObj(c -> (char)c)  
+                                            .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));  
+  
+        System.out.println(frequenceyMap);  
+  
+
+
+  
+  
+  
+  
+  
+    }  
+}
+```
+
+
+
+
+
+
+
+
+
 
 ## Examples
 1.map
@@ -235,6 +356,7 @@ filter and sorted --> first filter with sal > 15 and then sort with the salary
 ```
 
 Streams will not modify the original list or data structure 
+
 
 
 

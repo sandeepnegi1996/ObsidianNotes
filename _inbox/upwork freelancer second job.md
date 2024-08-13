@@ -1,0 +1,17 @@
+- [ ]  [[how to do two remote jobs ]] 
+- [ ]   [[how to create perfect upwork profile for software engineer]]
+- [ ] [[sync with on job support guy whatsapp]]
+- [ ] [[complete upwork tutorial for beginners ]]
+- [ ] [[Coverletter upwork]]
+
+- [ ] [[cold emailing for work]]
+- [ ] [[how to find freelance clients]]
+- [ ] [[Discussion with nikhil]]
+- [x] change background pic
+- [x] ask for more recommendations on linkedin
+- [ ] prepare a new cover letter since it is visible when we send proposal add sreenshot of recommendations in proposal
+- [ ] improve overview since that is visible when someone view your profile
+- [ ]  how to create simple portfolio page on hashnode 
+- [ ] how to mention portoflio and other links on upwork 
+- [ ] build projects that are mentioned on upwork 
+	- [ ] search for automation projects and build them 

@@ -1,4 +1,4 @@
-[[Companies]]
+[[Remote job]]
 https://candidate.accenture.com/
 
 password : S@ndeep96

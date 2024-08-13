@@ -1,7 +1,7 @@
 {
   "baseFontSize": 17,
   "theme": "obsidian",
-  "cssTheme": "Things",
+  "cssTheme": "Monokai",
   "baseFontSizeAction": true,
   "translucency": false,
   "enabledCssSnippets": [],

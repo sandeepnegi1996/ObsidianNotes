@@ -15,3 +15,8 @@ Resources
 [[HLD]] --> this contains everything about the problem and how we will design the system
 
 [[LLD]]  -> this talks about the coding part what needs to be done in the classes and all those things
+- [ ] [[What is factory design pattern springboot]]
+- [ ] [[What is Abstract Factory Design Pattern]]
+- [ ] [[builder design patter]]
+- [ ] Tool to create uml Diagram online : https://online.visual-paradigm.com/
+- [ ] 

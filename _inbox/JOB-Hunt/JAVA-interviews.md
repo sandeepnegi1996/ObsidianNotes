@@ -6,6 +6,7 @@
 
 
 ## pending
+- [ ] [[ Streaming in java ]]
 - [ ] [[More Java Interview Questions 2024]]
 - [ ] [[  unit testing in java with junit 4]]
 - [ ] [[what is Predicate and a function]]

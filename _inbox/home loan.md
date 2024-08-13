@@ -1,0 +1,1 @@
+1. understand the housing loan document ![[FINENQ_Statement 1002260000745.pdf]]

@@ -1,4 +1,5 @@
-  
+
+
   
 coolant - prolube or motocool ka  
   
@@ -7,10 +8,12 @@ coolant - prolube or motocool ka
 - radiator wash - NA  
 - engine oil level - good  
 - coolant level  
-- aur filter change - done  
+- aur filter change - 
 - brake shoes  
-- petrol - done  
-- air -done  
+- air pressure 
+- rear plate sae awaz aa rhi hai hilne ki 
+- bike wash 
+- 
   
   
 2. accessories  

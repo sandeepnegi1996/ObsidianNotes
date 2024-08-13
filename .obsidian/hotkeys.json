@@ -25,14 +25,6 @@
       "key": "L"
     }
   ],
-  "graph:open-local": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [

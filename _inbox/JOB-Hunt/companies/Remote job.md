@@ -1,4 +1,91 @@
+
+## How to get remote job ?
+1. choose stack -> backend for me 
+2. project -> learning , financial and banking domain , media and telecom , 
+3. interview for remote job will be tough -> it will be 10-11 interview round -> there will be lot of rounds -> 
+4. projects -> company mae code kro badiya 
+5. network -> make connections -> 
+6. for remote work -> company needs to give in written that there is no person in Cananda and US that there is no person 
+7. check for consultancy if there are any consultancy to give me a job.
+8. 
+
 # Companies
+
+remote jobs companies
+
+  
+✅ Graylog  
+✅ Accela  
+✅ Acquia  
+✅ Own  
+✅ Oyster  
+✅ Pachama  
+✅ Actabl  
+✅ ActBlue  
+✅ Actian  
+✅ ActiveCampaign  
+✅ AE Studio  
+✅ AffiniPay  
+✅ Affirm  
+✅ Green Dot Corp  
+✅ Grin  
+✅ Framework  
+✅ Frontsteps  
+✅ Twilo  
+✅ Twitch  
+✅ Sparrow  
+✅ Fuelmade  
+✅ Funnel  
+✅ FusionAuth  
+✅ Fusion RM  
+✅ Grow Therapy  
+✅ GSTV  
+✅ Own  
+✅ Oyster  
+✅ Pachama  
+✅ Paper  
+✅ Parabol  
+✅ Parknav  
+✅ Blueprint  
+✅ BlueConic  
+✅ Bonfire  
+✅ Bonterra  
+✅ Bonusly  
+✅ Toptal  
+✅ Tremendous  
+✅ Trio Mobil  
+✅ Tropic  
+✅ Sporty Group  
+✅ Spring Health  
+✅ Sprout Social  
+✅ Stack Overflow  
+✅ Starburst  
+✅ Stellar Health  
+​✅ kea  
+✅ Kin + Carta  
+✅ Kinsta  
+✅ Zapier  
+✅ Zayo  
+✅ Zendesk  
+✅ Knack  
+✅ Knock  
+✅ Kona  
+✅ Zeta  
+✅ Zoom  
+✅ Zone & Co  
+  
+➡ [Remote.co](https://www.linkedin.com/company/remote-co/)  
+➡ [FlexJobs](https://www.linkedin.com/company/flexjobs-com/)  
+➡ [We Work Remotely](https://www.linkedin.com/company/we-work-remotely/)  
+➡ [Working Nomads](https://www.linkedin.com/company/working-nomads/)  
+➡ [Jobspresso](https://www.linkedin.com/company/jobspresso/)  
+➡ [RemoteWoman](https://www.linkedin.com/company/remotewoman/)  
+➡ [Wellfound](https://www.linkedin.com/company/wellfoundhq/)  
+➡ [Uplers](https://www.linkedin.com/company/weareuplers/)  
+➡ [Email Uplers](https://www.linkedin.com/company/email-uplers/)  
+➡ [EU Remote Jobs](https://www.linkedin.com/company/eu-remote-jobs/)  
+➡ [JobTeaser](https://www.linkedin.com/company/jobteaser/)  
+➡ [Eurojobs.com](https://www.linkedin.com/company/eurojobs-com/)
 
 ## LIST OF COMPANIES REMOTE JOB
 1. Meesho

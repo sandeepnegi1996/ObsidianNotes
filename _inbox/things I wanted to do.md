@@ -1,3 +1,5 @@
+- [ ] print some of the pictures of the family members and put in on your desk :) 
+
 - [ ] is it possible to use the wifi receipt as a tax saver
 	- [ ] yes, but it mentioned only on the postpaid bills discuss this with jija ji or some CA
 - [ ] checkout this videos : https://beyond-the-apex.mn.co/feed****
@@ -6,11 +8,11 @@
 - [x] read few pages 
 - [x] talk to sis what happened to OM
 - [x] unsubscribe youtube channels from hashcodehub
-- [ ] plan meals for monday morning ? --> chana and mungfali soaked in water
-- [ ] leetcode
-- [ ] wash the hoodie and socks 
-- [ ] what happens when we take emi on the debit card hdfc 
-- [ ] print some of the pictures of the family members and put in on your desk :) 
+- [x] plan meals for monday morning ? --> chana and mungfali soaked in water
+- [x] leetcode
+- [x] wash the hoodie and socks 
+- [x] what happens when we take emi on the debit card hdfc 
+
 - [x] remove unused label and emails from gmail inbox : negi.sandeep01906@gmail.com
 
 ### ways by which I can save taxes ? 

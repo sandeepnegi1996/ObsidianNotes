@@ -1,4 +1,299 @@
-  
+
+
+### How to come out of Life Messes ?
+1. how did i come into this mess -> like i have taken wrong insurance it was totally my mistake 
+2. i have spend 3.1Lakh on a bike that was totally my mistake 
+	1. I could have saved that for my marriage or for my dream home or desk which i will use 8-10 hours in a day 
+3. Do not blaim others in any way 
+4. every mess is a emotional vacuum -> then only we can get out of it.
+5. so if you are not able to find the cause -> then you will still fall in that 
+6. self esteem issue | people pleaser 
+7. Write it down why it is not happening. 
+8. do workshops , do webinars, attend these that will help you improve your life over time.
+9. so if there is a emotional gap -> use people to add new value. -> 
+10. artificial and fake life there is a huge gap in people. 
+11. how not to be **people pleaser** -> just make yourself happy -> if you can't do this and there is a mess.
+12. 
+
+
+
+### when your spouse have different opinion ?
+1.  rohit and neha -> couples with similar opinion also suffer
+2. there is a problem where couple are of same type 
+3. you cannot agree with everything 
+4. you need to bring something to table 
+5. we should have our own checking system
+6. we need to compliment each other.
+7. its a blessing if as a couple we are not thinking same.
+8. marriage is like a boat we need to come in sync -> so in some places lets think rationally. 
+9. if my wife is saying something , try to understand is it a right thing.
+10. intelligent logon ki shaadi -> try to understand each other -> try to figure out if she is something.
+11. our partner should be a checker -> I have felt this thing with priyanka that is checking on me -> okay if we are buying a health insurance -> check all the things :) 
+12. 
+
+
+#### Youth Needs to know this thing about their parents ?
+1. 2 types of parents 
+2. comparing parents -> majority of parents 
+3. comparing them in public 
+4. Bahut Zayada Tareef krtein hain  : aise parents positive hi btate hain 
+5. Brand Image : Everyone have their own image 
+6.  
+
+
+
+####  How You Can Buy A Home In Your 20s Even When You Don't Have Money ?
+https://www.youtube.com/watch?v=eXi_btTXD4M&ab_channel=SangoLifeSutras
+1. why you should own a house ? 
+2. why you should not since people are telling do not buy house 
+	1. so if people have bought a house -> they will not buy stuff like -> phone, travel , and they will not waste their money on other stuff -> so basically illuminati wants us to understand that instead of buying a house -> do a SIP and mazze kro that is what all my friends are doing no one is focusing on getting a house 
+	2. getting your own house is a key -> so that now you will limit all your karche and not waste money on stuff that tou really don;t need 
+3. DDA kae plat in janakpuri -> now is giving 125%
+4. people think that buying a house is so tough -> 
+	1. interest rate will be down soon 
+	2. inflation rate sae kam rate mae agar loan mil rha hai toh meri pocket sae kuch nhi ja rha hai , we need to understand this 
+5. 20s is the best time to buy a house 
+6. shadi nhi hogi agar ghar nhi hai 
+7. ladki shaadi nhi kregi agar nhi hai 
+8. financial commitment ho jayegi -> once you buy a house 
+9. 20s is the best time to buy a house -> jaldi lo aur nipta do isse 
+10. for me -> closest is -> Delhi NCR 
+11. capital appreciation + Tax Benefits + Rental yield + dono husband wife will have this benefit 
+12. I want 2 bhk flat -> this is bare minimum for me ->budget mai hai mere
+13. under construction bhi theek hai 
+14. you can travel in India 
+15. ghar aane sae you need to move around 
+16. constant aa jayega 
+17. karam bhoomi choose krna bahut zaruri hai - ghoomi ghoomi mt kro 
+18. gurgaon is best for me since it is closer to my family and my wife family 
+19. hum dono milke dekenge aur ghar lenge 
+20. **total salary x 5 years -> this is the maximum we will spend for a house ** 
+21. rent bhi double ho jatein hain 8-10 years -> 
+22. 
+23. 
+24. 
+
+
+
+#### benefits of home loan
+1. paper work will be cleared -> so lets say we have a house -> but a loan of 5-10 lakhs -> this can be helpful in the documents paper
+	1. bank is giving loan it will verify everything -> take a loan for repair and buy solar panels 
+2. home loan -> thoda pending rakh lo 
+	1. you can easily get a loan -> since you already have a loan -> it will be much easier 
+3. documents are secured -> documents are secured in the bank rather than ghar pr 
+4. loan on property -> it is much easier to proof the ownership since loan is being sanctioned on my name
+	1. property value is high -> if loan can be sanctioned on the property 
+5. sanction krwa lo loan ka -> registry puri nhi hai -> sab clear kr dega bank 
+	1. checklist on the property 
+6. connect with one person for the loan -> ek banda kr dega sahi rahega 
+	1. **if I can get a loan with lesser interest rate based on my cibil score** 
+
+
+### Need to buy a property as early as possible
+1. Ladka loan + Ladki Loan + Papa(Ladka) + Papa(Ladki)
+2. privacy is required 
+3. MF cannot give you sukh -> House can give you sukh
+4. Kaise bhi krke khareed lo kudh ka this is most important
+5. shaadi tik jaati hai jab alag ghar hota hai 
+6. 50 Lakh propery -> 20% down payment and baaki loan on both Wife and husband 
+7. This is the fact when husband live alag sae dono loan liya hai dono kae parents nae help bhi kri thi -> toh maximum house I can own is 50 Lakh
+8. ghar apna hai toh kaam chal jayega 
+
+
+
+####  Why Beta Bahu Should Not Stay With Parents |
+https://www.youtube.com/watch?v=boy8_CyJ51E&ab_channel=SangoLifeSutras
+1. aim of channel is to make familes come together
+2. ladki ka sapna hota hai apne ghar -> she has this requirement as the basic thing :) 
+3. privacy issues -> honeymoon timing -> so a lady should have a privacy what she should wear 
+4. young energy cannot stay with the old energy
+5. space issues -> so for me 2 bhk is enough for me 
+6. ladki kae parents ko ana chahiye na ghar mae 
+7. how to enjoy with your closed ones 
+8. you and your friends 
+9. food 
+10. chid -> 
+11. kamzor kadi is the guy he needs to find a new home
+12. help a guy to buy a new property
+13. 
+
+
+### A must know Clarity which middle class needs to have 
+1. middle class thinks contacts is our relationship 
+2. try to build meaningful relationship and do not make unlimited contacts 
+3. like you are working in a job -> you don;t need to many connections if this is not required 
+4. apne ka core group rakho bss 10 maximum bss maximum 
+5. people jo apki taraki mae kush hotein hain.
+6. bahut time waste kr rhe hain group mae 
+7. Confirmation bias -> what is confirmation bias 
+8. always question your belief systems 
+9. Make sure to make deep connections 
+10. follow a person -> who's journey is what you are relating to and then follow and join those people.
+11. work on earning more and connect with those people with whom you can earn more.
+12. how to increase your relavance ?  
+
+
+
+
+
+
+### should you give money to your parents ? 
+[Should You Give Money To Your Parents ? | Must Watch Video (youtube.com)](https://www.youtube.com/watch?v=uyPt6ll3yB4&ab_channel=ClarityForYouth)
+1. children gives lot of hapiness to kids 
+2. parents ehsaan nhi kr rhe bache pr ki agar woh hume padha rahe -> parents are waking whole night if we are sick because -> they cannot sleep whole night
+3. so jo parents aise palte hain ki humne itna karcha kiya hai and we want our money back -> bss phir bank ki tarah hi treat krega bacha bhi kyunki -> bank ko izzaat nhi mili 
+4. my parents have told me that they have invested this much money on my education but they have never ever expected single rupee from me -> they just want me to save for my future the money that i am giving to them they have not used a single rupee on themselves same goes for priyanka parents right -> the money priyanka gave to his parents they have used 
+5. so for priyanka ->she took care for her education from diploma -> took care of family as well ->+ she is also taking care of her marriage 
+6. but what is her father contribution here 
+7. kya parents bank hain --> so why his father is acting like that ?
+8. my mom has never used my money on sisters never, ever -> i myself have given so many gifts to my sister because i can but beleive me my mom has never gave single rupee of mine to my sisters.
+9. give them a stuff to your family do not give them the money 
+10. why your family is asking for money 
+	1. understand that 
+11. so in case of vikas 
+	1. her mother is asking for money -> why she is asking for money
+12.  
+
+
+#### Benefits for Member Sango
+
+1. telegram group 
+2. participate exclusive zoom webinar 
+	1. HRA home loan, returns , everything , 
+3. gurgaon oppurtunity 
+4. exclusive webinar for platinum member 
+5. communication skills will improve 
+
+
+
+
+
+
+
+
+
+
+
+Real Estate : Detailed videos on how to go about the decision making process while purchasing a property and the various factors to consider.
+
+i)	Sango's Real Estate Course : https://youtube.com/playlist?list=PL-Mj2JFlNRapxxQ4Xh5thzmbPs7GOzhFN
+
+ii)	Sango's Real Estate Class Recordings : https://youtube.com/playlist?list=PL-Mj2JFlNRaqEzeS-YWgV3AxWHKz8ZyhB
+
+iii) Delhi vs Gurgaon Series: https://www.youtube.com/playlist?list=PL-Mj2JFlNRaqTPEePzoyWVYtappZR-NYq
+
+2)	Astrology : Learn the basics of Vedic Astrology through Sango’s Astrology Class Recordings, and understand the blueprint of your life. (Astro)
+
+i)	Sango's Astrology Class Recordings : https://youtube.com/playlist?list=PL-Mj2JFlNRaqRsL1WCs05jPXU4xih--Dk
+
+ii)	*Sango's Saral Jyotish Classes*: https://www.youtube.com/playlist?list=PL-Mj2JFlNRaruA8Sy7EHWJuY1yKsAPbCm
+
+iii) Astrology Webinar Playlist : https://youtube.com/playlist?list=PL-Mj2JFlNRaqhqQhZHIc1i94nq5OV9oaF&si=I6gJgrsbawMQOX-L
+
+3)	Happiness Course : The Happiness Course provides insight into the core pillars of a life. Learn how to identify the things causing unhappiness. Tangible takeaways are provided as well.
+
+i)	*Happiness Course 1 0*: https://youtube.com/playlist?list=PL-Mj2JFlNRarm2SqwsolgiBhdTKFNeCUd
+
+ii) Happiness Course 2.0: https://www.youtube.c[[]]om/playlist?list=PL-Mj2JFlNRapfOOHss9SHRaEVC4Pq5G-F
+
+4)	Stock Market : Sango’s Stock Market classes cover various aspects of investing in the Stock Market, as well as other financial assets.
+
+i)	*Sango's Stock Market Class*: https://youtube.com/playlist?list=PL-Mj2JFlNRaoNwD2_FqYoAT52kwmTejr_
+
+5)	Business Ideas And Digital Marketing : 
+
+i)	How Teachers Can 10x Their Income Using Digital Space : (Teacher) https://www.youtube.com/playlist?list=PL-Mj2JFlNRarq5s95XofTRyXR0g3l7gYf
+
+ii)	 Communication Skills And 07 Unique Ideas : (CMS) https://www.youtube.com/playlist?list=PL-Mj2JFlNRaq2jOtb6_BvDCnIBF72Y98o
+
+iii)	Unique Business Ideas For Women : (HW) https://www.youtube.com/playlist?list=PL-Mj2JFlNRaqfZp6Vj33oYJf-aFHjFbMA
+
+iv) Sango's Webinar For Doctors : (Doctor) https://youtu.be/fF-jeiM2qNQ
+
+6)	How To Become A Youtuber Course: (YT)
+
+i)	Sango’s Workshop For Aspiring YouTubers : https://youtu.be/rSrLePec88Y
+
+ii) How To Find Your Niche & Audience On YouTube : https://youtu.be/iFvtv32JUoE
+
+7) Sango's Premarital Counseling Course : (PMC) https://youtu.be/gZxdnHPclms
+
+8) How You Can Get Your Own App : (APP) https://youtu.be/UISuH_U84Mw
+
+9) Decision Making Series: https://www.youtube.com/playlist?list=PL-Mj2JFlNRapefV1PZ3hBsDHA7SVV9cJZ
+
+10) Should You Take VRS | Decision Making Process Explained : (RET) https://youtu.be/uqwnGpzkgI8
+
+11) Sango's Relationship Workshop Recording: https://youtu.be/g9jlK34kxcQ?si=CGr-HLitdFk53-1M
+
+12)	Playlist of ALL Platinum Member Videos : https://www.youtube.com/playlist?list=UUMOZsJ1_bm-aCd6l4BJHsIx5Q
+
+#### Why you should not disclose your income to anybody ?
+1. people will judge you ?
+2. they will comment ki itna kama rha hai phir kyun ro rha hai a comment from negi
+3. itna kama rha hai aise kapde pehn rha hai aise gaadi mae jata hai
+4. duniya apka karcha bda degi
+5. isliye nhi btao
+6. khud ki biwi ko bhi pura nhi btao 
+7. apne hisab sae chalo
+8. everyone need your income 
+9. log mujhe bhi bol rhe the ki iphone kyun nhi use kr rha hai 
+10. dekh lo jaise dhruv and others but i have already realized this ki less is more 
+11. bss gujara ho jata hai
+12. naukri aur business nhi bach pata bhai
+13. gujara aur kaam chal rha hai -> 
+14. nhi btana -> kam hoga toh people will comment and zyada hoga toh log maang lenge baat hi nhi krni bhai aisi
+15. 
+
+
+
+
+long distance marriage notes 
+1. there could be n reasons when people are leaving seprately 
+2. problem when living at distance 
+	1. mens problem
+		1. 2 ghar chalane mae karcha toh badega
+		2. 2 houses are difficult to maintain
+		3. ghar ka khana is best 
+3. Never been in a situation -> you have to leave separate from family, relationship etc 2 saal sae zayda nhi 
+4. every man is a ATM machine 
+5. if are in such situation you are in this kind of job -> vrs 
+
+
+
+Video : [Jaldi Ka Kaam Shaitan Ka | An Old Belief System Tweaked For Youth For Present Times (youtube.com)](https://www.youtube.com/watch?v=WpvGBOpKBhw&ab_channel=ClarityForYouth)
+
+### Questioning Belief 
+- [Jaldi Ka Kaam Shaitan Ka | An Old Belief System Tweaked For Youth For Present Times (youtube.com)](https://www.youtube.com/watch?v=WpvGBOpKBhw&ab_channel=ClarityForYouth)
+- life throws oppurtunity but taking too long for decision
+- 1. naukri
+- 2. shaadi
+- 3. stock
+- 4. realstate
+- 5. ghar
+
+- prepare the templates for all the major decisions in life as early as possible.
+- marriage -> what are the things you are looking in a guy or a gir -> think of all the important aspects, lock as early
+- real state -> create a template -> 
+- stocks -> create template -> check the important stocks -> when there is market correction -> pick the stocks that you need 
+- time is limited 
+- always be prepared 
+- relationship 30th march -> 
+
+
+
+#### Video Notes
+[Latest Trend In The Marriage Market : Breaking Of Engagements | What To Do? (youtube.com)](https://www.youtube.com/watch?v=eJm7AON0qn0&ab_channel=SangoLifeSutras)
+
+Latest Trend
+Notes 
+1. why this is happening 
+2. pre marital consultation -> there is a group of questions that can be used 
+3. 
+4. 
+
+
+
   
   
 Sango Life Sutras  

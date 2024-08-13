@@ -6,14 +6,18 @@ These are the questions which was asked in recent interviews when I was planning
 
 
 
-### Java Interview Question
+## Java Interview Question
 
-Question  
-Why java is not a pure object oriented language ?  
-Java8 features?  
-What is Optional  
-Difference between stack and heap memory in java ?  
-What is JDK ?  
+### Question  
+
+1. [x] [[Why java is not a pure object oriented language ]]  
+2. [ ] Java8 features?  [[What is stream api with examples]]  [[What is Lambda Expression in java8]] [[ [[What are the features introduced in Java 8]]]] -> in progress
+3. [ ] What is Optional  [[What is Optional , with example]]
+4. [ ] Difference between stack and heap memory in java ?  
+5. [ ] What is JDK ?  [[jre jdk jvm]]
+
+
+
 What is instance and local variables ?  
 What are the default values assigned to variables and instance in java ?  
 What are the OOPS concepts you have used  

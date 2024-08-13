@@ -1,160 +1,136 @@
 {
   "recentFiles": [
     {
-      "basename": "everything i wants to do",
-      "path": "everything i wants to do.md"
-    },
-    {
-      "basename": "0011 In Progress",
-      "path": "0011 In Progress.md"
-    },
-    {
-      "basename": "monthly expense tracker",
-      "path": "_inbox/monthly expense tracker.md"
-    },
-    {
-      "basename": "Thoughts",
-      "path": "_inbox/Thoughts.md"
-    },
-    {
-      "basename": "Improve relationship",
-      "path": "_inbox/Improve relationship.md"
-    },
-    {
-      "basename": "Things that makes me happy",
-      "path": "_inbox/Things that makes me happy.md"
-    },
-    {
-      "basename": "personal notes",
-      "path": "_inbox/personal notes.md"
-    },
-    {
-      "basename": "GYM updates",
-      "path": "_inbox/GYM updates.md"
-    },
-    {
-      "basename": "IT jobs after 40",
-      "path": "_inbox/IT jobs after 40.md"
-    },
-    {
       "basename": "Bike and Car Service Updates",
       "path": "_inbox/Bike and Car Service Updates.md"
     },
     {
-      "basename": "0010_Miscalenous",
-      "path": "0010_Miscalenous.md"
+      "basename": "goa",
+      "path": "_inbox/goa.md"
     },
     {
-      "basename": "How to Become a Better Software Engineer",
-      "path": "How to Become a Better Software Engineer.md"
-    },
-    {
-      "basename": "Qualities I like about Priyanka",
-      "path": "_inbox/Qualities I like about Priyanka.md"
-    },
-    {
-      "basename": "More Java Interview Questions 2024",
-      "path": "_inbox/More Java Interview Questions 2024.md"
-    },
-    {
-      "basename": "JAVA-interviews",
-      "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
-    },
-    {
-      "basename": "001_interviews MOC",
-      "path": "001_interviews MOC.md"
-    },
-    {
-      "basename": "sango life sutras",
-      "path": "_inbox/sango life sutras.md"
-    },
-    {
-      "basename": "Dream life updates",
-      "path": "_inbox/Dream life updates.md"
-    },
-    {
-      "basename": "Side hustles",
-      "path": "_inbox/Side hustles.md"
-    },
-    {
-      "basename": "Documentation Specialist job",
-      "path": "_inbox/Documentation Specialist job.md"
-    },
-    {
-      "basename": "What is SpringBootTest",
-      "path": "_inbox/What is SpringBootTest.md"
-    },
-    {
-      "basename": "spring boot interview questions",
-      "path": "_inbox/fleeting/spring boot interview questions.md"
-    },
-    {
-      "basename": "40 harsh truths of life",
-      "path": "_inbox/40 harsh truths of life.md"
+      "basename": "Streaming in java",
+      "path": "_inbox/Streaming in java.md"
     },
     {
       "basename": "003_productivity MOC",
       "path": "003_productivity MOC.md"
     },
     {
-      "basename": "A new struggle of middle class  sango",
-      "path": "_inbox/A new struggle of middle class  sango.md"
+      "basename": "0010_Miscalenous",
+      "path": "0010_Miscalenous.md"
     },
     {
-      "basename": "How Application.properties works with examples",
-      "path": "_inbox/How Application.properties works with examples.md"
+      "basename": "Sango life sutras",
+      "path": "_inbox/Sango life sutras.md"
     },
     {
-      "basename": "What is TestRestTemplate",
-      "path": "_inbox/What is TestRestTemplate.md"
+      "basename": "googleKeep Notes",
+      "path": "_inbox/googleKeep Notes.md"
     },
     {
-      "basename": "What is inside @SpringBootApplication annotation",
-      "path": "_inbox/What is inside @SpringBootApplication annotation.md"
+      "basename": "wardrobe for home",
+      "path": "_inbox/wardrobe for home.md"
     },
     {
-      "basename": "002_microservices MOC",
-      "path": "002_microservices MOC.md"
+      "basename": "what to do after work",
+      "path": "_inbox/what to do after work.md"
+    },
+    {
+      "basename": "Tek System",
+      "path": "_inbox/Tek System.md"
+    },
+    {
+      "basename": "everything about insurance",
+      "path": "_inbox/everything about insurance.md"
+    },
+    {
+      "basename": "7 years of software engineering advice",
+      "path": "_inbox/7 years of software engineering advice.md"
+    },
+    {
+      "basename": "FIRE",
+      "path": "_inbox/FIRE.md"
+    },
+    {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
+    },
+    {
+      "basename": "Remote job",
+      "path": "_inbox/JOB-Hunt/companies/Remote job.md"
+    },
+    {
+      "basename": "how to think like a developer",
+      "path": "_inbox/how to think like a developer.md"
+    },
+    {
+      "basename": "Productivity",
+      "path": "_inbox/Productivity/Productivity.md"
+    },
+    {
+      "basename": "how to learn faster",
+      "path": "_inbox/how to learn faster.md"
     },
     {
       "basename": "004_philosphy MOC",
       "path": "004_philosphy MOC.md"
     },
     {
-      "basename": "007_Challenges",
-      "path": "007_Challenges.md"
-    },
-    {
-      "basename": "005_Project Ideas MOC",
-      "path": "005_Project Ideas MOC.md"
-    },
-    {
-      "basename": "005_obsidian MOC",
-      "path": "005_obsidian MOC.md"
-    },
-    {
-      "basename": "springboot integration tests example",
-      "path": "_inbox/springboot integration tests example.md"
-    },
-    {
-      "basename": "2024-03-09",
-      "path": "Jorurnaling/2024-03-09.md"
-    },
-    {
-      "basename": "GeekUninstaller windows",
-      "path": "_inbox/GeekUninstaller windows.md"
-    },
-    {
-      "basename": "linkedin post ideas",
-      "path": "_inbox/linkedin post ideas.md"
+      "basename": "Car Service Checklist",
+      "path": "_inbox/Car Service Checklist.md"
     },
     {
       "basename": "hsbc onboarding details",
       "path": "_inbox/hsbc onboarding details.md"
     },
     {
-      "basename": "what is Predicate and a function",
-      "path": "_inbox/what is Predicate and a function.md"
+      "basename": "Multithreading and multiprocessing",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/Multithreading and multiprocessing.md"
+    },
+    {
+      "basename": "002_microservices MOC",
+      "path": "002_microservices MOC.md"
+    },
+    {
+      "basename": "40 lessons for a developer",
+      "path": "_inbox/40 lessons for a developer.md"
+    },
+    {
+      "basename": "what is @Configuration and @ConfigurationProperties",
+      "path": "_inbox/what is @Configuration and @ConfigurationProperties.md"
+    },
+    {
+      "basename": "spring boot interview questions",
+      "path": "_inbox/fleeting/spring boot interview questions.md"
+    },
+    {
+      "basename": "interview-experiences",
+      "path": "_inbox/interview-experiences.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "What is Scope in beans",
+      "path": "_inbox/What is Scope in beans.md"
+    },
+    {
+      "basename": "More Java Interview Questions 2024",
+      "path": "_inbox/More Java Interview Questions 2024.md"
+    },
+    {
+      "basename": "How to create class for custom exception in java",
+      "path": "_inbox/How to create class for custom exception in java.md"
+    },
+    {
+      "basename": "0012 HydroElectric",
+      "path": "0012 HydroElectric.md"
+    },
+    {
+      "basename": "0011 In Progress",
+      "path": "0011 In Progress.md"
     },
     {
       "basename": "009_Videos",
@@ -165,40 +141,64 @@
       "path": "008_Books.md"
     },
     {
-      "basename": "Income Tax on gift",
-      "path": "_inbox/Income Tax on gift.md"
+      "basename": "007_Challenges",
+      "path": "007_Challenges.md"
     },
     {
-      "basename": "how to save money on tax",
-      "path": "_inbox/Finance/how to save money on tax.md"
+      "basename": "Tricks and Hacks for Tools",
+      "path": "_inbox/Tricks and Hacks for Tools.md"
     },
     {
-      "basename": "_Dashboard",
-      "path": "_Dashboard.md"
+      "basename": "kuldeep Singh Patil",
+      "path": "_inbox/kuldeep Singh Patil.md"
     },
     {
-      "basename": "Time-Blocking",
-      "path": "_inbox/Productivity/Time-Blocking.md"
+      "basename": "template for logging job search support",
+      "path": "_inbox/template for logging job search support.md"
     },
     {
-      "basename": "Productivity",
-      "path": "_inbox/Productivity/Productivity.md"
+      "basename": "Akhila N",
+      "path": "_inbox/Akhila N.md"
     },
     {
-      "basename": "things I wanted to buy",
-      "path": "_inbox/things I wanted to buy.md"
+      "basename": "JAVA-interviews",
+      "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
     },
     {
-      "basename": "FIRE",
-      "path": "_inbox/FIRE.md"
+      "basename": "Everything I own",
+      "path": "_inbox/Everything I own.md"
     },
     {
-      "basename": "Minimalism",
-      "path": "_inbox/Minimalism.md"
+      "basename": "AI tools",
+      "path": "_inbox/AI tools.md"
     },
     {
-      "basename": "Everything in this world is having advantages and disadvantages",
-      "path": "_inbox/Everything in this world is having advantages and disadvantages.md"
+      "basename": "2022-04-29",
+      "path": "Jorurnaling/2022-04-29.md"
+    },
+    {
+      "basename": "2022-05-24",
+      "path": "Jorurnaling/2022-05-24.md"
+    },
+    {
+      "basename": "Network or Connection List",
+      "path": "_inbox/JOB-Hunt/Network or Connection List.md"
+    },
+    {
+      "basename": "jobs",
+      "path": "_inbox/jobs.md"
+    },
+    {
+      "basename": "Linkedin Profile Tips",
+      "path": "_inbox/Linkedin Profile Tips.md"
+    },
+    {
+      "basename": "Coverletter upwork",
+      "path": "_inbox/Coverletter upwork.md"
+    },
+    {
+      "basename": "upwork freelancer second job",
+      "path": "_inbox/upwork freelancer second job.md"
     }
   ],
   "omittedPaths": [],

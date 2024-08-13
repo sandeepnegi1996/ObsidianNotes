@@ -4,7 +4,7 @@
 - [ ] [[bharmcharya]]
 [[Productivity]]
 [[productivity hacks -review]]
-[[Maximizing Productivity -Huberman]]
+[[Maximizing Productivity -Huberman]]**
 [[Consisitency]]
 [[vscode shortcuts]]
 [[how to become 10x engineer]]
@@ -26,4 +26,20 @@
 
 [[how to become 10x engineer]]
 [[How to Become a Better Software Engineer]]
+[[how to increase testesrone ]]
+[[getting jacked will change your life ]]
+[[Everything I own ]]
+[[Tricks and Hacks for Tools ]]
+
+[[40 lessons for a developer ]]
+[[how to learn faster]]
+
+[[everything about insurance ]]
+
+[[7 years of software engineering advice ]]
+
+
+
+
+
 
