@@ -1,9 +1,124 @@
 [[001_interviews MOC]] >> backlink 
 # Motivation
 
+Everyday learn something and become a better developer -> tech, influence, english , presentation etc networking 
+
 1. In my current project we are streaming a chunk of data from hadoop and then we are sending it to http Connection
 2. We are using Buffered Reader and Writer here and then sending all the information to external connection.
-3. I want to become a **Senior Software Engineer in java**
+1. I want to become a **Senior Software Engineer in java**
+
+#### important DSA Questions 
+𝟭. 𝗧𝘄𝗼 𝗣𝗼𝗶𝗻𝘁𝗲𝗿𝘀:  
+- [https://lnkd.in/egfNhPKZ](https://lnkd.in/egfNhPKZ)  
+- [https://lnkd.in/eaj_4Yys](https://lnkd.in/eaj_4Yys)  
+  
+𝟮. 𝗜𝗻𝘁𝗲𝗿𝘃𝗮𝗹𝘀:  
+- [https://lnkd.in/eGv_iaGZ](https://lnkd.in/eGv_iaGZ)  
+- [https://lnkd.in/e2i7354g](https://lnkd.in/e2i7354g)  
+  
+𝟯. 𝗔𝗿𝗿𝗮𝘆:  
+- [https://lnkd.in/erqPMHrx](https://lnkd.in/erqPMHrx)  
+- [https://lnkd.in/dz99BXqf](https://lnkd.in/dz99BXqf)  
+- [https://lnkd.in/dASWh_wV](https://lnkd.in/dASWh_wV)  
+  
+𝟰. 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴:  
+- [https://lnkd.in/euzKZUSF](https://lnkd.in/euzKZUSF)  
+- [https://lnkd.in/eEGGuzZZ](https://lnkd.in/eEGGuzZZ)  
+  
+𝟱. 𝗗𝗙𝗦-𝗕𝗙𝗦:  
+- [https://lnkd.in/euvQM2R3](https://lnkd.in/euvQM2R3)  
+- [https://lnkd.in/eYNV-u6H](https://lnkd.in/eYNV-u6H)  
+- [https://lnkd.in/e-RCFMkC](https://lnkd.in/e-RCFMkC)  
+- [https://lnkd.in/efMF4sWe](https://lnkd.in/efMF4sWe)  
+  
+𝟲. 𝗕𝗶𝗻𝗮𝗿𝘆 𝗦𝗲𝗮𝗿𝗰𝗵:  
+- [https://lnkd.in/eRyYVw9E](https://lnkd.in/eRyYVw9E)  
+- [https://lnkd.in/dp4NUqcg](https://lnkd.in/dp4NUqcg)  
+- [https://lnkd.in/dTDhWNqi](https://lnkd.in/dTDhWNqi)  
+  
+𝟳. 𝗧𝗿𝗲𝗲 𝗧𝗿𝗮𝘃𝗲𝗿𝘀𝗮𝗹:  
+- [https://lnkd.in/egpV9fyR](https://lnkd.in/egpV9fyR)  
+- [https://lnkd.in/eH6PsJC7](https://lnkd.in/eH6PsJC7)  
+- [https://lnkd.in/dhfbbMAx](https://lnkd.in/dhfbbMAx)  
+  
+𝟴. 𝗦𝗹𝗶𝗱𝗶𝗻𝗴 𝗪𝗶𝗻𝗱𝗼𝘄:  
+- [https://lnkd.in/ePckKMNi](https://lnkd.in/ePckKMNi)  
+- [https://lnkd.in/e7vBRUrc](https://lnkd.in/e7vBRUrc)  
+- [https://lnkd.in/eSUh6xJP](https://lnkd.in/eSUh6xJP)  
+- [https://lnkd.in/eMFFuHrn](https://lnkd.in/eMFFuHrn)  
+  
+𝟵. 𝗕𝗮𝗰𝗸𝘁𝗿𝗮𝗰𝗸𝗶𝗻𝗴:  
+- [https://lnkd.in/e7c6XbdG](https://lnkd.in/e7c6XbdG)  
+- [https://lnkd.in/eGyS6q3R](https://lnkd.in/eGyS6q3R)  
+- [https://lnkd.in/eTZDncpG](https://lnkd.in/eTZDncpG)
+- 
+
+
+#### Learninigs
+1. [ ] Configure Postgres SQL in your windows system
+2. Connect springboot application to a postgres data base without jpa
+	1. [ ] Make simple SQL Query to the database to fetch the records using jdbc template 
+	2. [ ] Make Query using the the CustomRowMapper 
+		1. [ ] Implement CustomRowMapper using Class and using lambda Expression 
+3. [ ] Perform simple Crud operation on the database without using JPA , Normal SQL Queries 
+4. [ ] check the hashplan and execution plan for your queries 
+5. [ ] Learn how to integrate with JPA and perform all the crud operations 
+6. Post everything on github
+
+
+
+
+
+### prepare for interview in 30 days 
+https://www.youtube.com/watch?v=uqU89z8DRDo
+
+## 10 mistakes java developer makes 
+1. we cannot remove the elements from the array list when we are traversing it for that we need to use Iterator 
+2. 
+
+#### BDD in java 
+1. First a user story will be created based on the customer requirement 
+2. 3 Amigos meeting -> Product Owner , Developer, Tester
+	1. They will discuss all the possible scenarios that can take place in this user story and that are imp to be considered ,and what areas they can affect.
+3. Discovery phase is completed with the above scenarios
+4. ![[Pasted image 20240924232920.png]]
+5. Formulation 
+	1. ![[Pasted image 20240924233322.png]]
+	2. 
+#### Maven and its life cycle 
+1. project management model 
+2. it uses pom.xml -> project object model to have all the confirgurations 
+3. build generation 
+4. dependency resolution 
+5. documentation 
+6. every pom is child of some pom
+7. super pom is the parent of all the pom.xml 
+8. `<parent>` is having a pom.xml all the dependenceies will come to the child 
+9. artifactId is the unique identifier of the project 
+10. `properties` is the key value pair for configuration -> we can re use it in the anywhere in the pom.xml
+11. repositories -> repositor from which you wanted to pull the depdendenceis like nexus or other internal repository or maven global repository 
+12. Lets understand Build Life Cycle 
+	1.  ![[Pasted image 20240916155933.png]]
+13. when we only wants to package it will also run all the previous phases 
+14. Each phase will have multiple goals 
+15. with the help of build we can add more goals in a particualr phase in hte pom.xml
+16. ![[Pasted image 20240916160900.png]]
+17. so in above code we are adding goal check in the validate phase so all the goals of validate should work before this goal check
+18. check what plugins we can add in the validate phase to enforce a check stle 
+19. `mvn validate`
+20. `mvn compile`
+21.  `mvn test`
+22. `mvn package `
+23. `mvn verify`
+24. static code analysis we can do in the verify phase
+	1. ![[Pasted image 20240916163244.png]]
+25. `mvn insall ` -> to install the package in the local repository 
+26.  with mvn deploy -> it will all the previous phases and it will also deploy to remote repository which is present.
+27. for this need to configure the distribution management in pom.xml for the remote repository and also we need to configure server in the settings.xml with the repository and the credentials details 
+
+![[Pasted image 20240917161237.png]]
+
+
 
 
 

@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "theme": "obsidian",
   "cssTheme": "Monokai",
   "baseFontSizeAction": true,
   "translucency": false,
   "enabledCssSnippets": [],
-  "accentColor": ""
+  "accentColor": "",
+  "showRibbon": false
 }

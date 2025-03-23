@@ -1,5 +1,166 @@
 
 
+### Focus | less cluster 
+1.  more focus 
+2. create more focus and remove all the less clutter
+3. Energies -> as a human being we are energy sync with someone with more energy and those people -> will actually increase your energy
+	1. Sync with people with more enerygy
+		1. Dhruv, amit, shivam, vikky , piyush 
+		2. and increase your energy -> since we are form of energy
+4. Try to understand noise in your life ,remove those people sync with peole 
+
+### middle class will not be able to affort in next 5 years 
+1. most people will have only one child -> so most of the people will not be able to have another child
+2. maid will not be able to afford. 
+	1. There will be too much salary -> for maid -> and people will not be able to affort maid.
+3. Parents ko palna 
+	1. shaadi hi nhi ho rhi hai logon ki
+4. having a housewife 
+	1. having a housewife is a luxury people will not have this 
+	2. toh abhi sae hi kr lein kaam baad mae peeda hogi warna 
+5. middle class will not be able to learn more 
+	1. naukri + side income + upgrade yourself. 
+	
+6. 
+
+### Sango Relationship Workshop Recording  Become marital consultant 
+1. I want you to become consultants and earn money  
+2. people needs guidance 
+3. so learn how to become a consultants 
+4. how many people are experiencing are in dard in a relationship.
+5. females - are insecure in india 
+6. why females are insecure in relationship 
+	1. can be inssecure due to your husband is not prioritzing u and may be she is not able to open up even after marrigage 
+	2. why women shak their husbands 
+	3. maza, anand, peeda 
+	4. women can love  one man and marry another person -> women can do it easily -> because they seek for resources 
+	5. but men is not like this -> once he is married and kids woh nhi sochta kisi kae baare mae -> normal man will not go for another women
+7.  that is why women is insecure -> because they can love someone -> and marry someone 
+8. so women will only give dil to one and man can give dil to n number of women but jisse shaadi krega usko de dega 
+9. so men we needs to understand this , it is always about money you need to work on that 
+10. maza aaya 
+11. so men needs to earn money and health.
+12. pehla saal shaadi ka 2,3 shaadi ka -> sabse bada reason for kalesh in shaadi kya hai 
+	1. the reason is not having house -> and may be too much relative and too much 
+	2. in my opinion she wants freedom to choose , what to wear, eat and that can't be done with inlaws this can leads to kalesh
+	3. Amit Sangwan -> Phd in marriage -> root cause -> all the issues of life can be fixed by one women, lets say there are multiple things like food, prepartion , performance anxiety hogi hi women ko, too much performance anxiety , 
+	4. do not depend on your life miseries to be solved by bahu.
+13. why saas is doing atyachar on bahu 
+	1. saas cannot atyachar on apna pati since he is getting money
+	2. saas is  not able to say anything to his own child so only one she can say is the bahu
+14. people are saying that ek baar shaadi ho jaye jo mann kr pehan lena aur jo mann kre pehn lena 
+15. women are also having expectations ki mera pati mujhe ghumayega aur mujhe maza karega 
+16. Passive Aggressive Behavior 
+	1. this can be at any place -> you should be direct with your partner and doing be passive aggresion , silent treatment 
+	2. do not use passive agression in your relationship -> I feel hurt when you said this because this was my expectations.
+	3. it needs to be called out
+17. you needs to fix relationship with yourself 
+	1. what makes me happy 
+	2. what makes me angry
+	3. and be clear about it 
+	4. btana zaruri hai 
+18. **As a consultant we need to think about other people perspective and not yours **
+19. when people do love marriage -> samaj thinks we cannot control it 
+20. jeevan mae kabhi  ->  **meri niyat kharab nhi thi**  but my intention was not good 
+	1. intention does not matter -> impact matter  | 
+	2. everyone will come and give advice -> everyone will try to improve it -> 
+	3. either you are happy or you are not 
+	4. if you are father did not have good time , he will be miserable 
+	5. your father has never said anything -> and hence -> he will be miserable you cannot fix it 
+21. Do females want to control their husband 
+	1.  just say to your husband -> my lord your wish is my command aur karna kuch nhi hai :) -> just bolke dekho aise 
+22. sometimes men are not able to understand that their relationship is not going good.
+	1. if as a man is not willing to go home and avoiding home -> so in that case your relationship is not going good.
+	2. so if a man is not feeling this , and avoiding home , boss ki sun lenge pr 
+	3. jo admi ghar rehte hain wahan bhi mahila ki pol khul jayegi 
+23. partner choosign decision 
+	1. we need to work hard to work on our relationship and we have to make it right there is no right person in this world 
+24. People are not geeting married -> people are scared -> market toh hai consulting ka 
+	1. benefits of getting married -> there is one video already made on this 
+25. too much involvment from inlaws ?
+	1. too much involvement from mother , in your husband is not the right thing , never marry with that kind of person.
+26. shaadi na karne ka reason diya tha ki we want to increase our body count 
+	1. how to solve this issue 
+		1. more sex you have with multiple person -> our body carries memories from our ancestor  --> **this is deep study it more**
+		2. every interaction or sex we have we have something from other 
+		3. Rich people are caught in sexual harassment ->
+			1. rich people can have sex with prostitute -> but there is something call is energy in each person
+			2. and when we have sex with those kind of people we will absorb these energies and it will affect you life long 
+			3. men they think they require sex but they really need is sukoon.
+			4. Body count will never fulfill your caseation , kush hai tu with this sex and then do it , jab kush nhi hoga toh btana
+27. mother is having a menuopause and she is attracted to someone 
+	1. that guy should be good -> it will be great if she can have that person 
+	2. find your peace and hapiness
+28. This world is run by men -> and eveything most of the gande work is done by men only 
+29. You need to be assertive men needs to be assertive otherisse everyone will use yourself -> do not feel victimise 
+	1. men needs to be assertive 
+30. koi bacha mummy papa ko kush nhi kr sakta hai ->they have to live with that 
+31. how to recover from breakup ? girl has left him 
+	1. if a girl rejects him than definelty he is weak -> he should become strong
+	2. people are like this only -> these people are weak -> you need to become a person type of person so that you can attratve the 
+	3. you need to riase your standards 
+	4. paisa is oxygen for relationship just earn money 
+32. wife bolti hai ghar wale na aaye  
+	1. wife bolti hai ghar nhi aane chahiye ghar wale 
+	2. bahu sae bhi baat hoti hai -> 
+	3. you have to be clear -> 
+	4. kisi ki bhi sehn nhi krni chahe kuch bhi ho jaye office, relationship, work , kahin bhi.
+	5. gyan ussi sae lena jiske jeevan sae kushi , jiske jeevan mae kushi ho 
+33. apne apne ghar raho -> lets meet at udaipur and stay there and live there 
+	1. kamzor mard ki sab waat lga lenge, toh mandir ka ghanta nhi banna bhai 
+	2. Be Strong.
+	3. be straight 
+	
+34. Decision Making mae thoda problem hote hain
+	1. kaali ho aap log isliye mazze aa rhe hain apko
+	2. kaali ho aap isliye aap log faltu kae discussion kr rhe hain isliye 
+35. how to become strong man 
+	1. first become intelligent person -> 
+	2. how to become intelligent -> 
+36. once we are divorced -> try to find another one a better person 
+37. marriage of 18 years 
+	1. love lost -> psychologist -> recommended to get divorce
+	2. **shaadi sae kushi dekh rhe hain log this is is wrong -> you have to be happy then your marriage will be good**
+	3. dukh kae period kyun nhi jhel pa rhe log -> sabko bss kushi chahiye 
+	4. **aurat sae pange kam lo -> give her somethihng she will give you back 10 times, wehther love, hate , or any other else**
+38. husband wife are in plutonic relationship
+	1. If a man allow his women to talk to someone else and he is comfortable is , the same women will loose respect for him.
+	2. female will never ever respect a man who is allowing a women to talk to some other men.
+	3. female love to create a men create a boundary -> women will never will say this -> sab allow bhi nhi krna aur sab kuch mna bhi nhi krna 
+	4. There should be boundaries set by man in a relationship.
+	5. a strong man needs to set the boundaries very strictly.
+	6. women like a man who creates a boundary. extreme cannot never be right.
+39. Low self esteem and have good carreer
+	1. low self esteem came becauae of child hood traumas -> teri wajah sae hua. 
+	2. how to fix low self esteem -> these are your strengths -> work on these strengths > father has never said -> ki beti you are beautiful
+	3. 
+40. and opposite who has looks -> who is idiot and no career and think 
+	1. fanne khan there are people -> there are some people- > self defence mechanism -> people like these kind of behavior -> deep meaningful releationship is not there -> just like satyam -> I can see this thing with Satyam -> these people are also not able to move forward.
+	2. image of strength -> 
+41. our country is missing -> those people 
+	
+
+
+
+
+
+
+#### Earn 3Lakhs per month with this unique idea 
+1. Consultation for High End Cars 
+	1. 25 to 30k consulatition for this consulting 
+	2. Car insurance 
+	3. Car dealers 
+	4. you can extend it to much more
+2. How to reach out to such people 
+3. This we needs to to study more. execution is having time and energy 
+
+4. may be this can be done in other categories also 
+5. build expertise in something and consultation.
+6. paisa wahin hai jahan log nhi hain.
+7. ho jayega yae hafte bhar mae 
+8. paisa is not the jankaari 
+9. 
+
 ### How to come out of Life Messes ?
 1. how did i come into this mess -> like i have taken wrong insurance it was totally my mistake 
 2. i have spend 3.1Lakh on a bike that was totally my mistake 

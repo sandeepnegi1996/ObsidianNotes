@@ -1,3 +1,6 @@
+
+- [ ] [[unibiotech analysis]]
+- [ ] [[marriage certificate]]  
 - [ ] [[Income Tax on gift]]
 - [ ] [[how to save money on tax]]
 - [ ] [[hsbc onboarding details ]]
@@ -12,6 +15,8 @@
 - [ ] [[motivation]]
 - [ ] [[wardrobe for home]]
 - [ ] [[what to do after work ]]
+- [ ] [[midiocrity is rising ]]
+
 
 
 #### create a separate entry for this one 
@@ -22,4 +27,11 @@
 [[goa]]
 
 
+#### Priyu birthday video 
+[[Priyu birthday video]]
 
+
+#### solar panels system
+[[solar panel installation uttarakhand ]]
+
+[[phone backup ]]

@@ -1,19 +1,8 @@
 
 
   
-coolant - prolube or motocool ka  
   
-1. basic service  
-- chain lube and clean and chain tight - done  
-- radiator wash - NA  
-- engine oil level - good  
-- coolant level  
-- aur filter change - 
-- brake shoes  
-- air pressure 
-- rear plate sae awaz aa rhi hai hilne ki 
-- bike wash 
-- 
+f
   
   
 2. accessories  

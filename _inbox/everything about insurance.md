@@ -1,3 +1,33 @@
+
+
+
+
+### Bike Insurance 
+1. liability insurance -> Third party insurance -> compulsory insurance 
+	1. you have banged to someone car or bike the insurer will pay on your behalf
+	2. catch -> 
+		1. limited -> insurance will only pay limited amount -> they will only pay limited amount 
+		2. unlimited -> they will pay full amount -> it is roughly 200-300 ka karcha hoga
+			1. claim for third party always
+2. Comprehensive Policy 
+	1. comprehensive they will pay some amount of the total claim and not the full amount 
+	2. Theft -> IDV amount mil jayega -> 
+3. Zero Dep Policy
+	1. there will no amount cut by the company -> company will pay almost full amount -> depending on the conditions 
+4. Addons 
+
+
+how to buy policy 
+1. cashless Tie-Up 
+2. it is better to get from the dealer 
+3. 
+
+
+
+### how to cancel max life insuracne 
+1. policy number 
+144772266
+
 ## Term insurance 
 1. Discussed with Tushar -> ditto -> term insurance 
 2. recommended to buy insurance of 2Cr with and buy individually for yourself and your wife
@@ -11,20 +41,6 @@
 
 
 
-1200109550543
 
-1200109550543
-https://onlineinsurance.hdfclife.com/application-manager?language=en#.
-
-
-
-
-
-
-
-
-
-![[Pasted image 20240721125815.png]]
-
-
-![[Pasted image 20240721124349.png]]
+#### More information on health insurance 
+1. 

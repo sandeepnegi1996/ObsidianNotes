@@ -45,12 +45,10 @@ Exemptions
 	- NPS 
 
 - sec 80CCD -> 50k -> i am not claimming it 
-- sec 80CCD(2) -> NPS -> 80k check with tek systems 
-- Sec 80D -> health insurance premium -> 25k 
+- sec 80CCD(2) -> NPS -> 80k check with tek systems
+- Sec 80D -> health insurance premium -> 25k
 - Interest on eduction loan
 - Sec 80EEB -> electric vehicle interest till 2023 only -> 50k
-- 
-
 
 
 ![[Pasted image 20240406131639.png]]
@@ -84,13 +82,13 @@ Exemptions
 Deductions 
 - 50000 : standard deductions
 - Sec 80C --> Total limit is 150000
-	- PF + EPF + PPF + ELSS + Life Insurance  + NPS 
+	- PF + EPF + PPF + ELSS + Life Insurance  + NPS
 
 
 - Sec 80C D 
 	- NPS --> 50000 from our side 
 	- NPS --> employer will also add their contribution --> 10% of Salary 
-	- Sec 80D --> Medical Insurance  --> 25000
+- Sec 80D --> Medical Insurance  --> 25000
 	-
 	
 	

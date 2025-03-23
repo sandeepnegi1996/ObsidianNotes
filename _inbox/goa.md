@@ -1,51 +1,55 @@
 
+#### Goa Travelling Guide 
 
-#### Discussion for the hotels
 
-1. Ginger -> call done -> waiting for the reply 
-2. Carina ->
-	1. 4000 -> 
-	2. 5152 -> 
-	3. 5200 -> 
+#### flight from goa to delhi
+![[Pasted image 20241002142007.png]]
 
-3. Jasminn Hotel 
-	1. Deluxe Room -> 5k 
-	2. Superior Room 5.5k 
 
-4. 
+![[Pasted image 20241002142020.png]]
 
+![[Pasted image 20241002142334.png]]
+#### North Goa 
+1. hotel silver shell
+	1. 4300 per day 
+	2. 12900 total -> payment done ->50% -> 6450 up till now 
+	3. Noted & Confirmed the same 
+
+Booking Confirmation number - SSR46563
+![[Pasted image 20240824002524.png]]
+
+
+![[WhatsApp Image 2024-08-24 at 00.19.35_b1eec7da.jpg]]
 ### Stay in south Goa 
-1. Margao  or Colva | palolem | Agonda 
-2. 
-3. 
-4. ## Villa By The Beach Goa
-5. Skylark Resort
-6. Ginger Madgaon, Goa
-7. The Woodside Inn
-8. Carina Beach Resort - 10mins walk to Benaulim Beach
-9. ## Jasminn Hotel - AM Hotel Kollection
-10. ## Beseco Bed and Breakfast
-11. ## FabExpress Ocean Residency, Colva
+- WoodSideInn 
+- 4200 x 5 = 21000
+- payment done : 6000
 
-![[WhatsApp Image 2024-08-12 at 20.35.01_5b90b972.jpg]]
-
-Sandbanks Beach Villas, Morjim
-Resort Terra Paraiso
-Nanu Beach Resort & Spa
-Maitree Beach Resort
-The Amrit Goa
-La Vaiencia Beach Resort, Morjim Beach
-Rosewood By The Beach Goa
- 
-3Star
- 
-Montego Bay Beach Village - Morjim
-
-La Vie Woods- couples/families only
-Resort Terra Paraiso
+![[WhatsApp Image 2024-08-14 at 14.55.47_209fbef4.jpg]]
 
 
 
+![[WhatsApp Image 2024-08-14 at 14.46.31_5823fd73.jpg]]
+
+
+#### Top 10 places in South Goa 
+1.  Cola Beach  : is remote difficult to reach -> lagoons -> freshwater -> Kayaking 
+2. ![[Pasted image 20240813213633.png]]
+
+3. Cabo re rama beach -> and cabo re rama fort -> cape goa restaturant 
+4. netravali wildlife santuary -> 44km from madgao -> no plastic zone 
+	1. trek 4km -> savari waterfall and metravali waeterfall
+5. always download offline maps for goa -> carry your own food and water 
+6. bubbling lake 
+7. Cabo re rama fort
+8. galgibaga beach -> sereme and morjim adn agonda 
+9. palolem -> shopping and cafe 
+10. 
+
+#### places in north goa 
+1. 
+
+## Itenary 
 Day 1:
 
 - Arrival in South Goa
@@ -70,11 +74,12 @@ Day 3:
 - Spend the evening at Betul Beach
 - Dinner at a local restaurant
 
-Day 4:
+Day 4: north goa 
 
 - water sports 
 - scuba diving 
 - and evening mae casino 
+- club
 
 Day 5 : 
 - church morning 

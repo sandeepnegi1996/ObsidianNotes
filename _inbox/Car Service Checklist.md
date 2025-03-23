@@ -1,4 +1,34 @@
-# CAR Service Checklist
+
+
+
+#### best coolant for car 
+ 
+
+#### basic car maintenance tips 
+1.  monthly checkup -> https://www.youtube.com/watch?v=IacMUhI7dMc
+2. engine oil -> 2 dots of full and low -> viscosity should not be low 
+3. coolant -> refill kr sakte hain
+4. air filter or cabin filter 
+5. washer fluid -> how to make car washer fluid at home 
+6. brake fluid 
+7. battery -> wd 40 mar sakte hain usme 
+8. AC filter  -> take out the AC filter 
+
+##### when to get your bike serviced if there is less running (Mechanical tech hindi)
+1. Link : https://www.youtube.com/watch?v=w4WVyG-e1AE
+2. every 3000 to 4000 km 
+3. month wise -> 9 - 10 months 
+4. check in your bike and scooter 
+	1. engine oil level -> check the level it should not be less
+	2. Chain should not be dry it should be lubricated 
+	3. Tyre Pressure 
+	4. Air filter -> 2000km -> clean air filter 
+	5. brake adjustment 
+	6. 
+
+
+
+##### CAR Service Checklist
 
 ### at 20K KM.
 1. Engile Oil 

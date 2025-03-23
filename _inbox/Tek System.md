@@ -1,8 +1,15 @@
 
 
+#### tenant verification 
+45376839
+S@ndep!123456
+
+
+
+
 sandeep.negi@teksystemsindia.com
-latest password : S@ndep!13579
-tek generated password : INR013864@C!ndia
+S@ndep!9756799342
+
 
 
 
@@ -16,9 +23,12 @@ S@ndep!123456789
 
 insurance : https://asi.globalinsurance.co.in/Iagree
 id: 
+
+### zoho ramco 
 sandeep.negi@teksystemsindia.com
-password : S@ndep!98765432
-new : S@ndep!1234567890
+S@ndep!9756799342
+
+
 
 
 

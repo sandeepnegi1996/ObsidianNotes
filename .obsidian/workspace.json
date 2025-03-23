@@ -8,18 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0932e3c7e7348dec",
+            "id": "0e9a4aac74947205",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/Streaming in java.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Streaming in java"
+            }
+          },
+          {
+            "id": "3aecdb0e9ac0914a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Bike and Car Service Updates.md",
+                "file": "Airflow/Airflow.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Airflow"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,23 +57,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "7351a772ff4f29fb",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "insurance",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -70,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -78,7 +89,26 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b5afe0108f5354be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -94,14 +124,15 @@
       {
         "id": "46f666c68fd125c1",
         "type": "tabs",
-        "dimension": 28.860028860028862,
         "children": [
           {
             "id": "96c041c70cba207d",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -113,7 +144,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -121,7 +154,6 @@
       {
         "id": "ed3bdcf4aa96ef66",
         "type": "tabs",
-        "dimension": 42.279942279942276,
         "children": [
           {
             "id": "bb117802a285e060",
@@ -129,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/Bike and Car Service Updates.md",
+                "file": "0010_Miscalenous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,22 +169,25 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0010_Miscalenous"
             }
           }
         ]
       },
       {
-        "id": "1741f759e27f490f",
+        "id": "5387015ba5ea972c",
         "type": "tabs",
-        "dimension": 28.860028860028862,
         "children": [
           {
-            "id": "824ff57714da923a",
+            "id": "79699ad35f484176",
             "type": "leaf",
             "state": {
               "type": "map-of-content",
-              "state": {}
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
             }
           }
         ]
@@ -178,43 +213,47 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "0932e3c7e7348dec",
+  "active": "3aecdb0e9ac0914a",
   "lastOpenFiles": [
-    "_inbox/goa.md",
-    "attachments/WhatsApp Image 2024-08-12 at 20.35.01_5b90b972.jpg",
+    "005_Project Ideas MOC.md",
+    "Airflow/Airflow.md",
+    "Airflow",
+    "support/MITS.md",
+    "support/Java and GCP Trainnings.md",
     "_inbox/Streaming in java.md",
-    "003_productivity MOC.md",
-    "0010_Miscalenous.md",
-    "_inbox/Sango life sutras.md",
     "_inbox/googleKeep Notes.md",
-    "_inbox/wardrobe for home.md",
-    "_inbox/what to do after work.md",
-    "attachments/Pasted image 20240811133917.png",
-    "attachments/Pasted image 20240811133826.png",
-    "attachments/Pasted image 20240811133703.png",
-    "attachments/Pasted image 20240811133601.png",
-    "attachments/Pasted image 20240811133445.png",
-    "attachments/Pasted image 20240811133255.png",
-    "attachments/Pasted image 20240811133235.png",
-    "attachments/Pasted image 20240811131004.png",
+    "support",
     "_inbox/Tek System.md",
     "_inbox/everything about insurance.md",
-    "attachments/Pasted image 20240721125815.png",
-    "_inbox/7 years of software engineering advice.md",
-    "_inbox/FIRE.md",
-    "001_interviews MOC.md",
-    "_inbox/JOB-Hunt/companies/Remote job.md",
-    "_inbox/how to think like a developer.md",
-    "_inbox/Productivity/Productivity.md",
-    "_inbox/how to learn faster.md",
-    "004_philosphy MOC.md",
+    "_inbox/my favorite quotes.md",
+    "_inbox/unibiotech analysis.md",
+    "0010_Miscalenous.md",
+    "_inbox/midiocrity is rising.md",
+    "_inbox/0013.md",
+    "_inbox/Productivity/TAX PLANNING.md",
+    "_inbox/phone backup.md",
+    "_inbox/solar panel installation uttarakhand.md",
+    "attachments/Pasted image 20241205142849.png",
+    "everything i wants to do.md",
+    "Jorurnaling/Everything I need to do.md",
+    "attachments/Pasted image 20241204160432.png",
+    "attachments/5 kW solar power plant quotation.pdf",
+    "attachments/WhatsApp Image 2024-12-04 at 14.43.23_1918aa0b.jpg",
+    "attachments/WhatsApp Image 2024-12-04 at 14.44.52_79f07589.jpg",
     "_inbox/Car Service Checklist.md",
-    "_inbox/hsbc onboarding details.md",
-    "_inbox/JOB-Hunt/Interview-Questions-Solutions/Multithreading and multiprocessing.md",
+    "_inbox/marriage certificate.md",
     "002_microservices MOC.md",
-    "_inbox/40 lessons for a developer.md",
-    "_inbox/what is @Configuration and @ConfigurationProperties.md",
-    "_inbox/fleeting/spring boot interview questions.md",
+    "How to Become a Better Software Engineer.md",
+    "0012 HydroElectric.md",
+    "0011 In Progress.md",
+    "_inbox/goa.md",
+    "_inbox/SWP.md",
+    "attachments/Pasted image 20241002155233.png",
+    "attachments/Pasted image 20241002154824.png",
+    "attachments/Pasted image 20241002142334.png",
+    "attachments/Pasted image 20241002142020.png",
+    "attachments/Pasted image 20241002142007.png",
+    "attachments/Pasted image 20240924233322.png",
     "Untitled.canvas",
     "attachments/~$JobSupportLatest.xlsx",
     "attachments/JobSupportLatest.xlsx",
@@ -223,7 +262,6 @@
     "attachments/FINENQ_Statement 1002260000745.pdf",
     "attachments/Recording 20240309201257.webm",
     "attachments/Recording 20240309201227.webm",
-    "Untitled",
     "_inbox/Untitled 1.canvas",
     "_inbox/Untitled.canvas"
   ]

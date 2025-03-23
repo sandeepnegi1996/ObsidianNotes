@@ -7,3 +7,5 @@ note: requirement for these allowances is that it is covered on the basis of act
 3) income from other sources - deductions
 ![[Pasted image 20240328163411.png]]
 ![[Pasted image 20240328163501.png]]
+
+

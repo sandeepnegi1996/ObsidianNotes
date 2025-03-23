@@ -3,9 +3,10 @@
 https://docs.google.com/spreadsheets/d/1S-ipgKltkrqiKgtvRiM9hVtcgCFEa0OjdU4sfjC166g/edit#gid=0
 
 
+
 | **heading**                                                                        | **priority** | **status** |
 | ---------------------------------------------------------------------------------- | ------------ | ---------- |
-| Organize obsidian notes in top category in life and push all the latest            |              |            |
+| Organize obsidian notes in top category in life and push all the latest            |              | done       |
 | create emergency fund - top priority                                               |              |            |
 | stitch green lower                                                                 |              |            |
 | ladies helmet                                                                      |              |            |
