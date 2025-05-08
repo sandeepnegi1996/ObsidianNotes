@@ -1,12 +1,12 @@
 # 📑 Types of Memory in java
 
-- **🏷️Tags** : #23-04-2022, #review, #reading_list
+- **🏷️Tags** : #23-04-2022, #review, #reading_list #prep2025 
 
 ## 🔗 Links
 https://www.geeksforgeeks.org/how-many-types-of-memory-areas-are-allocated-by-jvm/
 
 
-[[how string constant pool works under the hood]]
+- [ ] [[how string constant pool works under the hood]]
 
 ## Overview
 1. JVM converts byte code into machine code 

@@ -5,7 +5,7 @@ Everyday learn something and become a better developer -> tech, influence, engli
 
 1. In my current project we are streaming a chunk of data from hadoop and then we are sending it to http Connection
 2. We are using Buffered Reader and Writer here and then sending all the information to external connection.
-1. I want to become a **Senior Software Engineer in java**
+3. I want to become a **Senior Software Engineer in java**
 
 #### important DSA Questions 
 𝟭. 𝗧𝘄𝗼 𝗣𝗼𝗶𝗻𝘁𝗲𝗿𝘀:  

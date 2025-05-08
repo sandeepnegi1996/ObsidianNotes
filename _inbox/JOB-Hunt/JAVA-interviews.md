@@ -4,8 +4,19 @@
  #java 
 #interview
 
+#### **Multithreading and Concurrency in java** 
+- [ ] [[multithreading and concurrency in java ]] 
+
+
+
 
 ## pending
+- [x] [[Generics]]
+- [ ] [[cognizant java and springboot interview questions ]]
+- [ ] [[introduction to docker]]
+- [ ] [[Streaming in java]]
+- [ ] [[SOLID principles]]
+- [x] [[Difference between hashmap and concurrent hashmap]]
 - [ ] [[ Streaming in java ]]
 - [ ] [[More Java Interview Questions 2024]]
 - [ ] [[  unit testing in java with junit 4]]

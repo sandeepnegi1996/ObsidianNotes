@@ -1,4 +1,4 @@
-# Things to keep in mind in Job Change
+
 
 ## Overview 
 1. There are so many things to be kept in mind but i will focus on things which i have gone through and may be that will be helpful to you also
@@ -18,5 +18,3 @@
 
 
 
-
-## Things to check with New Employer

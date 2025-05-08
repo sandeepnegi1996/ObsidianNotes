@@ -1,6 +1,9 @@
 # Interviews MOC
 
-- [ ] [[Streaming in java]]
+[[java core concepts videos 2025]]
+[[optimised springboot application for 1Million Requests ]]
+
+
 
 - [ ] [[System Design]]  -> in progress
 - [[JAVA-interviews | java interview Questions]]

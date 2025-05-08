@@ -2,6 +2,10 @@
 ##### latest password , windows , ramco, hsbc laptpo 
 S@ndep!9560130338
 
+ramco 
+INR013864
+S@ndep!7973882172
+
 
 ### tek systems litmos trainning 
 

@@ -1,6 +1,6 @@
 # 📑 @Value
 
-- **🏷️Tags** : #25-04-2022, #review, #reading_list
+- **🏷️Tags** : #25-04-2022, #prep2025, #reading_list
 
 ## 🔗 Links
 [baeldung](https://www.baeldung.com/spring-value-annotation#setting-up-the-application)
@@ -29,7 +29,7 @@ listOfValues=A,B,C
 
 ```
 
-2. [x] Configure `@PropertySource` in our configuration class with the properties file name. [[@PropertySource]]
+2. [ ] Configure `@PropertySource` in our configuration class with the properties file name. [[@PropertySource]]
 3. Default property files in spring is `application.properties`
 
 ## Usage
@@ -52,7 +52,7 @@ private String prioritySystemProperty;
 ```java
 @Value("${listOfValues}")
 
-private String[] valuesArray;
+private String[] valuesArray; 
 ```
 
 4. @Value with maps

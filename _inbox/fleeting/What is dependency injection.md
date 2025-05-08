@@ -2,6 +2,8 @@
 
 [[What is IOC or dependency Injection]]
 
+
+
 # What is dependency injection
 
 
@@ -9,7 +11,7 @@
 
 
 ### Core
-1. create beans that is managed by SpringContainer that is applicationContext
+1. create beans that is managed by Spring Container that is `ApplicationContext`
 2. and now we can inject these beans inside another classes.
 3. we can inject by constructor or setters or using @Autowired
 
@@ -28,12 +30,9 @@
 [[What is setter injector and constructor injection]]
 ```java
 @RequiredArgsConstructor
-public class ClassWithFinalMembers
+public class CFPService
 {
-	private final String stringObject; // standard getters 
+	private final CfpUserService cfpUsersSercice; 
 	
 }
-```
-
-the above code will have one constructor and that constructor will have the field stringObject and will set that field and this will be done unders the hood since lombok
-will create that constructor 
+``` 

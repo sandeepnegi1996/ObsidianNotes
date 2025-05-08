@@ -70,7 +70,8 @@ https://docs.google.com/spreadsheets/d/1S-ipgKltkrqiKgtvRiM9hVtcgCFEa0OjdU4sfjC1
 | headlight protector                                                                |              |            |
 | saddlebag and bag holder from motoroque                                            |              |            |
 | rider jacket                                                                       |              |            |
-| buy a speaker for father a big one                                                 |              |            |
+| buy a speaker for father a big one                                                 |              | done       |
+|                                                                                    |              |            |
 
 
 

@@ -163,7 +163,7 @@ ETL at R1 RCM --> Yahya Jami
 32. [[delloite]]
 
 
-## Companies in NCR
+## Companies in Delhi NCR
 1. [ ] Baazi Games-Delhi  
 2. [ ] BBC Worldwide Media-Delhi  
 3. [ ] Bharatpe-Delhi  

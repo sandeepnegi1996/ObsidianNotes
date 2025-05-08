@@ -1,6 +1,6 @@
 # 📑 use stream with map in java 
 
-- **🏷️Tags** : #07-05-2022,  #pending #completed #permanent
+- **🏷️Tags** : #07-05-2022,  #completed #permanent
 
 #### 🔗 Links
 [baeldung](https://www.baeldung.com/java-maps-streams)

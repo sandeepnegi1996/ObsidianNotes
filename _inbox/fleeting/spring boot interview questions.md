@@ -14,7 +14,7 @@
 2. [ ] [[What is Session Factory]]
 3. [ ] [[Singleton design patterns]]
 4. [x] [[what is @Configuration and @ConfigurationProperties]]
-5. [x] [[inversion of control]]
+5. [x] [[Inversion of control]]
 
 ### Most Important 
 - [x] [[Complete Sprinboot project REST API with MySQL]]

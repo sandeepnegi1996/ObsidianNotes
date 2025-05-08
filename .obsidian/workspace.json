@@ -8,37 +8,119 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e9a4aac74947205",
+            "id": "5429fb9ac4234466",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Streaming in java.md",
+                "file": "2025/Senior Software Engineer 2025 interview prep guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Senior Software Engineer 2025 interview prep guide"
+            }
+          },
+          {
+            "id": "25cc782670b819e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_interviews MOC.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Streaming in java"
+              "title": "001_interviews MOC"
             }
           },
           {
-            "id": "3aecdb0e9ac0914a",
+            "id": "ee65c2b66d973344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airflow/Airflow.md",
+                "file": "_inbox/JOB-Hunt/JAVA-interviews.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Airflow"
+              "title": "JAVA-interviews"
+            }
+          },
+          {
+            "id": "8aa4adc8c587e08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/JOB-Hunt/JAVA-interviews.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JAVA-interviews"
+            }
+          },
+          {
+            "id": "d6982d92ad35b8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/multithreading and concurrency in java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "multithreading and concurrency in java"
+            }
+          },
+          {
+            "id": "799aba39f575055f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/How to run three threads in java one after another.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to run three threads in java one after another"
+            }
+          },
+          {
+            "id": "c69b95b18021aaeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/ExecutorService and Thread Pools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ExecutorService and Thread Pools"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -58,7 +140,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -100,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "multithreading and concurrenc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 490.5
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -149,7 +231,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ed3bdcf4aa96ef66",
@@ -161,7 +244,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0010_Miscalenous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0010_Miscalenous"
+              "title": "Backlinks"
             }
           }
         ]
@@ -194,7 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 483.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -213,55 +295,55 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "3aecdb0e9ac0914a",
+  "active": "d6982d92ad35b8af",
   "lastOpenFiles": [
-    "005_Project Ideas MOC.md",
-    "Airflow/Airflow.md",
-    "Airflow",
-    "support/MITS.md",
-    "support/Java and GCP Trainnings.md",
-    "_inbox/Streaming in java.md",
-    "_inbox/googleKeep Notes.md",
-    "support",
-    "_inbox/Tek System.md",
-    "_inbox/everything about insurance.md",
-    "_inbox/my favorite quotes.md",
-    "_inbox/unibiotech analysis.md",
-    "0010_Miscalenous.md",
-    "_inbox/midiocrity is rising.md",
-    "_inbox/0013.md",
-    "_inbox/Productivity/TAX PLANNING.md",
-    "_inbox/phone backup.md",
-    "_inbox/solar panel installation uttarakhand.md",
-    "attachments/Pasted image 20241205142849.png",
+    "_inbox/JOB-Hunt/JAVA-interviews.md",
+    "_inbox/Use lambda expression to implement Runnable Interface.md",
+    "_inbox/multithreading and concurrency in java.md",
+    "_inbox/Java Completable Future.md",
+    "_inbox/ExecutorService and Thread Pools.md",
+    "_inbox/How to run three threads in java one after another.md",
+    "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md",
+    "_inbox/Thread Synchronization.md",
+    "_inbox/How to run multiple threads in java.md",
+    "_inbox/Difference between hashmap and concurrent hashmap.md",
+    "_inbox/What is memory space in multithreading.md",
+    "_inbox/multithreading with examples in java.md",
+    "_inbox/JOB-Hunt/Interview-Questions-Solutions/Multithreading and multiprocessing.md",
+    "_inbox/What is concurrency in java.md",
+    "2025/Senior Software Engineer 2025 interview prep guide.md",
+    "001_interviews MOC.md",
+    "_Dashboard.md",
     "everything i wants to do.md",
-    "Jorurnaling/Everything I need to do.md",
-    "attachments/Pasted image 20241204160432.png",
-    "attachments/5 kW solar power plant quotation.pdf",
-    "attachments/WhatsApp Image 2024-12-04 at 14.43.23_1918aa0b.jpg",
-    "attachments/WhatsApp Image 2024-12-04 at 14.44.52_79f07589.jpg",
-    "_inbox/Car Service Checklist.md",
-    "_inbox/marriage certificate.md",
-    "002_microservices MOC.md",
-    "How to Become a Better Software Engineer.md",
+    "_inbox/monthly expense tracker.md",
+    "_inbox/How to Become a Better Software Engineer.md",
+    "Untitled.canvas",
+    "003_productivity MOC.md",
+    "0010_Miscalenous.md",
     "0012 HydroElectric.md",
     "0011 In Progress.md",
-    "_inbox/goa.md",
-    "_inbox/SWP.md",
-    "attachments/Pasted image 20241002155233.png",
-    "attachments/Pasted image 20241002154824.png",
-    "attachments/Pasted image 20241002142334.png",
-    "attachments/Pasted image 20241002142020.png",
-    "attachments/Pasted image 20241002142007.png",
-    "attachments/Pasted image 20240924233322.png",
-    "Untitled.canvas",
+    "008_Blogs and Videos.md",
+    "_inbox/Sango life sutras.md",
+    "attachments/Pasted image 20250506114832.png",
+    "attachments/Pasted image 20250430101912.png",
+    "attachments/Pasted image 20250430101853.png",
+    "attachments/Pasted image 20250430101714.png",
+    "attachments/Pasted image 20250430100912.png",
+    "attachments/Pasted image 20250430100547.png",
+    "attachments/Pasted image 20250430100435.png",
+    "attachments/Pasted image 20250430100309.png",
+    "attachments/Pasted image 20250430095150.png",
+    "attachments/Pasted image 20250430094621.png",
+    "attachments/Foojay_Webinar_Java_s_Place_in_the_AI_Revolution_Azul_DeepNetts_April_2025 1.pdf",
+    "attachments/Foojay_Webinar_Java_s_Place_in_the_AI_Revolution_Azul_DeepNetts_April_2025.pdf",
+    "2025/topmate",
+    "2025",
+    "2025/Airflow",
+    "support",
+    "attachments/5 kW solar power plant quotation.pdf",
     "attachments/~$JobSupportLatest.xlsx",
     "attachments/JobSupportLatest.xlsx",
     "templates/JobSupportLatest.xlsx",
-    "attachments/Kuldeep-Singh-Patil-CV-2.pdf",
-    "attachments/FINENQ_Statement 1002260000745.pdf",
-    "attachments/Recording 20240309201257.webm",
-    "attachments/Recording 20240309201227.webm",
     "_inbox/Untitled 1.canvas",
     "_inbox/Untitled.canvas"
   ]

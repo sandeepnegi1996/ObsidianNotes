@@ -1,7 +1,11 @@
-- [ ]  [[Documentation Specialist job]]
+# MOC for Reading
+
+- [ ] [[Vertx in Action]]
+- [ ] [[Reading list of blogs]]
+- [ ] [[Sango life sutras]]
+- [ ] - [ ]  [[Documentation Specialist job]]
 - [ ] [[Side hustles]]
 - [ ] [[Dream life updates]]
-- [ ] [[Sango life sutras]]
 - [ ] [[Qualities I like about Priyanka]]
 - [ ] [[Bike and Car Service Updates]]
 - [ ] [[IT jobs after 40]]
