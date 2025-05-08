@@ -1,28 +1,197 @@
-# Everything i need to do
+#### All the todo items 
+
+https://docs.google.com/spreadsheets/d/1S-ipgKltkrqiKgtvRiM9hVtcgCFEa0OjdU4sfjC166g/edit#gid=0
 
 
-# Latest
+
+| **heading**                                                                        | **priority** | **status** |
+| ---------------------------------------------------------------------------------- | ------------ | ---------- |
+| Organize obsidian notes in top category in life and push all the latest            |              | done       |
+| create emergency fund - top priority                                               |              |            |
+| stitch green lower                                                                 |              |            |
+| ladies helmet                                                                      |              |            |
+| prepare route rihikesh to delhi -> by car                                          |              |            |
+| Prepare route from delhi to rishikesh by car                                       |              |            |
+| Prepare bike route from rishikesh to delhi                                         |              |            |
+| Prepare bike route from delhi to rishikesh                                         |              |            |
+| Get one perfume for ajay jija ji                                                   |              |            |
+| Gift neck band to arti didi                                                        |              |            |
+| Vandna Di birthday gift                                                            |              |            |
+| Tax Fill check with Rajat CA                                                       |              |            |
+| Learn whatsapp new features that can improve productivity                          |              |            |
+| Buy a new phone for myself                                                         |              |            |
+| Buy a new personalised laptop for myself                                           |              |            |
+| GPS for CAR                                                                        |              |            |
+| car mobile holder for navigation                                                   |              |            |
+| Sports shoes for Vandna Didi                                                       |              |            |
+| Categories the items in routine, daily, montly , 3 months , and 6 months checklist |              |            |
+| Check all the loans on my accont                                                   |              |            |
+| Write a letter to future self and send it using gmail                              |              |            |
+| Write everything I have achived in 2023                                            |              |            |
+| IFBB machine service                                                               |              |            |
+| Return 3Lakh to mom for Priya jewellery                                            |              |            |
+| Return 60k to mom for engagement                                                   |              |            |
+| papa 3 months recharge                                                             |              |            |
+| mom 3 months recharge                                                              |              |            |
+| Cancel LIC next year                                                               |              |            |
+| rebuild hashcodehub instagram page                                                 |              |            |
+| one detailed guide for interview prep                                              |              |            |
+| Go karting with friends                                                            |              |            |
+| Bike and lagguage shipment                                                         |              |            |
+| amit marriage                                                                      |              |            |
+| helmet                                                                             |              |            |
+| Gift omi ukele                                                                     |              |            |
+| Buy dream bike                                                                     |              |            |
+| Build desk setup at homr                                                           |              |            |
+| Visit Kodaikanal                                                                   |              |            |
+| Visit isha yoga                                                                    |              |            |
+| Ride 300km motorcycle                                                              |              |            |
+| increase LIC home loan EMI                                                         |              |            |
+| Plan for Dream home                                                                |              |            |
+| Create one project with integration tests in springboot                            |              |            |
+| Learn Loan and whole process by jija ji                                            |              |            |
+| buy oil dispenser                                                                  |              |            |
+| buy saree organizer                                                                |              |            |
+| buy new dressing                                                                   |              |            |
+| buy new phone for papa                                                             |              |            |
+| 1000 Rs Rd for Kushi                                                               |              |            |
+| clean chimni                                                                       |              |            |
+| clean washing machine                                                              |              |            |
+| talk to kalpana didi for work                                                      |              |            |
+| talk to nitin for work                                                             |              |            |
+| research about network booster                                                     |              |            |
+| 1000 rs RD for vaishu                                                              |              |            |
+| 1000rs RD for ayush kid                                                            |              |            |
+| center locking fix car                                                             |              |            |
+| search for a job where you are paid for creating documentation                     |              |            |
+| change tax regime                                                                  |              |            |
+| merge PF                                                                           |              |            |
+| buy radiator cover for triumph                                                     |              |            |
+| headlight protector                                                                |              |            |
+| saddlebag and bag holder from motoroque                                            |              |            |
+| rider jacket                                                                       |              |            |
+| buy a speaker for father a big one                                                 |              | done       |
+|                                                                                    |              |            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Important and Urgent 
+- Get money from Gym bro
+- [ ] Money payment of the NPS around 5k
+
+
+## Important 
+1. Check health of fat lumps
+3. [x] Create NPS [[TAX PLANNING]]
+4. Invest in ELSS [[007_Challenges]]
+5. Mention ELSS and other things in ramco
+6. follow up with tek for documents verification
+8. Prepare your Emergency Fund Full fledged 
+9. pay for policy
+10.  [[monthly expense tracker ]]
+11. [[fun todo list]] 
+12. landing page small business --> dhananjay
+13. [[FIRE]]
+
+- [ ] checkout the project typewriter effect 
+
+- [ ] NPS and PPF in ramco
+- [ ] Formalities to visit tek system
+- [ ] check with tek system for star health global organization [[Tek System]]    -> follow up with lavanaya
+- [ ] how to claim tax benefits every month ramco 7th 
+	- [ ] meal,nps,investment
+- [ ] check for meal coupons paytm with payroll team
+- [ ] initiate PF Transfer after 2 months salary ask previous employer to transfer the PF [[Tek System]]
+	- [ ] 
+
+
+
+## Latest
+- [ ] publish obsidian notes to github pages so that we can directly publish from local
+- [x] check with bosch for the formalities --> final amount will be reimbursed on 12th August 
+- [ ] [[mentors for life]]
+- [ ] [[how to take care of your eyes ]]  
+- [ ] [[my favorite quotes]] --> revise rewrite or write some stories on it 
+- [ ] [[setup upgrades]]
+- [ ] unsubscribe channel from sandeep negi channel
+
+### Career
+- [ ] How to get more achievements on github
+1. [ ] [[backend developer projects]]
+2. [ ] [[Reading list of blogs]]
+3. [ ] fix the github issues in [[Dice-Roller CLI App]]
+4. [ ] fix the github issues in [[Modern Phone Book CLI App]]
+5. [ ] build second brain --> improve your second brain 
+6. [ ] Generate income for family so that they do need to ask money from me this is a really inspiring story :) 
+7. [ ] [[linkedin post ideas]]
+8. [ ]  [[blogpost ideas]]
+
+### Personal
+7. Follow minimilism [[Minimalism]]
+8. [[frugal living]]
+9. [[8 hard skills for life]]
+- [ ] Click some professional pictures in 2 or 3 and upload them on all platforms 
+- [ ] Everydat Pray for 5 mins
+- [ ] Daily remove 5 contacts
+- [ ] Daily remove 2 unsubscribe newsletter
+- [ ] [[Three Pillars of My Life]]
+- [ ] Everyday create one permanent notes for slipbox
+- [x] [[Basic Legal Rights]] [[8 hard skills for life]] --> private employee done 
+- [ ] [[Basic Legal Rights]]  [[8 hard skills for life]]  --> home owner
+- [ ]  [[Risk Assessment and decision making]]   [[8 hard skills for life]]
+- [ ] [[Create ab Ebook and sell it online]]
+
+
+
+- [ ] Increase fruits and vegetables intake 
+- [ ] Reduce Screentime 
+- [ ] Fix sleep time and wake up time 
+- [ ] Arti Di Degress --> August check
+- [ ] Mummy and Father Bank Account in HDFC 
+
+
+
+
+
+
+
+
+- [ ] [[Oil Free Recipies indian]] 
+- [ ] Plan for the bosch e separation [[e-separation bosch]]
 - [ ] https://github.com/tuan3w/obsidian-template
 	- [ ] check above mentioned link, learn from it or also send some pull request to improve it
-- [ ] Get certification from hackerrank and solve questions on hakerrank
+
 - [ ] solve 450 DSA Cracker [[450 DSA Cracker]]
-- [ ] Solve java interview questions
-- [ ] Learn Go
-- [ ] Apply at jio[[Jio-job]]
-- [x] collect the information shared by megha 
-	- [ ] [[Network or Connection List]]
-- [ ] Apply for passport 
 - [ ] Check the PF passbook 
-- [ ]  [[How giving tech interviews build my confidence ]]  
-- [x] note interview questions asked in deloitte   [[JAVA-interviews]]
-- [ ] How to use obsidian as a software developer
-- [x] talk to gaurav bro kothari brother
-- [x] [ ] [[How to use Griller for Cooking Various Items ]]
+
+
+
+
 - [ ]  [[Walking Challenges for Donation]]
-- [ ]  [ ] [[Document Skills for Sister]]
-- [ ] [[Overnight Oats Recipes]]
-- [ ] How to do presentation using obsidian
-- [x]  [[e-separation bosch]]
+
+
 - [ ] Clean kitchen, wash utensils
 - [ ] Clean table
 - [ ] Wash clothes
@@ -33,7 +202,24 @@
 - [ ] play with ball
 - [ ] call a friend
 
-#### Old
+#### Completed
+5. [x] check courier of bluedart : bosch
+
+			58049641823
+
+
+
+
+6. [x] check courier of tek system  :   
+
+		Speed post No : EV490031353IN
+- [x] Book flight ticket 
+- [x] download insurance document -->and store in google drive
+- [x] How to do presentation using obsidian --> this can be achive by doing three `---` and it will work
+- [x] 8 hard skills for life ---> `self-soothing` done , needs to implement points from it 
+- [x] Bosch PF shown in UAN
+- [x] Plan for passport 
+- [ ] - [x] Get certification from hackerrank and solve questions on hakerrank
 - [x] Add goloang in the CV
 - [x] Add golang in linkein, naukri, cv 
 checkout : https://450dsa.com/

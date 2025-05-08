@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d1762ab2b6501c4",
+        "id": "0b42aaa306ad9896",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_inbox/interview-experiences.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#03-05-2022",
-                "matchingCase": true,
+                "query": "Nikhil",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -65,12 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 326
   },
   "right": {
     "id": "446b376c3f9369a2",
@@ -79,6 +74,7 @@
       {
         "id": "ed3bdcf4aa96ef66",
         "type": "tabs",
+        "dimension": 29.282576866764273,
         "children": [
           {
             "id": "bb117802a285e060",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/interview-experiences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +97,7 @@
       {
         "id": "e220a6472f7722f2",
         "type": "tabs",
+        "dimension": 41.43484626647145,
         "children": [
           {
             "id": "96c041c70cba207d",
@@ -112,23 +108,38 @@
             }
           }
         ]
+      },
+      {
+        "id": "1741f759e27f490f",
+        "type": "tabs",
+        "dimension": 29.282576866764273,
+        "children": [
+          {
+            "id": "824ff57714da923a",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 341,
     "collapsed": true
   },
-  "active": "9d1762ab2b6501c4",
+  "active": "b3a33c6de92fc8fd",
   "lastOpenFiles": [
-    "_inbox/interview-experiences.md",
-    "001_interviews MOC.md",
-    "_inbox/JOB-Hunt/JAVA-interviews.md",
-    "_inbox/fleeting/Coding Questions.md",
-    "_inbox/fleeting/find duplicate in an array of N+1 Integers.md",
-    "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md",
-    "_inbox/JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md",
-    "_inbox/Merge 2 sorted arrays without using Extra space..md",
-    "_inbox/find subarray with sum is equal to zero.md",
-    "_inbox/JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
+    "_inbox/Tek System.md",
+    "009_Videos.md",
+    "_inbox/blogpost ideas.md",
+    "_inbox/googleKeep Notes.md",
+    "003_productivity MOC.md",
+    "people/amit.md",
+    "_inbox/Trekking.md",
+    "How to Become a Better Software Engineer.md",
+    "_Dashboard.md",
+    "_inbox/how to think like a developer.md"
   ]
 }

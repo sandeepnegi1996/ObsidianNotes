@@ -1,30 +1,65 @@
  # Java Interview Questions
  [[001_interviews MOC]]
- #interview 
+ #interview  
  #java 
 #interview
 
+#### **Multithreading and Concurrency in java** 
+- [ ] [[multithreading and concurrency in java ]] 
+
+
+
 
 ## pending
-- [x] [[What is Immutable class in java]]
+- [x] [[Generics]]
+- [ ] [[cognizant java and springboot interview questions ]]
+- [ ] [[introduction to docker]]
+- [ ] [[Streaming in java]]
+- [ ] [[SOLID principles]]
+- [x] [[Difference between hashmap and concurrent hashmap]]
+- [ ] [[ Streaming in java ]]
+- [ ] [[More Java Interview Questions 2024]]
+- [ ] [[  unit testing in java with junit 4]]
+- [ ] [[what is Predicate and a function]]
+- [ ] [[Improvement in java date time api in java 8]]
+- [ ] [[overview of java build in annotations]]  -->pending meta annotations 
+- [ ] [[How to create custom annotations in java ]]  --> creation done, usage pending 
+- [x] [[Difference between hashmap and concurrent hashmap]]
 - [ ] [[What is object cloning in java]]
-- [ ] [[sum of square of even number using stream]]
-
-[[clone method in class vs Collections ]]
-
+- [ ] [[output based programs java]]
+- [x] [[Examples of reduce method in java ]] [[What is stream api with examples]]
+- [x] [[What is stream api with examples]]
+- [ ] [[what is map.EntrySet() and Map.Entry in java ]]
+- [ ] [[clone method in class vs Collections ]]
 - [ ] [[multithreading with examples in java]]
-- [ ] **[[What is concurrency in java]]*  
-- [x] [[What is record is java 14]]
-
+- [ ] [[What is concurrency in java]]
 - [ ] [[Create custom immutable class with string and arraylist]]
 - [ ] [[Create custom immutale class with string and Address Object]]
 - [ ] [[why character array is better thatn string to storie password injava]]
-- [x] [[pow function in java ]]
-- [ ] [[primitive datatype in java]]
+- [ ] [[why to use interface if we can use abstract classes]]
+- [ ] [[rollback exception compile time or runtime]]
+- [ ] [[singleton classes and what will happen if i clone the same object]]
+- [ ] [[StringBuffer and StringBuilder in java]]
+- [ ] [[how garbage collector works in java]]
+- [x] [[How to run three threads in java one after another]]
+- [ ] [[How to run multiple threads in java]]
+- [ ] [[real life thread example in java]]
+8. [ ] [[Call by Value and Call by reference in java]]
+9. [ ] [[When to use Abstract classes and when to use Interface]] ?
+4. [ ] [[How to run multiple threads in java]] ?
+5. [ ] [[How to run three threads in java one after another]] ?
+6. [ ] [[What is map and flat map in streams]] ?
+7. [ ] [[What is Default Scope in java]] ? [[What is Scope in beans]]
 
 
 ### Completed
+- [x] [[primitive datatype in java]]
+- [x] [[pow function in java ]]
+- [x] [[What is Immutable class in java]]
+- [x] [[sum of square of even number using stream]]
+- [x] [[Use lambda expression to implement Runnable Interface]]
 - [x] [[jre jdk jvm]]
+- [x] [[use streams with hashmap]]
 - [x] [[What is functional Interface]]
 - [x] [[method references in java]]
 - [x] [[output based programs java]]
@@ -32,6 +67,8 @@
 - [x] [[What are the exceptions in java]]
 - [x] [[Difference between map and flatmap in java]]
 - [x] [[What is Optional , with example]]
+
+
 #### 0630-0700: Java Interview 
 
 	8. What is multithreading how to do multithreading using java
@@ -55,23 +92,7 @@
 	create enum, and how to access the enum
 	object implementing the AutoCloseable interface are closed when it completes
 	pass function inside the function
-- [ ] [[why to use interface if we can use abstract classes]]
-
-- [ ] [[rollback exception compile time or runtime]]
-- [ ] [[singleton classes and what will happen if i clone the same object]]
-- [ ] [[StringBuffer and StringBuilder in java]]
-- [ ] [[how garbage collector works in java]]
-- [ ] [[How to run two threads in java one after another]]
-- [ ] [[How to run multiple threads in java]]
-- [ ] [[real life thread example in java]]
-- [ ] [[How to Synchronize in ArrayList]]
-
-8. [ ] [[Call by Value and Call by reference in java]]
-9. [ ] [[When to use Abstract classes and when to use Interface]] ?
-4. [ ] [[How to run multiple threads in java]] ?
-5. [ ] [[How to run two threads in java one after another]] ?
-6. [ ] [[What is map and flat map in streams]] ?
-7. [ ] [[What is Default Scope in java]] ?
+- 
 8. [ ] 9. [ ] **What is the use of interface**
 10. [ ] What is the Optional
 11. [ ] Can we create final constructor

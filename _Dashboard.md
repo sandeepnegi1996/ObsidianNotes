@@ -1,1 +1,10 @@
 
+[[001_interviews MOC]]
+[[002_microservices MOC]]
+[[003_productivity MOC]]
+[[004_philosphy MOC]]
+[[005_obsidian MOC]]
+[[006_Workout]]
+[[007_Challenges]]
+[[008_Blogs and Videos]]
+[[0010_Miscalenous]]

@@ -1,206 +1,207 @@
 {
   "recentFiles": [
     {
-      "basename": "interview-experiences",
-      "path": "_inbox/interview-experiences.md"
-    },
-    {
-      "basename": "001_interviews MOC",
-      "path": "001_interviews MOC.md"
+      "basename": "multithreading and concurrency in java",
+      "path": "_inbox/multithreading and concurrency in java.md"
     },
     {
       "basename": "JAVA-interviews",
       "path": "_inbox/JOB-Hunt/JAVA-interviews.md"
     },
     {
-      "basename": "Coding Questions",
-      "path": "_inbox/fleeting/Coding Questions.md"
+      "basename": "Use lambda expression to implement Runnable Interface",
+      "path": "_inbox/Use lambda expression to implement Runnable Interface.md"
     },
     {
-      "basename": "find duplicate in an array of N+1 Integers",
-      "path": "_inbox/fleeting/find duplicate in an array of N+1 Integers.md"
+      "basename": "Java Completable Future",
+      "path": "_inbox/Java Completable Future.md"
     },
     {
-      "basename": "Array Coding Problems",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
+      "basename": "ExecutorService and Thread Pools",
+      "path": "_inbox/ExecutorService and Thread Pools.md"
     },
     {
-      "basename": "find Largest sum contiguous Subarray [V. IMP",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/find Largest sum contiguous Subarray [V. IMP.md"
-    },
-    {
-      "basename": "Merge 2 sorted arrays without using Extra space.",
-      "path": "_inbox/Merge 2 sorted arrays without using Extra space..md"
-    },
-    {
-      "basename": "find subarray with sum is equal to zero",
-      "path": "_inbox/find subarray with sum is equal to zero.md"
-    },
-    {
-      "basename": "Write a program to cyclically rotate an array by one",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Write a program to cyclically rotate an array by one.md"
-    },
-    {
-      "basename": "Move all the negative elements to one side of the array",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Move all the negative elements to one side of the array.md"
-    },
-    {
-      "basename": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo.md"
-    },
-    {
-      "basename": "Find the Kth max and min element of an array",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find the Kth max and min element of an array.md"
-    },
-    {
-      "basename": "Comparator Vs Comparable",
-      "path": "slip-box/Comparator Vs Comparable.md"
-    },
-    {
-      "basename": "Find minimum and maximum element in an array",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Find minimum and maximum element in an array.md"
-    },
-    {
-      "basename": "Reverse the Array",
-      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Reverse the Array.md"
-    },
-    {
-      "basename": "450 DSA Cracker",
-      "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
-    },
-    {
-      "basename": "Bit Manipulation",
-      "path": "_inbox/Bit Manipulation.md"
+      "basename": "How to run three threads in java one after another",
+      "path": "_inbox/How to run three threads in java one after another.md"
     },
     {
       "basename": "What is Immutable class in java",
       "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md"
     },
     {
-      "basename": "2022-05-06",
-      "path": "Jorurnaling/2022-05-06.md"
+      "basename": "Thread Synchronization",
+      "path": "_inbox/Thread Synchronization.md"
     },
     {
-      "basename": "2022-05-07",
-      "path": "Jorurnaling/2022-05-07.md"
+      "basename": "How to run multiple threads in java",
+      "path": "_inbox/How to run multiple threads in java.md"
     },
     {
-      "basename": "developig inside a contianer with vscode",
-      "path": "_inbox/developig inside a contianer with vscode.md"
+      "basename": "Difference between hashmap and concurrent hashmap",
+      "path": "_inbox/Difference between hashmap and concurrent hashmap.md"
     },
     {
-      "basename": "sprint-2022-05A",
-      "path": "WorkON/sprint-2022-05A.md"
+      "basename": "multithreading with examples in java",
+      "path": "_inbox/multithreading with examples in java.md"
     },
     {
-      "basename": "PF",
-      "path": "WorkON/completed/PF.md"
+      "basename": "Multithreading and multiprocessing",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/Multithreading and multiprocessing.md"
     },
     {
-      "basename": "sum of square of even number using stream",
-      "path": "_inbox/sum of square of even number using stream.md"
+      "basename": "What is concurrency in java",
+      "path": "_inbox/What is concurrency in java.md"
+    },
+    {
+      "basename": "Senior Software Engineer 2025 interview prep guide",
+      "path": "2025/Senior Software Engineer 2025 interview prep guide.md"
+    },
+    {
+      "basename": "001_interviews MOC",
+      "path": "001_interviews MOC.md"
     },
     {
       "basename": "_Dashboard",
       "path": "_Dashboard.md"
     },
     {
-      "basename": "AWS Services",
-      "path": "_inbox/AWS Services.md"
+      "basename": "everything i wants to do",
+      "path": "everything i wants to do.md"
     },
     {
-      "basename": "template-replies",
-      "path": "_inbox/template-replies.md"
+      "basename": "monthly expense tracker",
+      "path": "_inbox/monthly expense tracker.md"
     },
     {
-      "basename": "2022-05-05",
-      "path": "Jorurnaling/2022-05-05.md"
+      "basename": "How to Become a Better Software Engineer",
+      "path": "_inbox/How to Become a Better Software Engineer.md"
     },
     {
-      "basename": "exotel",
-      "path": "_inbox/exotel.md"
+      "basename": "003_productivity MOC",
+      "path": "003_productivity MOC.md"
     },
     {
-      "basename": "Companies",
-      "path": "_inbox/JOB-Hunt/companies/Companies.md"
+      "basename": "0010_Miscalenous",
+      "path": "0010_Miscalenous.md"
     },
     {
-      "basename": "find smallest and largest substring lexicographically",
-      "path": "_inbox/find smallest and largest substring lexicographically.md"
+      "basename": "008_Blogs and Videos",
+      "path": "008_Blogs and Videos.md"
     },
     {
-      "basename": "String Coding Probems",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/String Coding Probems.md"
+      "basename": "cognizant java and springboot interview questions",
+      "path": "_inbox/cognizant java and springboot interview questions.md"
     },
     {
-      "basename": "primitive datatype in java",
-      "path": "_inbox/primitive datatype in java.md"
+      "basename": "SOLID principles",
+      "path": "_inbox/SOLID principles.md"
     },
     {
-      "basename": "pow function in java",
-      "path": "_inbox/pow function in java.md"
+      "basename": "how string constant pool works under the hood",
+      "path": "_inbox/fleeting/how string constant pool works under the hood.md"
     },
     {
-      "basename": "2022-05-04",
-      "path": "Jorurnaling/2022-05-04.md"
+      "basename": "Types of Memory in java",
+      "path": "_inbox/fleeting/Types of Memory in java.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "templates/Daily Note Template.md"
+      "basename": "how garbage collector works in java",
+      "path": "_inbox/how garbage collector works in java.md"
     },
     {
-      "basename": "e-separation bosch",
-      "path": "WorkON/e-separation bosch.md"
+      "basename": "More Java Interview Questions 2024",
+      "path": "_inbox/More Java Interview Questions 2024.md"
     },
     {
-      "basename": "why character array is better thatn string to storie password injava",
-      "path": "_inbox/why character array is better thatn string to storie password injava.md"
+      "basename": "Streaming in java",
+      "path": "_inbox/Streaming in java.md"
     },
     {
-      "basename": "What is the use of immutable class",
-      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is the use of immutable class.md"
+      "basename": "how to learn faster",
+      "path": "_inbox/how to learn faster.md"
     },
     {
-      "basename": "spring boot interview questions",
-      "path": "_inbox/fleeting/spring boot interview questions.md"
+      "basename": "SOLID",
+      "path": "_inbox/SOLID.md"
     },
     {
-      "basename": "output based programs java",
-      "path": "_inbox/output based programs java.md"
+      "basename": "jre jdk jvm",
+      "path": "_inbox/jre jdk jvm.md"
     },
     {
-      "basename": "@Value",
-      "path": "_inbox/fleeting/@Value.md"
+      "basename": "java core concepts videos 2025",
+      "path": "_inbox/java core concepts videos 2025.md"
     },
     {
-      "basename": "How to improve performance of springboot application",
-      "path": "_inbox/How to improve performance of springboot application.md"
+      "basename": "use streams with hashmap",
+      "path": "_inbox/use streams with hashmap.md"
     },
     {
-      "basename": "Regular Note Template",
-      "path": "templates/Regular Note Template.md"
+      "basename": "Difference between HashMap and HashSet",
+      "path": "_inbox/JOB-Hunt/Interview-Questions-Solutions/Difference between HashMap and HashSet.md"
     },
     {
-      "basename": "What is equals() method in java",
-      "path": "_inbox/fleeting/What is equals() method in java.md"
+      "basename": "What is Linked HashSet",
+      "path": "_inbox/fleeting/What is Linked HashSet.md"
     },
     {
-      "basename": "What is !@Qualifier in springboot",
-      "path": "_inbox/What is !@Qualifier in springboot.md"
+      "basename": "Array Coding Problems",
+      "path": "_inbox/JOB-Hunt/striver-SDE1-sheet/Array Coding Problems.md"
     },
     {
-      "basename": "Simple Springboot REST API with H2",
-      "path": "_inbox/Simple Springboot REST API with H2.md"
+      "basename": "450 DSA Cracker",
+      "path": "_inbox/JOB-Hunt/450 DSA Cracker.md"
     },
     {
-      "basename": "Complete Sprinboot project REST API with MySQL",
-      "path": "_inbox/fleeting/Complete Sprinboot project REST API with MySQL.md"
+      "basename": "linked List coding problems",
+      "path": "_inbox/fleeting/linked List coding problems.md"
     },
     {
-      "basename": "method references in java",
-      "path": "_inbox/method references in java.md"
+      "basename": "2022-04-19",
+      "path": "Jorurnaling/DailyJournal/2022-04-19.md"
+    },
+    {
+      "basename": "Obsidian Shortcuts",
+      "path": "_inbox/OffTopic/obsidian/Obsidian Shortcuts.md"
+    },
+    {
+      "basename": "Datastructure",
+      "path": "_inbox/fleeting/Datastructure.md"
+    },
+    {
+      "basename": "what is XML descriptors and marker interfaces",
+      "path": "_inbox/what is XML descriptors and marker interfaces.md"
+    },
+    {
+      "basename": "Create custom immutale class with string and Address Object",
+      "path": "_inbox/Create custom immutale class with string and Address Object.md"
+    },
+    {
+      "basename": "interview-experiences",
+      "path": "_inbox/interview-experiences.md"
+    },
+    {
+      "basename": "What is dependency injection",
+      "path": "_inbox/fleeting/What is dependency injection.md"
+    },
+    {
+      "basename": "What is setter injector and constructor injection",
+      "path": "_inbox/What is setter injector and constructor injection.md"
+    },
+    {
+      "basename": "Inversion of control",
+      "path": "_inbox/Inversion of control.md"
+    },
+    {
+      "basename": "What is factory design",
+      "path": "_inbox/What is factory design.md"
+    },
+    {
+      "basename": "Service Locator Pattern",
+      "path": "_inbox/Service Locator Pattern.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

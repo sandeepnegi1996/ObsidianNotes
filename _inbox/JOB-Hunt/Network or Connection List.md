@@ -24,7 +24,7 @@
 
 
 ## Contacts for dual remote job and freelance 
-- melaysia remote job : meghana@getrosoft.com [[Companies]]
+- melaysia remote job : meghana@getrosoft.com [[Remote job]]
 	- [ ] contact : 9820348044
 
 

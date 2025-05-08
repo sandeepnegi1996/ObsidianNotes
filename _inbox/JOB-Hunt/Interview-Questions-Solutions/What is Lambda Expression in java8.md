@@ -1,9 +1,12 @@
 # What is Lambda Expression in java8
 
 ## Overview
-- only one abstract method it can have other default methods or static method
+- only one abstract method it can have other default methods or static method --> functional interface
 - **Lambda expression implement the only abstract method in the interface**
 - *lambda expression can represent the instance of the functional interface*
+- lambda expression can be passed as a parameter to another method
+	- Ex : in streams we pass the lambda expression as an arguement in the method
+- if in the body there is only single statement then there is no need for the braces.
 - 
 
 
@@ -23,7 +26,7 @@ class Test
 	public static void main(String args[])
 	{
 		
-		FuncInterface fobj = (int x)->System.out.println(2*x);
+		FuncInterface fobj = (x)->System.out.println(2*x);
 
 		// This calls above lambda expression and prints 10.
 		fobj.abstractFun(5);

@@ -8,20 +8,27 @@ Time is Elastic
 
 #### 4 Ways to Stretch your time
 ---
-##### Use Your Time to Work Toward Achieving Your Best Life
+##### Use Your Time to Work Toward Achieving Your Best Life****
 -  Spend your time only on things that will give you your best life.
 -  Set Milestone to reach that goal
 -  Break Goals, into smaller goals and into smaller chunks and then plan each day to reach or complete that smaller goals.
 
 - [[What is my Best Life Looks Like ]]
+- [[how to break a task into smaller chunks]]
+- [[Things that makes me happy]]
 ---
 
 ##### Apply the Law of Straight Lines.
 - Geometry concept : shortest path between two points is a straight line
-- Similar way to reach Goals, we should take the shortest and most efficient path we should not waste our time on low priority tasks.
+- Similar way to reach Goals, we should take the shortest and most efficient path we should not waste our time on low priority tasks. 
+	- Eat the frog
+	- Means focus on something that is important and urgent , just neglect all the other tasks, once important and urgent tasks are done, then focus on something that is urgent but not important.
 
 - Spending time on low priority tasks
 - chatting with friends online, twittering , aimlessly surfing the internet.
+	- Scrolling facebook, instagram feeds, youtube shorts : and guys I was on the same boat, I have also spent so much time in mindlessly doing these things, 
+	- I still wastes time in these things but now I understood, we should focus on being bored [[how to make yourself bore]] , that will basically reduce the stimulus from our life reduce the dopamine level and so
+		- we will be happy even with smaller things or smaller chunks of happiness that we receive , that is what life is all about :) 
 - Jumping from one activity to another and not completing any of them.
 
 Action Points :

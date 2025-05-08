@@ -7,19 +7,58 @@
 
 ##  Spring boot 
 
+
+### Latest
+
+1. [ ] [[ What is factory design pattern springboot]]
+2. [ ] [[What is Session Factory]]
+3. [ ] [[Singleton design patterns]]
+4. [x] [[what is @Configuration and @ConfigurationProperties]]
+5. [x] [[Inversion of control]]
+
 ### Most Important 
 - [x] [[Complete Sprinboot project REST API with MySQL]]
+- [x] [[introduction to jackson]]
+- [ ] [[what is BOM and dependency meditation in SpringBoot]]
+- [ ] [[maven core plugins ]]
 - [ ] [[Simple Springboot REST API with H2 ]]
+- [x] [[springboot integration tests example]]
+- [ ] [[What is SpringBootTest]]
+- [ ] [[What is  LocalServerPort]]
+- [ ] [[What is TestRestTemplate ]]
+- [ ] [[What is HttpEntity]]
+- [ ] [[Json Assert with false as the last arguement]]
+- [ ] [[How Application.properties works with examples ]]
+- [x] [[unit testing in java with junit 4]]
+
+## The “Testing with Spring Boot” Series
+
+This tutorial is part of a series:
+
+- [ ]  1. [Unit Testing with Spring Boot](https://reflectoring.io/unit-testing-spring-boot/)
+- [ ]  2. [Testing Spring MVC Web Controllers with Spring Boot and `@WebMvcTest`](https://reflectoring.io/spring-boot-web-controller-test/)
+- [ ]  3. [Testing JPA Queries with Spring Boot and `@DataJpaTest`](https://reflectoring.io/spring-boot-data-jpa-test/)
+- [ ]  4. [Testing with Spring Boot and `@SpringBootTest`](https://reflectoring.io/spring-boot-test/)
+
 
 ## Pending 
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] [[What is bean life cycle]]
+5.  [ ] [[What are the annotations used in Spring Data JPA ]]
+6. [ ] [[What is cascading ?]]
+7.  [ ] [[ Can we create custom annotation in springboot]]
+- [ ] [[how spring container manages bean]]
+- [x] [[What is @PostConstruct and @PreDestroy ]]
+- [x] [[What is inside @SpringBootApplication annotation]]
+- [x] [[how to use weblogic or jetty in our springboot application]]
 - [x] [[What is !@Qualifier in springboot]]
 - [ ] [[How to improve performance of springboot application]]
 - [ ] [[What is setter injector and constructor injection]]
-- [ ] [[What is Scope in beans]]
-	4.[[ What is factory design]]
-	7. [[What is Session Factory]]
-	5.  and [[Singleton design patterns]]
-	6. Which version of hibernate you are using 
+- [x] [[What is Scope in beans]]
+
+	6. [ ] Which version of hibernate you are using 
 	7. 6. [ ] [[what is shutdown hook]]
 	8. 7. [ ] [[What is the way to make Async call in sprinboot microservices.]]
 

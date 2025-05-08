@@ -11,8 +11,15 @@
 - [ ] Review todo
 - [ ] Link and review notes
 
-# Relinking notes
+# Relinking and Creating Permanent Notes
 
+
+# Plan for the next week 
+1. Interview
+2. Workout for each day
+
+# Train your brain to do hard things 
+1. [[train your brain to do hard things ]]
 # Interviews 
 - [ ] Check one concept from Driviz Discussion or System Design 
 - [ ] Review [[450 DSA Cracker]]

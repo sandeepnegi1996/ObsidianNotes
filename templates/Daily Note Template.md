@@ -1,57 +1,43 @@
-*Just Perform 1% better then Yesterday*
- 
- *Focus Mode and Pomodoro and TimeBlocking* 
+1. *Just Perform 1% better then Yesterday*
+2. *Focus Mode and Pomodoro and TimeBlocking* 
+3. *Never Reveal*
+4. *Train your brain to do hard things *
+5. *Never Ever Ask anyone for money*
+6. become strongest and richest in your bloodline 
 
- *Never Reveal*
 
+### Morning thoughts
 
+### Gratitude
 
-## Morning thoughts
-
-## Gratitude
-
-## Meeting Log
+### Meeting Log
 
 #### 0000:
 
 
-## Daily Checklist 
+### Daily Checklist 
 
-### Start of Day
+#### Start of Day
 
-- [ ] Check Email
-
-- [ ] Check Calendar - Time Block
-
+- [ ] drink 1l water 
+- [ ] take medicines 
+- [ ] read for 15 mins 
+- [ ] clean your desk and bed and complete room 
 
 ### Daily checklist
+1. prepare meals for tomorrow 
 
-- [ ] Journaling
-- [ ] Apply 5 jobs from the list  [[Companies]] , Insthyre and naukri
-- [ ] Workout
-- [ ] planning for next day
-- [ ] Add items from the TODO list here
-- [ ] Strech 2 times and sit straight
-- [ ] Drink water 
-- [ ] Call any one friend from friend list [[Network or Connection List]]
-- [ ] Remove 5 contact
-- [ ] Delete 10 emails or unsubscribe to some newsletter
-- [ ] Pray for 5 mins , om namah shivay
-- [ ] DCG followed or not 
-- [ ] PMO followed
 
-### Interview Prep
-- [ ] [[450 DSA Cracker]]
-- [ ] Java 
-- [ ] Springboot
-
-### End of Day
+#### End of Day
 - [ ] Check tomorrow's calendar and do time-block
-- [ ] check action required emails
-- [ ] check waiting for response emails 
+- [ ] Clean face and eyes
+- [ ] Clean Desk
 
 
-## Future You
-1. Best life 
-## Daily Review  
+### Journaling 
+1. what went well 
+2. what didn't well 
+3. How we can improve 
+
+
 

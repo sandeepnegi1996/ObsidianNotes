@@ -1,8 +1,10 @@
 {
-  "baseFontSize": 24,
+  "baseFontSize": 17,
   "theme": "obsidian",
-  "cssTheme": "Cybertron",
+  "cssTheme": "Monokai",
   "baseFontSizeAction": true,
   "translucency": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "accentColor": "",
+  "showRibbon": false
 }

@@ -6,9 +6,11 @@
 
 
 ## Key Takeaways
+- 
 
 ## Overview
 - due to java 8 and lambda expression, now we don;t have to use anonymous classes ,
+- [[Anonymous class in java before java 8]]
 - *method references is a lambda expression , they are used to create simple lambda expressions by referencing existing methods*
 - it uses `::` operator always 
 

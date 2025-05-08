@@ -32,3 +32,8 @@
 	2. JVM is responsible to run the java program line by line hence it is known as interpreter
 	3. it will internally do loading and linking
 	4. [[Types of Memory in java]]
+
+
+##### pending 
+https://www.youtube.com/watch?v=KctLuhwFEQ8&ab_channel=CodingwithJohn
+

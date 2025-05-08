@@ -1,2 +1,0 @@
-# WorkOut
-- [ ] [[progressive overload]]

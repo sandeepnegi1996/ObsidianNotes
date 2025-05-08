@@ -1,0 +1,350 @@
+{
+  "main": {
+    "id": "51cfc214d15408a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "02cf3a83211521ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5429fb9ac4234466",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/Senior Software Engineer 2025 interview prep guide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Senior Software Engineer 2025 interview prep guide"
+            }
+          },
+          {
+            "id": "25cc782670b819e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001_interviews MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "001_interviews MOC"
+            }
+          },
+          {
+            "id": "ee65c2b66d973344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/JOB-Hunt/JAVA-interviews.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JAVA-interviews"
+            }
+          },
+          {
+            "id": "8aa4adc8c587e08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/JOB-Hunt/JAVA-interviews.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JAVA-interviews"
+            }
+          },
+          {
+            "id": "d6982d92ad35b8af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/multithreading and concurrency in java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "multithreading and concurrency in java"
+            }
+          },
+          {
+            "id": "799aba39f575055f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/How to run three threads in java one after another.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to run three threads in java one after another"
+            }
+          },
+          {
+            "id": "c69b95b18021aaeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/ExecutorService and Thread Pools.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ExecutorService and Thread Pools"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a4c837fecf16977",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ca0cdb3a385cb0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a33c6de92fc8fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5efe720785950671",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "4772bdc2a27349b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1aff8945c1bcc5cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b5afe0108f5354be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "multithreading and concurrenc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 490.5
+  },
+  "right": {
+    "id": "446b376c3f9369a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f666c68fd125c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c041c70cba207d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d7dca05244e16b36",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ed3bdcf4aa96ef66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb117802a285e060",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5387015ba5ea972c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79699ad35f484176",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "periodic-notes:Open today": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "d6982d92ad35b8af",
+  "lastOpenFiles": [
+    "_inbox/JOB-Hunt/JAVA-interviews.md",
+    "_inbox/Use lambda expression to implement Runnable Interface.md",
+    "_inbox/multithreading and concurrency in java.md",
+    "_inbox/Java Completable Future.md",
+    "_inbox/ExecutorService and Thread Pools.md",
+    "_inbox/How to run three threads in java one after another.md",
+    "_inbox/JOB-Hunt/Interview-Questions-Solutions/What is Immutable class in java.md",
+    "_inbox/Thread Synchronization.md",
+    "_inbox/How to run multiple threads in java.md",
+    "_inbox/Difference between hashmap and concurrent hashmap.md",
+    "_inbox/What is memory space in multithreading.md",
+    "_inbox/multithreading with examples in java.md",
+    "_inbox/JOB-Hunt/Interview-Questions-Solutions/Multithreading and multiprocessing.md",
+    "_inbox/What is concurrency in java.md",
+    "2025/Senior Software Engineer 2025 interview prep guide.md",
+    "001_interviews MOC.md",
+    "_Dashboard.md",
+    "everything i wants to do.md",
+    "_inbox/monthly expense tracker.md",
+    "_inbox/How to Become a Better Software Engineer.md",
+    "Untitled.canvas",
+    "003_productivity MOC.md",
+    "0010_Miscalenous.md",
+    "0012 HydroElectric.md",
+    "0011 In Progress.md",
+    "008_Blogs and Videos.md",
+    "_inbox/Sango life sutras.md",
+    "attachments/Pasted image 20250506114832.png",
+    "attachments/Pasted image 20250430101912.png",
+    "attachments/Pasted image 20250430101853.png",
+    "attachments/Pasted image 20250430101714.png",
+    "attachments/Pasted image 20250430100912.png",
+    "attachments/Pasted image 20250430100547.png",
+    "attachments/Pasted image 20250430100435.png",
+    "attachments/Pasted image 20250430100309.png",
+    "attachments/Pasted image 20250430095150.png",
+    "attachments/Pasted image 20250430094621.png",
+    "attachments/Foojay_Webinar_Java_s_Place_in_the_AI_Revolution_Azul_DeepNetts_April_2025 1.pdf",
+    "attachments/Foojay_Webinar_Java_s_Place_in_the_AI_Revolution_Azul_DeepNetts_April_2025.pdf",
+    "2025/topmate",
+    "2025",
+    "2025/Airflow",
+    "support",
+    "attachments/5 kW solar power plant quotation.pdf",
+    "attachments/~$JobSupportLatest.xlsx",
+    "attachments/JobSupportLatest.xlsx",
+    "templates/JobSupportLatest.xlsx",
+    "_inbox/Untitled 1.canvas",
+    "_inbox/Untitled.canvas"
+  ]
+}

@@ -1,4 +1,4 @@
-# 📑 How string constant pool works under the hood
+# 📑 **How string constant pool works under the hood**
 
 - **🏷️Tags** : #23-04-2022, #review, #reading_list
 
@@ -10,8 +10,8 @@
 ## Overview
 1. String in java is considered as objects.
 2. String is immutable in java, means when there is modification, a new object will be created in string pool constant.
-3. primitive types are stored in stack and non primitive types are stored in heap
-4. whenever we create a new string first JVM will check in the string pool constant
+3. primitive types are stored in stack and non primitive types are stored in heap 
+4. *whenever we create a new string first JVM will check in the string pool constant*
 
 ![[Pasted image 20220423220707.png]]  
 
@@ -72,6 +72,19 @@ String s2=new String("hello");
 
 
 ### Using String.intern() method --> pending 
+1. when we use new keyword object are created in heap memory instead of string pool but when we use intern keyword it will be created in the string pool.
+
+```java
+public class StringPoolExample {
+    public static void main(String[] args) {
+        String str1 = "hello";
+        String str2 = new String("hello").intern();
+
+        // str2 is explicitly added to the string pool
+        System.out.println(str1 == str2); // true
+    }
+}
+```
 
 ---
 

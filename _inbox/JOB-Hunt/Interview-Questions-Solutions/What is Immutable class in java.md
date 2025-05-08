@@ -13,15 +13,15 @@
 1. We cannot modify the member fields once initialized
 2. immutable data is thread safe
 3. 
+4. 
 ## Overview
 - why we create immutable class, since immutable class or *immutable data is thread safe*  and it will help us in multithreading and concurrency
 - immutable objects benefits in concurrency
 *- immutable objects : make sure , we are able to share the data among threads without external synchronization*
-- it offers safe publications of object state.
--
-- [[multithreading with examples in java]]
+- [ ] [[What is concurrency in java]]
+- [ ] [[multithreading with examples in java]]
 - once the object is created we cannot modify the content.
-
+- it offers safe publications of object state.
 
 ### Immutable Objects Examples
 - Example: Wrapper classes (Integer,Boolean,Byte,Short,String)
@@ -40,9 +40,9 @@
 - since we cannot modify immutable objects it will be garbage collected once not required this will pose some performance issue on the garbage collector
 - once modified a new objects needs to be created in case of immutable objects
 - that poses an issue for the garbage collector that will collect the deferenced objects from the memeory
-- Ex: we have immutable date objects, we increment date in our loop.
+- Ex: we have immutable date objects, we increment date in our loop.  ->so everytime a new object will be created in this.
 -  use of immutable is based on design : not advisable in case of counters
-- advantage : immutable data can reduce the locks in multi-threaded app
+- ***advantage : immutable data can reduce the locks in multi-threaded app***
 
 [stackoverflow](https://stackoverflow.com/questions/71455345/performance-of-programs-using-immutable-objects)
 
@@ -234,7 +234,10 @@ ublic class ImmutableDemo {
         address.setSecondLine("Chandani Chawk");
         address.setCity("Delhi");
  
-        // display address from User object
+        // display address from User obj
+        
+        
+        ect
         System.out.println(u.getAddress());
     }
 }
